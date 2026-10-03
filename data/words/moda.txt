@@ -1,0 +1,295 @@
+# id: moda
+# nombre: Ropa y moda
+# icono: 👗
+
+# facil
+Jean
+Camisa
+Musculosa
+Top
+Blusa
+Saco
+Traje
+Smoking
+Chaleco
+Sobretodo
+Impermeable
+Chomba
+Polera
+Cuello de tortuga
+Calza
+Jogging
+Bermuda (pantalón)
+Malla
+Bikini
+Corpiño
+Bombacha
+Camisón
+Bata
+Pantuflas
+Chancletas
+Sandalias
+Tacos altos
+Botas de lluvia
+Mocasines
+Cordones de zapatilla
+Sombrero
+Boina
+Gorro de lana
+Capucha
+Pasamontañas
+Pañuelo
+Pañoleta
+Cuello polar
+Moño
+Tiradores
+Reloj pulsera
+Cadenita
+Dije
+Piercing
+Tatuaje
+Uñas esculpidas
+Flequillo
+Trenzas
+Rastas
+Rodete
+Cola de caballo
+Mohicano
+Peluca
+Extensiones
+Riñonera
+Uniforme
+Disfraz de Halloween
+Vestido de novia
+Velo
+Body
+Enterito
+Overol
+Delantal
+Mameluco
+Camiseta de fútbol
+
+# intermedio
+Desfile
+Colección otoño-invierno
+Fast fashion
+Moda sustentable
+Ropa de segunda mano
+Vintage
+Retro
+Hipster
+Preppy
+Streetwear
+Athleisure
+Normcore
+Old money
+Y2K
+Estilo boho
+Outfit
+Look
+Combinar colores
+Estampado
+Estampado a rayas
+Cuadros escoceses
+Estampado de lunares
+Animal print
+Floreado
+Liso
+Tie-dye
+Denim
+Jean roto
+Jean oxford
+Pantalón palazzo
+Pantalón cargo
+Pantalón de vestir
+Pollera tubo
+Minifalda
+Pollera plisada
+Vestido cruzado
+Vestido de cóctel
+Escote
+Strapless
+Espalda descubierta
+Manga larga
+Crop top
+Corset
+Blazer
+Trench
+Campera de cuero
+Campera inflable
+Parka
+Rompevientos
+Chaleco de lana
+Cárdigan
+Suéter
+Gorra plana
+Bucket hat
+Piluso
+Fedora
+Bombín
+Gorro de cocinero
+Gorro de pescador
+Pañuelo en la cabeza
+Lentes de carey
+Lentes de aviador
+Anillo de compromiso
+Gargantilla
+Choker
+Collar de perlas
+Argollas
+Pulsera de la amistad
+Prendedor
+Pin
+Lentejuelas
+Flecos
+Volados
+Encaje
+Tul
+Gasa
+Seda
+Satén
+Terciopelo
+Pana
+Lino
+Lana
+Cachemira
+Poliéster
+Lycra
+Cuero
+Gamuza
+Charol
+Nylon
+Talle
+Oversize
+Ajustado
+Holgado
+Tiro alto
+Tiro bajo
+Dobladillo
+Ruedo
+Botón de camisa
+Cierre
+Bolsillo
+Costura
+Etiqueta
+Maniquí
+Vidriera de ropa
+Outlet
+Boutique
+Sastrería
+Tintorería
+
+# dificil
+Prêt-à-porter
+Couturier
+Maison
+Atelier
+Patronaje
+Corte al bies
+Plisado
+Fruncido
+Drapeado
+Entretela
+Hombreras
+Ojal
+Presillas
+Remache de jean
+Pespunte
+Overlock
+Ribete
+Canesú
+Puño
+Cuello mao
+Cuello camisero
+Cuello en V
+Cuello barco
+Cuello halter
+Manga murciélago
+Manga farol
+Manga ranglan
+Falda lápiz
+Falda tableada
+Falda acampanada
+Falda pareo
+Pareo
+Sarong
+Kaftán
+Poncho salteño
+Ruana
+Chal
+Estola
+Boa de plumas
+Capa
+Capote
+Gabardina
+Levita
+Frac
+Chaqué
+Corbata de lazo
+Plastrón
+Ascot
+Fajín
+Cummerbund
+Chaleco de traje
+Pisacorbata
+Liguero
+Enagua
+Miriñaque
+Polisón
+Crinolina
+Gorguera
+Jubón
+Toga
+Peplo
+Qipao
+Cheongsam
+Dashiki
+Djellaba
+Abaya
+Niqab
+Chistera
+Canotier
+Sombrero cloché
+Pamela
+Tocado
+Diadema
+Tiara
+Corona de flores
+Peineta
+Mantilla
+Mantón de Manila
+Bata de cola
+Traje de luces
+Montera
+Espadrilles
+Zapato brogue
+Zapato náutico
+Stilettos
+Kitten heels
+Zapato Mary Jane
+Botas texanas
+Botas de montar
+Botas Chelsea
+Borcegos
+Upcycling
+Moda circular
+Slow fashion
+Greenwashing
+Logomanía
+Monograma
+It girl
+Street style
+Fashionista
+Trendsetter
+Pantone
+Color del año
+Colorimetría
+Asesoría de imagen
+Personal shopper
+Armario cápsula
+Marie Kondo
+Placard
+Etiqueta de lavado
+Desteñir
+Pelusa
+Quitapelusas

@@ -1,0 +1,327 @@
+# id: entretenimiento
+# nombre: Entretenimiento
+# icono: 🎡
+
+# facil
+Fiesta
+Baile de egresados
+Show de magia
+Truco de magia
+Conejo en la galera
+Malabares
+Feria de diversiones
+Autitos chocadores
+Tren fantasma
+Casa del terror
+Laberinto de espejos
+Pelotero
+Cama elástica
+Toboganes de agua
+Parque acuático
+Disneylandia
+Disney World
+Universal Studios
+Noche de películas
+Noche de juegos
+Juego de la oca
+Escaleras y serpientes
+Damas chinas
+Generala
+Burako
+Chinchón
+Escoba de quince
+Conga (juego)
+Tabú
+Scrabble
+Clue
+Risk
+TEG
+Estanciero
+Carrera de mente
+Preguntados
+Basta
+Mímica
+Charadas
+Verdad o consecuencia
+Botella giratoria
+Yo nunca nunca
+Juego de la silla
+Gallito ciego
+Rondas infantiles
+Saltar la cuerda
+Elástico
+Payana
+Trompito
+Castillo de arena
+Pescar con caña
+Previa
+After
+Fiesta temática
+Fiesta de disfraces
+Fiesta de espuma
+Bar
+Pub
+Discoteca
+Pista de baile
+Bola de espejos
+Barra libre
+Patovica
+Pulsera VIP
+Lista de invitados
+
+# intermedio
+Stand-up comedy
+Monólogo
+Improvisación
+Teatro de improvisación
+Café concert
+Varieté
+Cabaret
+Burlesque
+Vodevil
+Comedia musical
+Teatro infantil
+Teatro de títeres
+Teatro de sombras
+Teatro callejero
+Estatua viviente
+Artista callejero
+Músico callejero
+Hombre orquesta
+Escapista
+Hipnosis
+Mentalismo
+Ilusionismo
+Faquir
+Tragasables
+Escupefuego
+Zancos
+Monociclista
+Contorsionista
+Hombre bala
+Mujer barbuda
+Cirque du Soleil
+Feria de artesanías
+Mercado de pulgas
+Feria de Tristán Narvaja
+Paseo de compras
+Cine al aire libre
+Concierto acústico
+Unplugged
+Velada
+Tertulia
+Peña folclórica
+Baile de salón
+Clases de baile
+Flashmob
+Batalla de baile
+Breakdance
+Vogue
+Twerking
+La Macarena
+Ketchup song
+Cotillón
+Hora loca
+Corso
+Desfile inaugural
+LARP
+Cosplay
+Comic-Con
+Convención de anime
+Club de lectura
+Taller literario
+Quiz show
+Show de talentos
+Concurso de belleza
+Miss Universo
+Reina del carnaval
+Desfile de modas
+Pasarela
+Fashion week
+Gala
+Entrega de premios
+Fiesta electrónica
+Rave
+Festival de verano
+Fiesta del pueblo
+Verbena
+Guitarreada
+Asado con amigos
+Juntada
+Sobremesa larga
+Escapada de fin de semana
+Mochilero
+Viaje en carpa
+Glamping
+Hostel
+Crucero de lujo
+Todo incluido
+Resort
+Spa
+Termas
+Sauna
+Jacuzzi
+Masajes
+Día de playa
+Partido de truco
+Envido
+Flor (truco)
+Quiero vale cuatro
+Retruco
+Falta envido
+Muestra (truco)
+Ancho de espadas
+Siete de oro
+Escalera real
+Póquer de ases
+Full house
+Color (póker)
+Ruleta rusa
+Bacará
+Dados de casino
+Hipódromo
+Apuesta
+Apuestas deportivas
+Fantasy football
+Prode
+Quiniela deportiva
+Laser tag
+Paintball
+Metegol
+Pinball
+Arcade
+Fichines
+Máquina de peluches
+Karting indoor
+Trampolín park
+Tirolesa
+Canopy
+Puenting
+Simulador de vuelo
+
+# dificil
+Commedia dell'arte
+Arlequín
+Pierrot
+Colombina
+Polichinela
+Guiñol
+Teatro kabuki
+Teatro noh
+Bunraku
+Ópera china
+Teatro griego
+Tragedia griega
+Coro griego
+Catarsis
+Teatro del absurdo
+Teatro épico
+Brecht
+Stanislavski
+Método Strasberg
+Actors Studio
+Broadway
+West End
+Off-Broadway
+Fringe
+Festival de Edimburgo
+Festival de Aviñón
+Teatro El Galpón
+Teatro Circular
+Comedia Nacional
+Sala Verdi
+Auditorio del Sodre
+Sodre
+Ballet Nacional
+Julio Bocca
+Teatro Stella
+Microteatro
+Teatro foro
+Psicodrama
+Clown
+Marcel Marceau
+Harry Houdini
+David Copperfield
+David Blaine
+Juan Tamariz
+René Lavand
+Penn y Teller
+Siegfried y Roy
+Corte en dos
+Levitación
+Desaparición
+Carta elegida
+Prestidigitación
+Pase mágico
+Sombrero de copa
+Varita mágica
+Abracadabra
+Ventriloquía
+Muñeco de ventrílocuo
+Titiritero de guante
+Marioneta de hilo
+Muppets
+Tablado de barrio
+Negros y lubolos
+Mama vieja
+Gramillero
+Escobero
+Vedette
+Cuerda de lonjas
+Lonja
+Templar los tambores
+Llamadas de San Baltasar
+Carnaval de las Promesas
+Sambódromo
+Carroza
+Carnaval de Artigas
+Carnaval de Melo
+Fiesta de la Leche
+Fiesta del Olivo
+Noche de los museos
+Noche Blanca
+Bienal de Montevideo
+Primavera 0
+Café Brasilero
+Sala Zitarrosa
+Joda
+Vals de los novios
+Liga de la novia
+Ramo de novia
+Lluvia de arroz
+Torta de casamiento
+Carioca (cartas)
+Rummy
+Canasta (cartas)
+Mus
+Tute
+Siete y medio
+Solitario
+Corazones (cartas)
+Bridge
+Gin rummy
+Mahjong
+Go (juego)
+Shogi
+Backgammon
+Mancala
+Senet
+Catán
+Carcassonne
+Dixit
+Codenames
+Exploding Kittens
+Dobble
+Ticket to Ride
+Dungeons & Dragons
+Magic: The Gathering
+Yu-Gi-Oh!
+Cartas Pokémon
+Warhammer
+Tangram
+Torre de Hanói
+Laberinto de bolitas
+Mecano (juguete)
+Ladrillitos
+Kinder sorpresa
+Cajita feliz

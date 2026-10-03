@@ -1,0 +1,455 @@
+# id: acciones
+# nombre: Acciones y verbos
+# icono: 🏃
+
+# facil
+Correr
+Saltar
+Caminar
+Nadar
+Volar
+Bailar
+Cantar
+Dormir
+Despertarse
+Comer
+Beber
+Cocinar
+Lavar los platos
+Planchar
+Dibujar
+Pintar las uñas
+Escribir
+Leer
+Estudiar
+Llorar
+Reír
+Sonreír
+Gritar
+Susurrar
+Silbar
+Aplaudir
+Abrazar
+Besar
+Saludar con la mano
+Señalar
+Empujar
+Tirar de una cuerda
+Patear
+Lanzar
+Atrapar
+Esquivar
+Trepar
+Gatear
+Arrastrarse
+Rodar
+Girar
+Agacharse
+Estirarse
+Bostezar
+Estornudar
+Toser
+Rascarse
+Peinarse
+Maquillarse
+Afeitarse
+Ducharse
+Bañarse
+Vestirse
+Desvestirse
+Atarse los cordones
+Ponerse los zapatos
+Abrir la puerta
+Cerrar con llave
+Tocar el timbre
+Llamar por teléfono
+Mandar un mensaje
+Sacar una foto
+Grabar un video
+Mirar la tele
+Escuchar música
+Jugar a la pelota
+Andar en bicicleta
+Manejar
+Estacionar
+Esperar
+Apurarse
+Llegar tarde
+Perderse
+Buscar
+Encontrar
+Esconderse
+Espiar
+Robar
+Mentir
+Prometer
+Pedir perdón
+Regalar
+Prestar
+Devolver
+Comprar
+Vender
+Pagar
+Gastar
+Regatear
+Hacer la cama
+Ordenar el cuarto
+Tender la ropa
+Colgar un cuadro
+Regar las plantas
+Pasear al perro
+Darle de comer al gato
+Ir al baño
+Cepillarse los dientes
+Hacer gárgaras
+Tomar mate
+Cebar mate
+Prender el fuego
+Hacer un asado
+Tirar la basura
+Reciclar
+Mudarse
+
+# intermedio
+Tartamudear
+Balbucear
+Murmurar
+Tararear
+Rapear
+Hacer beatbox
+Imitar
+Actuar
+Fingir
+Disimular
+Exagerar
+Presumir
+Chusmear
+Cuchichear
+Coquetear
+Seducir
+Enamorarse
+Declararse
+Pedir matrimonio
+Arrodillarse
+Brindar
+Festejar
+Celebrar un gol
+Hacer una ola
+Abuchear
+Gesticular
+Encogerse de hombros
+Guiñar un ojo
+Fruncir el ceño
+Poner los ojos en blanco
+Morderse las uñas
+Morderse el labio
+Tronarse los dedos
+Hacer crujir el cuello
+Chasquear los dedos
+Tamborilear
+Golpear la mesa
+Dar un portazo
+Patalear
+Hacer berrinche
+Hacer puchero
+Sollozar
+Suspirar
+Jadear
+Resoplar
+Roncar
+Soñar despierto
+Tener una pesadilla
+Sonambular
+Desmayarse
+Marearse
+Tropezar
+Resbalar
+Caerse
+Torcerse el tobillo
+Ponerse colorado
+Sonrojarse
+Transpirar
+Temblar
+Tiritar de frío
+Abanicarse
+Taparse los oídos
+Taparse la nariz
+Olfatear
+Saborear
+Masticar
+Tragar
+Atragantarse
+Eructar
+Picar entre horas
+Merendar
+Desayunar
+Almorzar
+Cenar
+Freír
+Hervir
+Asar
+Rallar
+Picar cebolla
+Pelar papas
+Batir huevos
+Amasar
+Untar
+Exprimir
+Revolver
+Probar la comida
+Servir la mesa
+Levantar la mesa
+Lavar la ropa
+Doblar la ropa
+Coser un botón
+Tejer
+Bordar
+Clavar un clavo
+Atornillar
+Serruchar
+Lijar
+Pintar una pared
+Empapelar
+Aspirar
+Trapear
+Sacudir el polvo
+Desatascar
+Destapar una botella
+Descorchar
+Envolver un regalo
+Abrir un regalo
+Soplar las velitas
+Pedir un deseo
+Cortar la torta
+Inflar un globo
+Reventar un globo
+Hacer un barrilete
+Remontar un barrilete
+Saltar a la cuerda
+Hacer la vertical
+Hacer la medialuna
+Hacer flexiones
+Hacer abdominales
+Hacer sentadillas
+Elongar
+Trotar
+Esprintar
+Patinar
+Acampar
+Armar la carpa
+Hacer dedo
+Viajar
+Hacer la valija
+Despedirse
+Recibir visitas
+Dar la bienvenida
+Golpear la puerta
+Espiar por la mirilla
+Hacerse el muerto
+Tomar sol
+Broncearse
+Ponerse protector
+Zambullirse
+Flotar
+Hundirse
+Ahogarse
+Rescatar
+Salvar
+Ayudar a cruzar la calle
+Dar indicaciones
+Pedir indicaciones
+Negociar
+Convencer
+Discutir
+Pelearse
+Reconciliarse
+Pedir la cuenta
+Dejar propina
+Hacer un pedido
+Pedir delivery
+Recargar el celular
+Cargar el celular
+Actualizar el celular
+Desbloquear el celular
+Hacer scroll
+Dar like
+Comentar
+Publicar
+Etiquetar a alguien
+Bloquear a alguien
+Hacer zapping
+Hacer maratón de series
+Pausar
+Adelantar
+Votar
+Firmar
+Sellar
+Fotocopiar
+Escanear
+
+# dificil
+Procrastinar
+Divagar
+Elucubrar
+Rumiar
+Contemplar
+Reflexionar
+Deliberar
+Titubear
+Vacilar
+Claudicar
+Capitular
+Rendirse
+Abdicar
+Renunciar
+Dimitir
+Delegar
+Extorsionar
+Chantajear
+Estafar
+Malversar
+Contrabandear
+Falsificar
+Plagiar
+Machetear
+Soplar en un examen
+Fugarse
+Evadirse
+Escabullirse
+Merodear
+Acechar
+Emboscar
+Asediar
+Saquear
+Desmantelar
+Demoler
+Derrumbar
+Excavar
+Desenterrar
+Sepultar
+Embalsamar
+Momificar
+Hibernar
+Migrar
+Mudar la piel
+Incubar
+Eclosionar
+Germinar
+Florecer
+Marchitarse
+Podar
+Injertar
+Cosechar
+Arar
+Sembrar
+Fumigar
+Ordeñar
+Esquilar
+Herrar un caballo
+Ensillar
+Domar
+Arrear
+Pastorear
+Carnear
+Charquear
+Curtir cuero
+Trenzar
+Hilar
+Teñir
+Blanquear
+Almidonar
+Zurcir
+Remendar
+Hilvanar
+Soldar
+Forjar
+Fundir
+Moldear
+Esculpir
+Tallar
+Grabar en madera
+Pulir
+Lustrar
+Encerar
+Barnizar
+Calafatear
+Atracar un barco
+Zarpar
+Fondear
+Naufragar
+Encallar
+Izar la bandera
+Arriar la bandera
+Desfilar
+Marchar
+Hacer la venia
+Formar fila
+Acuartelarse
+Desertar
+Amotinarse
+Sublevarse
+Conspirar
+Infiltrarse
+Interceptar
+Descifrar
+Desenchufar
+Enchufar
+Conectar
+Sincronizar
+Subir un archivo
+Adjuntar
+Reenviar un mail
+Responder a todos
+Teletrabajar
+Desconectarse
+Levitar
+Teletransportarse
+Hipnotizar
+Adivinar
+Predecir
+Augurar
+Bendecir
+Maldecir
+Exorcizar
+Rezar
+Confesarse
+Comulgar
+Peregrinar
+Bautizar
+Apadrinar
+Adoptar
+Amamantar
+Acunar
+Arrullar
+Mecer
+Hacer upa
+Malcriar
+Retar
+Castigar
+Premiar
+Felicitar
+Elogiar
+Halagar
+Adular
+Criticar
+Reprochar
+Recriminar
+Calumniar
+Difamar
+Desmentir
+Retractarse
+Rectificar
+Enmendar
+Reformular
+Parafrasear
+Resumir
+Sintetizar
+Argumentar
+Refutar
+Rebatir
+Contraargumentar
+Interrumpir
+Moderar un debate
+Arbitrar
+Mediar
+Conciliar

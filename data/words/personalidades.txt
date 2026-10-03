@@ -1,0 +1,713 @@
+# id: personalidades
+# nombre: Personalidades
+# icono: ⭐
+
+# facil
+Lionel Messi
+Cristiano Ronaldo
+Luis Suárez
+Edinson Cavani
+Diego Forlán
+Federico Valverde
+Darwin Núñez
+Ronald Araujo
+José María Giménez
+Diego Godín
+Fernando Muslera
+Óscar Tabárez
+Marcelo Bielsa
+Diego Maradona
+Pelé
+Neymar
+Kylian Mbappé
+Erling Haaland
+Vinícius Júnior
+Lamine Yamal
+Zinedine Zidane
+Ronaldinho
+Michael Jordan
+LeBron James
+Stephen Curry
+Kobe Bryant
+Usain Bolt
+Rafael Nadal
+Roger Federer
+Novak Djokovic
+Serena Williams
+Lewis Hamilton
+Franco Colapinto
+Tiger Woods
+Mike Tyson
+Muhammad Ali
+Albert Einstein
+Charles Darwin
+Thomas Edison
+Steve Jobs
+Bill Gates
+Mark Zuckerberg
+Elon Musk
+Jeff Bezos
+Walt Disney
+Papa Francisco
+Juan Pablo II
+Barack Obama
+Donald Trump
+Joe Biden
+Reina Isabel II
+Rey Carlos III
+Princesa Diana
+José Mujica
+Tabaré Vázquez
+Luis Lacalle Pou
+Yamandú Orsi
+Javier Milei
+Lula
+Will Smith
+Dwayne Johnson
+Jennifer Aniston
+Jennifer López
+Kim Kardashian
+Kylie Jenner
+Selena Gomez
+Miley Cyrus
+Ibai Llanos
+El Rubius
+Auronplay
+Mr. Beast
+Luisito Comunica
+Susana Giménez
+Marcelo Tinelli
+Mirtha Legrand
+Diego Lugano
+Mónica Navarro
+Petinatti
+China Suárez
+Wanda Nara
+Antonela Roccuzzo
+Piqué
+
+# intermedio
+Enzo Francescoli
+Álvaro Recoba
+Paolo Montero
+Sebastián Abreu
+Obdulio Varela
+Alcides Ghiggia
+Juan Alberto Schiaffino
+Héctor Scarone
+José Nasazzi
+Fernando Morena
+Rodolfo Rodríguez
+Nicolás Lodeiro
+Giorgian De Arrascaeta
+Rodrigo Bentancur
+Manuel Ugarte
+Facundo Pellistri
+Mathías Olivera
+Sergio Rochet
+Maximiliano Araújo
+Lucas Torreira
+Gastón Ramírez
+Martín Cáceres
+Egidio Arévalo Ríos
+Cristian Rodríguez
+Walter Pandiani
+Marcelo Gallardo
+Diego Simeone
+Pep Guardiola
+José Mourinho
+Carlo Ancelotti
+Jürgen Klopp
+Alex Ferguson
+Johan Cruyff
+Franz Beckenbauer
+Ronaldo Nazário
+Kaká
+Luka Modrić
+Andrés Iniesta
+Xavi Hernández
+Sergio Ramos
+Iker Casillas
+Gianluigi Buffon
+Paolo Maldini
+Andrea Pirlo
+Francesco Totti
+Thierry Henry
+Wayne Rooney
+David Beckham
+Mohamed Salah
+Kevin De Bruyne
+Harry Kane
+Robert Lewandowski
+Jude Bellingham
+Julián Álvarez
+Emiliano Martínez
+Ángel Di María
+Rodrigo De Paul
+Enzo Fernández
+Alexis Mac Allister
+Lautaro Martínez
+Sergio Agüero
+Carlos Tevez
+Juan Román Riquelme
+Gabriel Batistuta
+Mario Kempes
+Martín Palermo
+Luis Scola
+Manu Ginóbili
+Facundo Campazzo
+Esteban Batista
+Bruno Fitipaldo
+Shaquille O'Neal
+Magic Johnson
+Larry Bird
+Kareem Abdul-Jabbar
+Giannis Antetokounmpo
+Luka Dončić
+Victor Wembanyama
+Kevin Durant
+Tom Brady
+Michael Phelps
+Simone Biles
+Nadia Comăneci
+Carl Lewis
+Jesse Owens
+Eliud Kipchoge
+Carlos Alcaraz
+Jannik Sinner
+Juan Martín del Potro
+Gabriela Sabatini
+Guillermo Vilas
+Pablo Cuevas
+Ayrton Senna
+Michael Schumacher
+Max Verstappen
+Fernando Alonso
+Juan Manuel Fangio
+Valentino Rossi
+Conor McGregor
+Floyd Mayweather
+Manny Pacquiao
+Canelo Álvarez
+Chino Maidana
+Deborah Rodríguez
+Julia Paternain
+Emiliano Lasa
+Bruno Cetraro
+Las Leonas (hockey)
+All Blacks
+Los Pumas (rugby)
+Los Teros (rugby)
+Aristóteles
+Platón
+Sócrates
+Confucio
+Buda
+Mahoma
+Karl Marx
+Sigmund Freud
+Friedrich Nietzsche
+René Descartes
+Immanuel Kant
+Jean-Jacques Rousseau
+Voltaire
+Maquiavelo
+Adam Smith
+John Maynard Keynes
+Hermanos Wright
+Graham Bell
+Guglielmo Marconi
+Henry Ford
+Louis Pasteur
+Florence Nightingale
+Madre Teresa de Calcuta
+Malala Yousafzai
+Greta Thunberg
+Rigoberta Menchú
+Michelle Bachelet
+Dilma Rousseff
+Cristina Kirchner
+Mauricio Macri
+Néstor Kirchner
+Alberto Fernández
+Hugo Chávez
+Nicolás Maduro
+Evo Morales
+Gabriel Boric
+Gustavo Petro
+Andrés Manuel López Obrador
+Claudia Sheinbaum
+Jair Bolsonaro
+Lucía Topolansky
+Danilo Astori
+Jorge Batlle
+Julio María Sanguinetti
+Luis Alberto Lacalle
+Wilson Ferreira Aldunate
+Líber Seregni
+Raúl Sendic
+Carolina Cosse
+Álvaro Delgado
+Andrés Ojeda
+Guido Manini Ríos
+Vladimir Putin
+Volodímir Zelenski
+Xi Jinping
+Kim Jong-un
+Emmanuel Macron
+Angela Merkel
+Boris Johnson
+Pedro Sánchez
+Giorgia Meloni
+Justin Trudeau
+Benjamin Netanyahu
+Kamala Harris
+Hillary Clinton
+Bill Clinton
+George W. Bush
+Ronald Reagan
+Margaret Thatcher
+Charles de Gaulle
+Oprah Winfrey
+Ellen DeGeneres
+Jimmy Fallon
+Conan O'Brien
+Jim Carrey
+Adam Sandler
+Ben Stiller
+Eddie Murphy
+Robin Williams
+Keanu Reeves
+Tom Cruise
+Tom Holland
+Zac Efron
+Ryan Reynolds
+Ryan Gosling
+Chris Hemsworth
+Chris Evans
+Robert Downey Jr.
+Emma Watson
+Daniel Radcliffe
+Jennifer Lawrence
+Anne Hathaway
+Natalie Portman
+Nicole Kidman
+Julia Roberts
+Sandra Bullock
+Penélope Cruz
+Salma Hayek
+Sofía Vergara
+Eva Longoria
+Gael García Bernal
+Diego Luna
+Antonio Banderas
+Javier Bardem
+Úrsula Corberó
+Álvaro Morte
+Jenna Ortega
+Millie Bobby Brown
+Sydney Sweeney
+Florence Pugh
+Anya Taylor-Joy
+Paul Mescal
+Austin Butler
+Cillian Murphy
+Morgan Freeman
+Samuel L. Jackson
+Arnold Schwarzenegger
+Sylvester Stallone
+Bruce Willis
+Jackie Chan
+Bruce Lee
+Mr. Bean
+Chespirito
+Cantinflas
+Tato Bores
+Les Luthiers
+Antonio Gasalla
+Diego Torres
+Ricardo Arjona
+Alejandro Fernández
+Cristian Castro
+Thalía
+Paulina Rubio
+Gloria Trevi
+Chayanne
+Romeo Santos
+Nicky Jam
+Wisin y Yandel
+Don Omar
+Pitbull
+Residente
+Calle 13
+Kendall Jenner
+Khloé Kardashian
+Kris Jenner
+Paris Hilton
+Hailey Bieber
+Gigi Hadid
+Bella Hadid
+Cara Delevingne
+Gisele Bündchen
+Naomi Campbell
+Kate Moss
+Heidi Klum
+Coco Chanel
+Karl Lagerfeld
+Gianni Versace
+Giorgio Armani
+Donatella Versace
+Virgil Abloh
+Travis Scott
+Post Malone
+Doja Cat
+Cardi B
+Nicki Minaj
+Megan Thee Stallion
+SZA
+Sabrina Carpenter
+Chappell Roan
+Charli XCX
+Benson Boone
+Shawn Mendes
+Camila Cabello
+Demi Lovato
+Nick Jonas
+Jonas Brothers
+One Direction
+Zayn Malik
+Louis Tomlinson
+Niall Horan
+Liam Payne
+Backstreet Boys
+NSYNC
+Spice Girls
+Jungkook
+Lisa (Blackpink)
+Jennie
+Rosé
+Coscu
+Spreen
+TheGrefg
+Vegetta777
+Willyrex
+Fernanfloo
+Germán Garmendia
+Dross
+Juanpa Zurita
+Lele Pons
+Kimberly Loaiza
+Domelipa
+Charli D'Amelio
+Khaby Lame
+Addison Rae
+Bella Poarch
+Pewdiepie
+Markiplier
+KSI
+Logan Paul
+Jake Paul
+Ninja (streamer)
+Kai Cenat
+IShowSpeed
+xQc
+Kings League
+Georgina Rodríguez
+Victoria Beckham
+Juan Carlos Ferrero
+Sebastián Yatra
+Manuel Turizo
+Camilo
+Evaluna
+Mau y Ricky
+Kany García
+Nathy Peluso
+Quevedo (cantante)
+Aitana
+Lola Índigo
+Ana Mena
+C. Tangana
+
+# dificil
+Juan Ramón Carrasco
+Pablo Bengoechea
+Rubén Sosa
+Carlos Aguilera
+Antonio Alzamendi
+Ruben Paz
+Nelson Gutiérrez
+Hugo de León
+Atilio García
+Pedro Rocha
+Ladislao Mazurkiewicz
+Roque Máspoli
+Isabelino Gradín
+Atilio Ancheta
+Darío Silva
+Marcelo Zalayeta
+Richard Morales
+Gustavo Poyet
+Pablo García
+Walter Gargano
+Maxi Pereira
+Álvaro Pereira
+Jorge Fucile
+Andrés Scotti
+Fernando Gago
+Nicolás Olivera
+Andrés D'Alessandro
+Javier Zanetti
+Juan Sebastián Verón
+Ariel Ortega
+Pablo Aimar
+Fernando Redondo
+Diego Milito
+Hernán Crespo
+Daniel Passarella
+Ubaldo Fillol
+Carlos Bilardo
+César Luis Menotti
+Alfio Basile
+Lionel Scaloni
+Tite
+Dunga
+Romário
+Rivaldo
+Roberto Carlos
+Cafú
+Zico
+Sócrates (futbolista)
+Garrincha
+Jairzinho
+Eusébio
+George Best
+Bobby Charlton
+Michel Platini
+Marco van Basten
+Ruud Gullit
+Lothar Matthäus
+Gerd Müller
+Lev Yashin
+Alfredo Di Stéfano
+Ferenc Puskás
+Gheorghe Hagi
+Hristo Stoichkov
+Roberto Baggio
+Zlatan Ibrahimović
+Didier Drogba
+Samuel Eto'o
+Andriy Shevchenko
+Luís Figo
+Raúl González
+Fernando Torres
+David Villa
+Arjen Robben
+Franck Ribéry
+Karim Benzema
+Antoine Griezmann
+Luis Enrique
+Mauricio Pochettino
+Unai Emery
+Arsène Wenger
+Jorge Fossati
+Gustavo Matosas
+Diego Aguirre
+Paulo Pezzolano
+Nahitan Nández
+Matías Vecino
+Federico Viñas
+Agustín Canobbio
+Brian Rodríguez
+Maximiliano Gómez
+Luciano Rodríguez
+Hugo Lloris
+Manuel Neuer
+Thibaut Courtois
+Kasper Schmeichel
+Dino Zoff
+Wilt Chamberlain
+Bill Russell
+Tim Duncan
+Dirk Nowitzki
+Allen Iverson
+Dennis Rodman
+Scottie Pippen
+Carmelo Anthony
+James Harden
+Russell Westbrook
+Nikola Jokić
+Joel Embiid
+Ja Morant
+Anthony Edwards
+Jayson Tatum
+Jimmy Butler
+Pau Gasol
+Marc Gasol
+Oscar Schmidt
+Tony Hawk
+Kelly Slater
+Shaun White
+Lindsey Vonn
+Mikaela Shiffrin
+Eddy Merckx
+Lance Armstrong
+Tadej Pogačar
+Jonas Vingegaard
+Miguel Induráin
+Nairo Quintana
+Egan Bernal
+Garry Kasparov
+Bobby Fischer
+Magnus Carlsen
+Judit Polgár
+Evander Holyfield
+George Foreman
+Joe Frazier
+Óscar de la Hoya
+Julio César Chávez
+Carlos Monzón
+Ringo Bonavena
+Nicolino Locche
+Sergio Martínez (boxeador)
+Ronda Rousey
+Khabib Nurmagomédov
+Jon Jones
+Alex Pereira
+Hulk Hogan
+The Undertaker
+John Cena
+Rey Mysterio
+Stone Cold
+La Momia Blanca
+Martín Karadagian
+Titanes en el Ring
+Hipatia
+Tales de Mileto
+Heráclito
+Demócrito
+Epicuro
+Diógenes
+Séneca
+Marco Aurelio
+Cicerón
+Plotino
+Averroes
+Avicena
+Maimónides
+Erasmo
+Tomás Moro
+Montaigne
+Spinoza
+Leibniz
+Hume
+John Locke
+Thomas Hobbes
+Hegel
+Schopenhauer
+Kierkegaard
+Heidegger
+Wittgenstein
+Hannah Arendt
+Michel Foucault
+Jacques Derrida
+Noam Chomsky
+Slavoj Žižek
+Byung-Chul Han
+Yuval Noah Harari
+Carl Sagan
+Neil deGrasse Tyson
+Richard Dawkins
+Jane Goodall
+David Attenborough
+Jacques Cousteau
+Rachel Carson
+Rosalind Franklin
+Watson y Crick
+Max Planck
+Niels Bohr
+Werner Heisenberg
+Erwin Schrödinger
+Richard Feynman
+Enrico Fermi
+J. Robert Oppenheimer
+Lise Meitner
+Edwin Hubble
+Johannes Kepler
+Tycho Brahe
+Clemente Estable
+Roberto Caldeyro Barcia
+Rafael Radi
+Gonzalo Moratorio
+Dámaso Antonio Larrañaga
+Carlos Vaz Ferreira
+Paulina Luisi
+Luisa Cuesta
+María Abella
+Alfred Nobel
+Andrew Carnegie
+John D. Rockefeller
+J. P. Morgan
+Warren Buffett
+George Soros
+Larry Page
+Sergey Brin
+Sundar Pichai
+Satya Nadella
+Tim Cook
+Jensen Huang
+Sam Altman
+Dario Amodei
+Jack Ma
+Marcos Galperin
+Eduardo Costantini
+Martín Varsavsky
+Steve Wozniak
+Paul Allen
+Julian Assange
+Edward Snowden
+Anonymous
+Yoko Ono
+Jim Morrison
+Janis Joplin
+Sid Vicious
+Ozzy Osbourne
+Lemmy
+Slash
+Axl Rose
+Dave Grohl
+Chris Cornell
+Chester Bennington
+Avril Lavigne
+Britney Spears
+Christina Aguilera
+Mariah Carey
+Céline Dion
+Shania Twain
+Dolly Parton
+Cher
+Tina Turner
+Diana Ross
+James Brown
+Marvin Gaye
+Nina Simone
+Billie Holiday
+Miles Davis
+John Coltrane
+Charlie Parker
+Duke Ellington
+Count Basie
+Quincy Jones
+Pharrell Williams
+Timbaland
+Dr. Dre
+Jay-Z
+Kendrick Lamar
+Tyler, the Creator
+Frank Ocean
+Childish Gambino
+Mac Miller
+XXXTentacion
+Juice WRLD
+Lil Peep
+Lil Nas X
+21 Savage

@@ -1,0 +1,430 @@
+# id: geografia
+# nombre: Geografía
+# icono: 🗺️
+
+# facil
+Montaña
+Volcán
+Río
+Lago
+Mar
+Océano
+Playa
+Isla
+Desierto
+Selva
+Bosque
+Cascada
+Cueva
+Valle
+Colina
+Llanura
+Glaciar
+Continente
+Polo Norte
+Polo Sur
+Arena
+Duna
+Ola
+Costa
+Puerto
+Bahía
+Península
+Río de la Plata
+Río Uruguay
+Océano Atlántico
+Océano Pacífico
+Cordillera de los Andes
+Amazonas
+Sahara
+Monte Everest
+Antártida
+América
+Europa
+Asia
+África
+Oceanía
+Mar Mediterráneo
+Caribe
+Cataratas del Iguazú
+Pampa
+Laguna
+Arroyo
+Charco
+Barranco
+Acantilado
+Cerro
+Cumbre
+Pico nevado
+Nieve
+Hielo
+Iceberg
+Tormenta
+Huracán
+Tornado
+Terremoto
+Tsunami
+Inundación
+Sequía
+Lluvia
+Arcoíris
+Nube
+Viento
+Rayo
+Trueno
+Granizo
+Niebla
+Frontera
+Capital
+Ciudad
+Pueblo
+Campo
+Barrio
+Hemisferio
+Norte
+Sur
+Este
+Oeste
+
+# intermedio
+Meseta
+Estepa
+Tundra
+Sabana africana
+Pradera
+Humedal
+Pantano
+Delta
+Estuario
+Desembocadura
+Afluente
+Naciente
+Cuenca
+Archipiélago
+Istmo
+Estrecho
+Golfo
+Cabo
+Atolón
+Arrecife
+Fiordo
+Cañón
+Géiser
+Oasis
+Médano
+Albufera
+Bañado
+Quebrada
+Sierra
+Cuchilla
+Altiplano
+Puna
+Trópico de Capricornio
+Trópico de Cáncer
+Línea del Ecuador
+Meridiano de Greenwich
+Latitud
+Longitud
+Paralelo
+Meridiano
+Huso horario
+Altitud
+Relieve
+Erosión
+Placa tectónica
+Falla de San Andrés
+Cinturón de Fuego del Pacífico
+Magma
+Lava
+Cráter
+Monte Fuji
+Kilimanjaro
+Aconcagua
+Mont Blanc
+Himalaya
+Alpes
+Pirineos
+Montañas Rocosas
+Montes Urales
+Río Nilo
+Río Misisipi
+Río Danubio
+Río Támesis
+Río Sena
+Río Rin
+Río Ganges
+Río Yangtsé
+Río Paraná
+Río Negro
+Río Santa Lucía
+Laguna Merín
+Lago Victoria
+Lago Ness
+Mar Muerto
+Mar Rojo
+Mar Negro
+Mar Caspio
+Mar Báltico
+Mar del Norte
+Océano Índico
+Océano Ártico
+Océano Antártico
+Canal de Panamá
+Canal de Suez
+Estrecho de Gibraltar
+Estrecho de Magallanes
+Cabo de Hornos
+Triángulo de las Bermudas
+Desierto de Atacama
+Desierto de Gobi
+Gran Barrera de Coral
+Selva amazónica
+Pantanal
+Esteros del Iberá
+Salar de Uyuni
+Glaciar Perito Moreno
+Cerro de Montevideo
+Cerro Catedral
+Punta Ballena
+Isla de Lobos
+Isla Gorriti
+Quebrada de los Cuervos
+Valle del Lunarejo
+Bañados del Este
+Cerro Arequita
+Pan de Azúcar
+Gruta del Palacio
+Laguna Garzón
+Laguna de Rocha
+Clima tropical
+Clima templado
+Clima polar
+Clima desértico
+Monzón
+Ciclón
+Fenómeno de El Niño
+Ola de calor
+Ola de frío
+Helada
+Escarcha
+Rocío
+Neblina
+Temporal
+Pampero
+Sudestada
+Zonda
+Población
+Densidad de población
+Urbanización
+Migración
+Censo
+Mapa político
+Mapa físico
+Escala
+Rosa de los vientos
+Coordenadas
+Planisferio
+Atlas
+GPS
+Hemisferio austral
+Hemisferio boreal
+
+# dificil
+Morrena
+Dolina
+Sima
+Karst
+Estalactita
+Estalagmita
+Caldera volcánica
+Fumarola
+Batolito
+Escarpa
+Cuesta
+Tepuy
+Mesa (relieve)
+Monte isla
+Loess
+Permafrost
+Taiga
+Chaparral
+Manglar
+Marisma
+Turbera
+Albardón
+Barra de arena
+Tómbolo
+Flecha litoral
+Ensenada
+Rada
+Ría
+Marea alta
+Marea baja
+Pleamar
+Bajamar
+Corriente del Golfo
+Corriente de Humboldt
+Surgencia
+Plataforma continental
+Talud continental
+Fosa de las Marianas
+Dorsal oceánica
+Llanura abisal
+Pangea
+Gondwana
+Deriva continental
+Subducción
+Orogenia
+Epicentro
+Hipocentro
+Escala de Richter
+Sismógrafo
+Volcán Villarrica
+Vesubio
+Etna
+Krakatoa
+Mauna Loa
+Popocatépetl
+Cotopaxi
+Ojos del Salado
+Chimborazo
+Denali
+K2
+Annapurna
+Elbrus
+Matterhorn
+Montserrat
+Dolomitas
+Cárpatos
+Balcanes
+Cáucaso
+Atlas (montañas)
+Montes Apalaches
+Sierra Nevada
+Sierra Madre
+Meseta del Tíbet
+Gran Valle del Rift
+Lago Baikal
+Lago Tanganica
+Lago Superior
+Grandes Lagos
+Mar de Aral
+Mar Egeo
+Mar Adriático
+Mar de China
+Mar de Japón
+Mar de Bering
+Mar de Barents
+Mar de Weddell
+Mar de Ross
+Golfo de México
+Golfo Pérsico
+Golfo de Bengala
+Bahía de Hudson
+Canal de la Mancha
+Bósforo
+Dardanelos
+Estrecho de Ormuz
+Estrecho de Bering
+Paso Drake
+Río Orinoco
+Río Magdalena
+Río Paraguay
+Río Pilcomayo
+Río Bermejo
+Río Colorado
+Río Bravo
+Río Yukón
+Río Volga
+Río Ebro
+Río Tajo
+Río Po
+Río Tíber
+Río Éufrates
+Río Tigris
+Río Indo
+Río Mekong
+Río Amarillo
+Río Congo
+Río Níger
+Río Zambeze
+Río Cuareim
+Río Yaguarón
+Río Tacuarembó
+Río Cebollatí
+Río Olimar
+Río Queguay
+Río Daymán
+Arroyo Miguelete
+Arroyo Pantanoso
+Arroyo Carrasco
+Bahía de Montevideo
+Sierra de las Ánimas
+Cuchilla Grande
+Cuchilla de Haedo
+Valle Edén
+Laguna del Sauce
+Laguna José Ignacio
+Laguna Negra
+Laguna de Castillos
+Embalse de Rincón del Bonete
+Represa de Salto Grande
+Salto del Penitente
+Cataratas del Niágara
+Cataratas Victoria
+Salto Ángel
+Monte Roraima
+Desierto de Kalahari
+Desierto de Namib
+Desierto de Sonora
+Valle de la Muerte
+Valle de la Luna
+Talampaya
+Ischigualasto
+Quebrada de Humahuaca
+Cerro de los Siete Colores
+Campo de Hielo Patagónico
+Isla Martín García
+Isla de Flores
+Islas Vírgenes
+Archipiélago de Chiloé
+Polinesia
+Melanesia
+Mesoamérica
+Cono Sur
+Medio Oriente
+Sudeste Asiático
+Magreb
+Sahel
+Escandinavia
+Benelux
+Península Ibérica
+Península Arábiga
+Península de Yucatán
+Península Antártica
+Anticiclón
+Isobara
+Isoterma
+Frente frío
+Frente cálido
+Viento alisio
+Brisa marina
+Corriente en chorro
+Efecto invernadero
+Capa de ozono
+Albedo
+Microclima
+Clima mediterráneo
+Clima continental
+Isla de calor
+Desertificación
+Antípoda
+Solsticio
+Equinoccio
+Proyección de Mercator
+Curva de nivel
+Cartografía
+Geodesia
+Topografía
+Hidrografía
+Orografía

@@ -1,0 +1,388 @@
+# id: naturaleza
+# nombre: Naturaleza
+# icono: 🌿
+
+# facil
+Árbol
+Pasto
+Rosa
+Margarita
+Girasol
+Tulipán
+Clavel
+Orquídea
+Cactus
+Palmera
+Pino
+Roble
+Sauce llorón
+Eucalipto
+Ceibo
+Jacarandá
+Hoja seca
+Rama
+Tronco
+Bellota
+Piña de pino
+Trébol
+Diente de león
+Enredadera
+Jardín
+Huerta
+Tierra
+Barro
+Piedra
+Roca
+Amanecer
+Atardecer
+Puesta de sol
+Cielo
+Primavera
+Verano
+Otoño
+Invierno
+Brisa
+Ventarrón
+Llovizna
+Chaparrón
+Relámpago
+Témpano
+Fuego
+Humo
+Ceniza
+Incendio forestal
+Gota
+Espuma de mar
+Manantial
+Riachuelo
+Sendero
+Camping
+Fogata
+Hormiguero
+Nido
+Telaraña
+Panal
+Colmena
+Madriguera
+Huella de animal
+Pluma
+Cuerno
+Caparazón
+Concha marina
+Perla
+
+# intermedio
+Ombú
+Coronilla
+Tala
+Espinillo
+Algarrobo
+Quebracho
+Lapacho
+Palo borracho
+Timbó
+Sarandí
+Arrayán
+Laurel (árbol)
+Olivo
+Ciprés
+Abeto
+Cedro
+Secuoya
+Baobab
+Bambú
+Magnolia
+Azalea
+Hortensia
+Camelia
+Jazmín
+Lavanda
+Lirio
+Azucena
+Amapola
+Violeta
+Begonia
+Geranio
+Petunia
+Malvón
+Dalia
+Gardenia
+Glicina
+Buganvilla
+Santa Rita
+Loto
+Nenúfar
+Camalote
+Junco
+Totora
+Paja brava
+Cola de zorro
+Mburucuyá
+Flor de ceibo
+Hiedra
+Ortiga
+Cardo
+Abrojo
+Yuyo
+Carqueja
+Marcela
+Cedrón
+Malva
+Ruda
+Aloe vera
+Suculenta
+Helecho arborescente
+Liquen
+Algas marinas
+Pradera marina
+Bosque nativo
+Bosque de galería
+Selva tropical
+Bosque templado
+Palmar
+Pradera natural
+Serranía
+Afloramiento rocoso
+Piedra laja
+Granito
+Mármol
+Cuarzo
+Ágata
+Amatista
+Ónix
+Rubí
+Zafiro
+Diamante
+Topacio
+Turquesa
+Jade
+Ámbar
+Obsidiana
+Piedra pómez
+Huella de dinosaurio
+Mineral
+Cristal de roca
+Geoda
+Pepita de oro
+Veta
+Mina (minería)
+Cantera
+Ecología
+Medio ambiente
+Contaminación
+Calentamiento global
+Cambio climático
+Deforestación
+Reforestación
+Especie en peligro
+Reserva natural
+Parque nacional
+Área protegida
+Santuario de aves
+Avistaje de ballenas
+Avistaje de aves
+Huerta orgánica
+Compost
+Abono
+Fertilizante
+Pesticida
+Semillero
+Invernadero
+Vivero
+Poda
+Injerto
+Esqueje
+Floración
+Cosecha
+Siembra
+Riego
+Bruma
+Calima
+Ola polar
+Veranillo de San Juan
+Tormenta eléctrica
+Ventisca
+Remolino
+Marejada
+Resaca (mar)
+Mar de fondo
+Mareas
+Aurora austral
+Arcoíris doble
+Halo lunar
+Luna de sangre
+Superluna
+Eclipse solar
+Eclipse lunar
+Cometa visible
+Lluvia de meteoritos
+
+# dificil
+Guayabo del país
+Molle
+Chal-chal
+Blanquillo
+Mataojo
+Higuerón
+Ibirapitá
+Sombra de toro
+Palmera pindó
+Palma yatay
+Mirto
+Rododendro
+Brezo
+Retama
+Tojo
+Madreselva
+Clemátide
+Pasionaria
+Ave del paraíso (flor)
+Heliconia
+Anturio
+Bromelia
+Tillandsia
+Victoria regia
+Rafflesia
+Planta carnívora
+Atrapamoscas
+Drosera
+Nepenthes
+Mimosa púdica
+Welwitschia
+Árbol del dragón
+Ginkgo
+Araucaria
+Alerce
+Coihue
+Lenga
+Ñire
+Cardón
+Saguaro
+Agave
+Yuca (planta)
+Henequén
+Sisal
+Ricino
+Belladona
+Cicuta
+Mandrágora
+Muérdago
+Acebo
+Abedul
+Fresno
+Olmo
+Tilo
+Castaño
+Nogal
+Avellano
+Cerezo en flor
+Sakura
+Arce
+Pino Paraná
+Acacia
+Aromo
+Tipa
+Plátano (árbol)
+Paraíso (árbol)
+Crisantemo
+Gladiolo
+Narciso
+Jacinto
+Fresia
+Lisianthus
+Peonía
+Ranúnculo
+Alhelí
+Pensamiento (flor)
+Nomeolvides
+Edelweiss
+Caléndula
+Menta
+Hierbabuena
+Melisa
+Salvia
+Stevia
+Ajenjo
+Esporas
+Micelio
+Trufa negra
+Seta
+Rebozuelo
+Amanita
+Gírgola
+Pampa húmeda
+Laguna costera
+Barra arenosa
+Dunas costeras
+Monte psamófilo
+Bosque de quebrada
+Bosque parque
+Sabana arbolada
+Estepa patagónica
+Puna de Atacama
+Páramo
+Bosque nuboso
+Selva de Yungas
+Mata Atlántica
+Cerrado
+Chaco
+Caatinga
+Llanos
+Delta del Paraná
+Turba
+Humus
+Lixiviación
+Horizonte del suelo
+Erosión eólica
+Erosión hídrica
+Meteorización
+Sedimento
+Roca ígnea
+Roca sedimentaria
+Roca metamórfica
+Basalto
+Pizarra
+Caliza
+Arenisca
+Esquisto
+Feldespato
+Mica
+Talco
+Halita
+Pirita
+Galena
+Malaquita
+Lapislázuli
+Ópalo
+Granate
+Turmalina
+Aguamarina
+Berilo
+Corindón
+Escala de Mohs
+Ciclo del agua
+Ciclo del carbono
+Ciclo del nitrógeno
+Huella hídrica
+Huella ecológica
+Sobrepesca
+Acidificación de los océanos
+Isla de plástico
+Microplásticos
+Lluvia ácida
+Smog
+Contaminación lumínica
+Contaminación sonora
+Especie bandera
+Especie clave
+Corredor biológico
+Rewilding
+Biorremediación
+Permacultura
+Agroecología
+Monocultivo
+Rotación de cultivos
+Siembra directa
+Forestación
+Celulosa
+Pastera

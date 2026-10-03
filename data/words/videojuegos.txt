@@ -1,0 +1,428 @@
+# id: videojuegos
+# nombre: Videojuegos
+# icono: 🎮
+
+# facil
+Minecraft
+Fortnite
+FIFA
+EA Sports FC
+Tetris
+Super Mario Bros
+Mario Kart
+Pokémon Go
+Roblox
+Among Us
+Candy Crush
+Angry Birds
+Subway Surfers
+Clash Royale
+Clash of Clans
+Free Fire
+Call of Duty
+GTA
+The Sims
+Geometry Dash
+Flappy Bird
+Temple Run
+Fruit Ninja
+Plants vs. Zombies
+Just Dance
+Guitar Hero
+Wii Sports
+Nintendo Switch
+Game Boy
+PlayStation 5
+Consola portátil
+Multijugador
+Pantalla dividida
+Jefe final
+Vida extra
+Game over
+Pausa
+Puntaje
+Récord
+Ranking
+Personaje jugable
+Skin
+Moneda virtual
+Pase de batalla
+Gamer
+Partida
+Respawn
+Modo historia
+Modo carrera
+Logro
+Trofeo
+Misión
+Mapa del juego
+Inventario
+Poción
+Espada mágica
+Escudo
+Cofre del tesoro
+Monedas de oro
+Power-up
+Hongo de Mario
+Estrella de invencibilidad
+Tubería verde
+Ladrillo de Mario
+Bloque de interrogación
+Bloque de Minecraft
+Pico de diamante
+Mesa de crafteo
+Enderman
+Aldeano
+Battle royale
+Bus de batalla
+Tormenta (Fortnite)
+Baile de Fortnite
+Victoria magistral
+V-Bucks
+Robux
+Impostor
+Tripulante
+
+# intermedio
+The Legend of Zelda
+Breath of the Wild
+Tears of the Kingdom
+Ocarina of Time
+Super Smash Bros
+Animal Crossing
+Splatoon
+Metroid
+Pokémon Rojo
+Pokémon Escarlata
+Pokédex
+Pokébola
+Entrenador Pokémon
+Gimnasio Pokémon
+Liga Pokémon
+Evolución Pokémon
+Shiny
+Halo
+Gears of War
+Forza
+God of War
+The Last of Us
+Uncharted
+Horizon Zero Dawn
+Ghost of Tsushima
+Gran Turismo
+Red Dead Redemption
+Assassin's Creed
+Far Cry
+Watch Dogs
+Prince of Persia
+Rayman
+Just Cause
+Tomb Raider
+Resident Evil
+Silent Hill
+Outlast
+Five Nights at Freddy's
+Poppy Playtime
+Dead Space
+Left 4 Dead
+Half-Life
+Portal
+Counter-Strike
+Valorant
+Overwatch
+Apex Legends
+PUBG
+Warzone
+Rainbow Six Siege
+Battlefield
+Destiny
+League of Legends
+Dota 2
+World of Warcraft
+StarCraft
+Hearthstone
+Age of Empires
+Civilization
+SimCity
+Cities: Skylines
+Stardew Valley
+Terraria
+Undertale
+Dead Cells
+Fall Guys
+Rocket League
+Brawl Stars
+Brawlhalla
+Genshin Impact
+Honkai Star Rail
+Final Fantasy
+Kingdom Hearts
+Dragon Quest
+Elden Ring
+Dark Souls
+Bloodborne
+Sekiro
+The Witcher
+Skyrim
+Fallout
+Cyberpunk 2077
+Mass Effect
+Baldur's Gate 3
+BioShock
+Borderlands
+Doom
+Wolfenstein
+Quake
+Metal Gear Solid
+Mortal Kombat
+Street Fighter
+Tekken
+Dragon Ball FighterZ
+Pro Evolution Soccer
+NBA 2K
+Madden
+Need for Speed
+Crazy Taxi
+Sega Genesis
+Sega Dreamcast
+Nintendo 64
+Super Nintendo
+Family Game
+Atari 2600
+GameCube
+Wii
+Wii U
+Nintendo DS
+Nintendo 3DS
+PSP
+PS Vita
+PlayStation 2
+Xbox 360
+Xbox Series X
+Steam Deck
+Meta Quest
+Game Pass
+PlayStation Plus
+Nintendo eShop
+Cartucho
+Disco de juego
+Tarjeta de memoria
+Partida guardada
+Checkpoint
+Cinemática
+Tutorial
+Speedrun
+Glitch
+Ping alto
+Camper
+Noob
+Pro
+Tryhard
+Rage quit
+Spawn kill
+Headshot
+Combo
+Fatality
+Hadouken
+Konami Code
+NPC
+Mundo abierto
+Sandbox
+Plataformas
+Shooter
+FPS
+RPG
+MMORPG
+MOBA
+Roguelike
+Metroidvania
+Survival horror
+Simulador
+Juego indie
+Gacha
+Microtransacciones
+Loot box
+Pay to win
+Free to play
+DLC
+Early access
+Remasterización
+
+# dificil
+Shigeru Miyamoto
+Hideo Kojima
+Hidetaka Miyazaki
+Satoru Iwata
+Gabe Newell
+Todd Howard
+Sid Meier
+Will Wright
+John Carmack
+Toby Fox
+Notch
+Pong
+Space Invaders
+Galaga
+Frogger
+Centipede
+Dig Dug
+Bomberman
+Contra
+Castlevania
+Ghosts 'n Goblins
+Double Dragon
+Golden Axe
+Streets of Rage
+Final Fight
+Metal Slug
+The King of Fighters
+Samurai Shodown
+Killer Instinct
+Soulcalibur
+Virtua Fighter
+Duck Hunt
+Excitebike
+Ice Climber
+Punch-Out!!
+Kid Icarus
+Star Fox
+F-Zero
+EarthBound
+Chrono Trigger
+Secret of Mana
+Banjo-Kazooie
+GoldenEye 007
+Perfect Dark
+Conker
+Majora's Mask
+Wind Waker
+Twilight Princess
+Paper Mario
+Luigi's Mansion
+Pikmin
+Xenoblade
+Fire Emblem
+Advance Wars
+Mother 3
+Jak and Daxter
+Ratchet & Clank
+Sly Cooper
+Crash Team Racing
+Twisted Metal
+Tony Hawk's Pro Skater
+SSX
+Medal of Honor
+Max Payne
+Hitman
+Splinter Cell
+Deus Ex
+System Shock
+Dishonored
+Alan Wake
+Death Stranding
+Shadow of the Colossus
+Ico
+Journey
+Okami
+Devil May Cry
+Bayonetta
+Nier: Automata
+Yakuza
+Disco Elysium
+Outer Wilds
+Braid
+Fez
+Super Meat Boy
+The Binding of Isaac
+Slay the Spire
+Vampire Survivors
+Balatro
+Lethal Company
+Phasmophobia
+Valheim
+DayZ
+ARK
+Subnautica
+No Man's Sky
+Kerbal Space Program
+Factorio
+RimWorld
+Dwarf Fortress
+Crusader Kings
+Europa Universalis
+Total War
+Heroes of Might and Magic
+Warcraft III
+Command & Conquer
+Counter-Strike 1.6
+Unreal Tournament
+Team Fortress 2
+Garry's Mod
+Portal 2
+Half-Life 2
+Mundo Gaturro
+Club Penguin
+Habbo
+Poptropica
+Friv
+Juegos Flash
+Miniclip
+Pou
+Talking Tom
+Doodle Jump
+Cut the Rope
+Neopets
+Second Life
+Pokémon Amarillo
+Pokémon Cristal
+Pokémon Esmeralda
+Mew
+Super Mario Galaxy
+Super Mario Odyssey
+Yoshi's Island
+Wario Ware
+Mario Party
+Final Smash
+Pantalla de carga
+Barra de vida
+Barra de maná
+Subir de nivel
+Árbol de habilidades
+Build
+Meta (juego)
+Buff
+Parche de balance
+Tier list
+Smurf
+Carry
+Healer
+Support
+Farmeo
+Raid
+Dungeon
+Boss rush
+New Game Plus
+Final secreto
+Permadeath
+Modo foto
+Frame rate
+Ray tracing
+Input lag
+Tasa de refresco
+Fightstick
+Silla gamer
+Setup gamer
+Luces RGB
+Teclado mecánico
+Mouse gamer
+Headset
+Clip viral
+Replay
+Kill cam
+Matchmaking
+Clasificatoria
+Rango
+Elo
+Challenger
+Caster
+Bootcamp

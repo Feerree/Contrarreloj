@@ -1,0 +1,496 @@
+# id: cultura
+# nombre: Cultura general
+# icono: 🧠
+
+# facil
+Cumpleaños
+Navidad
+Año Nuevo
+Pascua
+Halloween
+Día de los Enamorados
+San Valentín
+Día de la Madre
+Día del Padre
+Día del Niño
+Carnaval
+Semana de Turismo
+Vacaciones de invierno
+Vacaciones de verano
+Fin de semana largo
+Feriado
+Casamiento
+Luna de miel
+Bautismo
+Comunión
+Fiesta de quince
+Despedida de soltero
+Graduación
+Egresados
+Viaje de egresados
+Primer día de clases
+Recreo
+Examen
+Prueba sorpresa
+Boletín
+Vacaciones
+Campamento
+Picnic
+Asado del domingo
+Ronda de mate
+Fogón
+Pijamada
+Juego de mesa
+Escondida
+Mancha
+Rayuela (juego)
+Piedra, papel o tijera
+Veo veo
+Teléfono descompuesto
+Sillas musicales
+Ta-te-tí
+Ahorcado
+Batalla naval
+Truco
+Uno (cartas)
+Monopoly
+Jenga
+Twister
+Pictionary
+Bingo
+Lotería
+Rifa
+Piñata
+Torta de cumpleaños
+Velitas
+Deseo
+Regalo
+Tarjeta de cumpleaños
+Globos de colores
+Disfraz
+Máscara
+Confeti
+Fuegos artificiales
+Brindis
+Árbol de Navidad
+Pesebre
+Calcetín navideño
+Muñeco de nieve
+Trineo
+Calabaza de Halloween
+Truco o trato
+Huevo de chocolate
+Abecedario
+Diccionario de sinónimos
+Biblioteca escolar
+Bandera blanca
+Paloma de la paz
+Corazón (símbolo)
+Trébol de cuatro hojas
+Gato negro
+Martes 13
+Herradura
+Pata de conejo
+Estrella de cinco puntas
+Signo de interrogación
+Signo de exclamación
+Siesta
+Desayuno
+Almuerzo
+Merienda
+Cena
+Sobremesa
+Delivery
+Fila del banco
+Supermercado
+Feria vecinal
+Shopping
+Plaza
+Parque de diversiones
+Montaña rusa
+Rueda de la fortuna
+Calesita
+Circo
+Zoológico
+Acuario
+Planetario
+Comisaría
+
+# intermedio
+Siete maravillas del mundo
+Torre Eiffel
+Estatua de la Libertad
+Big Ben
+Torre de Pisa
+Sagrada Familia
+Cristo Redentor
+Taj Mahal
+Petra
+Acrópolis
+Partenón
+Kremlin
+Plaza Roja
+Arco del Triunfo
+Puerta de Brandeburgo
+Torre de Londres
+Palacio de Buckingham
+Casa Blanca
+Times Square
+Central Park
+Puente Golden Gate
+Burj Khalifa
+Empire State
+Monte Rushmore
+Muro de los Lamentos
+Basílica de San Pedro
+Notre Dame
+Alhambra
+Abadía de Westminster
+Palacio Salvo
+Obelisco de Buenos Aires
+Rambla de Montevideo
+Puerta de la Ciudadela
+Plaza Independencia
+Mausoleo de Artigas
+Palacio Legislativo
+Mercado del Puerto
+Torre de Antel
+Faro de José Ignacio
+La Mano de Punta del Este
+Puente de la Barra
+Barrio Histórico de Colonia
+Fortaleza del Cerro
+Fortaleza de Santa Teresa
+Signos del zodíaco
+Horóscopo
+Aries
+Tauro
+Géminis
+Cáncer (signo)
+Leo
+Virgo
+Libra
+Escorpio
+Sagitario
+Capricornio
+Acuario (signo)
+Piscis
+Horóscopo chino
+Año del dragón
+Tarot
+Bola de cristal
+Lectura de manos
+Superstición
+Mal de ojo
+Cábala
+Amuleto
+Talismán
+Feng shui
+Yin y yang
+Mandala
+Karma
+Reencarnación
+Meditación
+Budismo
+Hinduismo
+Islam
+Judaísmo
+Cristianismo
+Catolicismo
+Protestantismo
+Ateísmo
+Agnosticismo
+Biblia
+Corán
+Torá
+Diez Mandamientos
+Arca de Noé
+Adán y Eva
+Torre de Babel
+David y Goliat
+Moisés
+Jesús
+Virgen María
+Los doce apóstoles
+Judas
+El Papa (Vaticano)
+Iglesia
+Catedral
+Mezquita
+Sinagoga
+Templo
+Monasterio
+Peregrinación
+Camino de Santiago
+Ramadán
+Janucá
+Diwali
+Año Nuevo chino
+Día de Muertos
+Oktoberfest
+San Fermín
+La Tomatina
+Carnaval de Río
+Carnaval de Venecia
+Thanksgiving
+Día de San Patricio
+Black Friday
+Cyber Monday
+Fiesta de la Patria Gaucha
+Noche de la Nostalgia
+Día del Patrimonio
+Fiesta del Mar
+Ñoquis del 29
+Fiesta sorpresa
+Baby shower
+Revelación de género
+Aniversario
+Bodas de oro
+Bodas de plata
+Funeral
+Velorio
+Testamento
+Herencia
+Árbol genealógico
+Apellido
+Apodo
+Padrino de bautismo
+Madrina
+Ahijado
+Cuñado
+Suegra
+Yerno
+Nuera
+Primo segundo
+Bisabuelo
+Tatarabuelo
+Hijo único
+Hermano del medio
+Familia ensamblada
+Sistema métrico
+Horario de verano
+Calendario gregoriano
+Año bisiesto
+Siglo
+Década
+Milenio
+Abecedario griego
+Alfabeto Morse
+SOS
+Esperanto
+Idiomas oficiales
+Trabalenguas
+Adivinanza
+Refrán
+Chiste
+Acertijo (juego)
+Palíndromo
+Anagrama
+Crucigrama
+Sopa de letras
+Sudoku
+Ruleta
+Casino
+Póker
+Blackjack
+Tragamonedas
+Quiniela
+5 de Oro
+Raspadita
+Lotería de Navidad
+Club de barrio
+Peña
+Tablado
+Fiesta de fin de año
+Doce uvas
+Quemar el muñeco
+Tirar almanaques el 31
+
+# dificil
+Maravillas del mundo antiguo
+Coloso de Rodas
+Faro de Alejandría
+Jardines Colgantes de Babilonia
+Mausoleo de Halicarnaso
+Templo de Artemisa
+Estatua de Zeus
+Ciudad Prohibida
+Angkor
+Neuschwanstein
+Atomium
+Casa Batlló
+Park Güell
+Guggenheim de Bilbao
+Museo Británico
+Galería Uffizi
+Hermitage
+Torre CN
+Marina Bay Sands
+Torres Petronas
+Burj Al Arab
+Palacio de Versalles
+Fontana di Trevi
+Puente de los Suspiros
+Plaza de San Marcos
+Puente Carlos
+Castillo de Praga
+Sagrado Corazón (París)
+Moulin Rouge
+Ponte Vecchio
+Panteón de Roma
+Foro romano
+Muralla de Adriano
+Checkpoint Charlie
+Isla de Ellis
+Alcatraz
+Puente de Brooklyn
+Cartel de Hollywood
+Space Needle
+Gateway Arch
+Edificio Lapido
+Palacio Taranco
+Palacio Estévez
+Castillo Pittamiglio
+Castillo Piria
+Hotel Casino Carrasco
+Cementerio Central
+Cementerio Británico
+Iglesia Matriz
+Catedral de Montevideo
+Iglesia del Cristo Obrero
+Eladio Dieste
+Puerto de Montevideo
+Aduana de Oribe
+Cubo del Norte
+Bastión del Carmen
+Calle de los Suspiros
+Faro de Colonia
+Real de San Carlos
+Plaza de Toros de Colonia
+Termas del Daymán
+Termas de Arapey
+Gruta de Lourdes (Montevideo)
+Parque Rodó
+Parque Batlle
+Prado de Montevideo
+Jardín Japonés
+Rosedal del Prado
+Rambla de Pocitos
+Playa Ramírez
+Playa de los Pocitos
+Playa Brava
+Playa Mansa
+Fiesta de la Cerveza de Paysandú
+Fiesta de la Vendimia
+Semana de la Cerveza
+Festival del Olimar
+Festival de Durazno
+San Cono
+Iemanjá
+Umbanda
+Candomblé
+Santería
+Vudú
+Pachamama
+Inti Raymi
+Quinceañera
+Bar mitzvá
+Bat mitzvá
+Shabat
+Kosher
+Halal
+Peregrinación a La Meca
+Kaaba
+Dalái lama
+Nirvana (budismo)
+Chakra
+Sutra
+Mantra
+Taoísmo
+Confucianismo
+Sintoísmo
+Zen
+Torii
+Pagoda
+Estupa
+Templo de Salomón
+Arca de la Alianza
+Santo Grial
+Sábana Santa
+Rollos del Mar Muerto
+Evangelio
+Apocalipsis
+Génesis
+Éxodo (Biblia)
+Salmos
+Parábola del hijo pródigo
+Buen samaritano
+Caín y Abel
+Sansón y Dalila
+Salomón
+Jonás y la ballena
+Daniel en el foso de los leones
+Plagas de Egipto
+Maná del cielo
+Zarza ardiente
+Paso del mar Rojo
+Sermón de la montaña
+Multiplicación de los panes
+Lázaro
+Poncio Pilato
+Herodes
+Juan el Bautista
+Pedro (apóstol)
+Pablo de Tarso
+María Magdalena
+San Francisco de Asís
+Santa Teresa
+San Agustín
+Tomás de Aquino
+Opus Dei
+Jesuitas
+Franciscanos
+Benedictinos
+Cónclave
+Humo blanco
+Cardenal (religión)
+Obispo
+Arzobispo
+Diácono
+Monaguillo
+Sacristán
+Confesionario
+Misa del gallo
+Miércoles de ceniza
+Cuaresma
+Semana Santa
+Viernes Santo
+Domingo de Ramos
+Corpus Christi
+Adviento
+Epifanía
+Candelaria
+Día de Todos los Santos
+Noche de San Juan
+Ludoteca
+Juego de rol
+Calabozos y dragones
+Escape room
+Búsqueda del tesoro
+Gymkhana
+Trivia
+Álbum de figuritas
+Figurita difícil
+Coleccionismo
+Filatelia
+Numismática
+Modelismo
+Ferromodelismo
+Aeromodelismo
+Bonsái
+Ikebana
+Tejido a crochet
+Bordado
+Macramé
+Punto cruz
+Scrapbooking

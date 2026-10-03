@@ -1,0 +1,401 @@
+# id: expresiones
+# nombre: Expresiones populares
+# icono: 💬
+
+# facil
+Ta
+Divino
+Re lindo
+Qué garrón
+Al pedo
+Estar al horno
+Estar en la luna
+Pedir gancho
+Hacer la vaca
+Tomar el pelo
+Meter la pata
+Estar en las nubes
+Ponerse las pilas
+Hacer la plancha
+Tirar la toalla
+Dar una mano
+Costar un ojo de la cara
+Estar frito
+Estar hasta las manos
+Salir pitando
+Más vale tarde que nunca
+No hay mal que por bien no venga
+Al que madruga Dios lo ayuda
+Perro que ladra no muerde
+Ojos que no ven, corazón que no siente
+En boca cerrada no entran moscas
+Camarón que se duerme se lo lleva la corriente
+Más vale pájaro en mano que cien volando
+A caballo regalado no se le miran los dientes
+Dime con quién andas y te diré quién eres
+El que busca encuentra
+No por mucho madrugar amanece más temprano
+Cría cuervos y te sacarán los ojos
+Al mal tiempo, buena cara
+Agua que no has de beber, déjala correr
+Quien mucho abarca poco aprieta
+Del dicho al hecho hay mucho trecho
+Hablando del rey de Roma
+Ser uña y carne
+Llover a cántaros
+Estar como sapo de otro pozo
+Buscarle la quinta pata al gato
+Hacerse el sota
+Hacerse el dormido
+Pegar el faltazo
+Hacerse la rata
+Chamuyar
+Bajón
+Manija
+Embole
+Fiaca
+Copado
+Joya
+Dale
+Cualquiera
+Nada que ver
+Ni ahí
+Posta
+Al toque
+Ya fue
+Chau
+Che
+Gurí
+Botija
+Pibe
+Bagayo
+Mango (dinero)
+Guita
+Plata dulce
+Sin un peso
+Tiro al aire
+Tirar onda
+
+# intermedio
+Hacer agua
+Ir al grano
+Andarse con rodeos
+Irse por las ramas
+Dar en el clavo
+Poner el grito en el cielo
+Echar leña al fuego
+Lavarse las manos
+Estar entre la espada y la pared
+Hacer castillos en el aire
+Tener la sartén por el mango
+Dormirse en los laureles
+Patear el tablero
+Tirar la piedra y esconder la mano
+Pagar el pato
+Cortar el bacalao
+Hacerse el gil
+Hacerse el boludo
+Dar la cara
+Dar vuelta la página
+Poner la otra mejilla
+Cantar las cuarenta
+Bajar la caña
+Mandar fruta
+Hablar al pedo
+Cagarse de risa
+Mear fuera del tarro
+Ser un pan de Dios
+Ser un plomo
+Ser un pesado
+Ser un capo
+Ser un crack
+Viveza criolla
+Hacerse el vivo
+Hacerse el distraído
+Chanta
+Bolazo
+Cachivache
+Cachengue
+Piola
+Careta
+Cheto
+Planchero
+Garca
+Trucho
+Berreta
+Mersa
+Grasa
+Chabón
+Laburo
+Yuta
+Milico
+Rati
+Morfar
+Escabio
+Estar en pedo
+Resaca
+Sacar la ficha
+Hacer la segunda
+Bancar
+Aguante
+Dar bola
+Sacar canas verdes
+Tener la cabeza en otra parte
+Estar con la cabeza quemada
+Comerse la cabeza
+Darle manija a algo
+Poner los puntos sobre las íes
+Echar en cara
+Sacar los trapitos al sol
+Ponerse la camiseta
+Hacer una vaquita
+Tener vela en este entierro
+Tirar la casa por la ventana
+Estar como pez en el agua
+Tener un as bajo la manga
+Ver la paja en el ojo ajeno
+Cruzar los dedos
+Tocar madera
+Tirar la sal
+Ni fu ni fa
+Ni chicha ni limonada
+Hacer la vista gorda
+Llorar sobre la leche derramada
+Tener cola de paja
+Ser un pancho
+Hacer el ridículo
+Quedar como un gil
+Quedar pagando
+Pagar derecho de piso
+Chupar las medias
+Alcahuete
+Buchón
+Batir la justa
+Bajar línea
+Tirar líneas
+Hacer facha
+Pinta
+Mandarse una macana
+Macana
+Desbole
+Quilombo
+Bardo
+Arrugar
+Ir de punta
+Ir al frente
+Ponerle huevo
+Pechar
+A pecho
+A full
+De una
+Dejate de joder
+Ni en pedo
+Cagar a pedos
+Salado
+Zafar
+Bancarse una
+A la marchanta
+A la que te criaste
+Como Pancho por su casa
+Cualquier verdura
+Uruguay nomá
+Ta de más
+Tranqui
+Todo bien
+Ni idea
+Qué sé yo
+O sea
+Bancame un toque
+Esperá un cachito
+Al fondo a la derecha
+Andá a cantarle a Gardel
+Andá a saber
+Más perdido que turco en la neblina
+Más viejo que la escarapela
+Más largo que esperanza de pobre
+Más loco que una cabra
+Más rápido que un rayo
+Más bueno que el pan
+Más contento que perro con dos colas
+Llueve sobre mojado
+Agarrar para el lado de los tomates
+Irse al carajo
+Caer en la volteada
+Ataque de nervios
+
+# dificil
+A buen entendedor, pocas palabras bastan
+Cuando el río suena, agua trae
+Árbol que nace torcido jamás su tronco endereza
+El hábito no hace al monje
+Aunque la mona se vista de seda, mona queda
+Muerto el perro, se acabó la rabia
+De tal palo, tal astilla
+Zapatero a tus zapatos
+Cada loco con su tema
+En casa de herrero, cuchillo de palo
+Más sabe el diablo por viejo que por diablo
+No hay peor ciego que el que no quiere ver
+El que se fue a Sevilla perdió su silla
+Ojo por ojo
+La curiosidad mató al gato
+Hacer de tripas corazón
+Rasgarse las vestiduras
+Tirar margaritas a los chanchos
+Buscar una aguja en un pajar
+Dar gato por liebre
+Ponerle el cascabel al gato
+Estar al pie del cañón
+Ser el último orejón del tarro
+Matar dos pájaros de un tiro
+Hacer leña del árbol caído
+Llevar agua para su molino
+Sacar las castañas del fuego
+Ver los toros desde la barrera
+Agarrar el toro por las astas
+Ir por lana y salir trasquilado
+Poner el carro delante del caballo
+Estar con el agua al cuello
+Hacer buenas migas
+Salir de Guatemala y meterse en Guatepeor
+Ponerse el sombrero
+Andar a los ponchazos
+Ensillar antes de traer los caballos
+Pisar el palito
+Dar el brazo a torcer
+Dorar la píldora
+Hacerse agua la boca
+Hacerse la cabeza
+Pasar la gorra
+Ponerse las botas
+Estar de la nuca
+Tener mala leche
+Ser un piojo resucitado
+Tener más vidas que un gato
+Más vale maña que fuerza
+El que avisa no traiciona
+Al pan, pan y al vino, vino
+Hecha la ley, hecha la trampa
+Lo barato sale caro
+Pan para hoy, hambre para mañana
+Mal de muchos, consuelo de tontos
+No hay dos sin tres
+Una golondrina no hace verano
+La tercera es la vencida
+Dios los cría y ellos se juntan
+Cada oveja con su pareja
+Quien siembra vientos recoge tempestades
+Donde hubo fuego, cenizas quedan
+Los trapos sucios se lavan en casa
+Haz el bien y no mires a quién
+El que no llora no mama
+Tanto va el cántaro a la fuente que al final se rompe
+Gato con guantes no caza ratones
+Entre bueyes no hay cornadas
+Más vale prevenir que curar
+Barriga llena, corazón contento
+Ver para creer
+Querer es poder
+El tiempo es oro
+Sobre gustos no hay nada escrito
+El fin justifica los medios
+Divide y reinarás
+Carpe diem
+Alea jacta est
+Veni, vidi, vici
+In fraganti
+Statu quo
+Quid pro quo
+Mea culpa
+Per cápita
+A priori
+A posteriori
+Ad honorem
+Ad hoc
+Vox populi
+Sui generis
+Modus operandi
+Tabula rasa
+Ipso facto
+Grosso modo
+Lapsus
+Déjà vu
+Cliché
+Savoir faire
+Je ne sais quoi
+Laissez faire
+Tête-à-tête
+Vis-à-vis
+Fake it till you make it
+Ley de Murphy
+Navaja de Ockham
+Efecto mariposa
+Talón de Aquiles
+Caja de Pandora
+Trabajo de Sísifo
+Hilo de Ariadna
+Espada de Damocles
+Nudo gordiano
+Victoria pírrica
+Cruzar el Rubicón
+Canto de sirena
+Elefante blanco
+Elefante en la habitación
+Lágrimas de cocodrilo
+Oveja negra
+Cabeza de turco
+Chivo expiatorio
+Lobo con piel de cordero
+Manzana de la discordia
+Vaca sagrada
+Cuento chino
+Trabajo de chinos
+Hacerse el sueco
+Despedirse a la francesa
+Hablar en chino
+Quedarse en blanco
+Estar en Babia
+Estar en Pampa y la vía
+Comer como un pajarito
+Dormir como un tronco
+Más sordo que una tapia
+Fumar como un escuerzo
+Gastar pólvora en chimangos
+Andar como bola sin manija
+Como perro en cancha de bochas
+Como chancho en el barro
+Ser más lento que una tortuga
+Bicho de siete cabezas
+Hacer una tormenta en un vaso de agua
+Se me hizo la noche
+A las chapas
+A los pedos
+Como trompada de loco
+Rajar
+Tomarse el palo
+Picárselas
+Hacer pata
+Hacer fila
+Pasarla bomba
+Estar de diez
+Estar de la planta
+De primera
+Clase A
+Pelito para la vieja
+Bien de bien
+De lujo
+Una bomba
+Cortala
+Ni a palos
+Ni loco
+Ni por asomo
+Ni que fuera
+Ojo al piojo
+Pa' lo que es
+Pa' qué
+Me mataste
+Me dejaste de cama
+Me hiciste el día
+Se pudrió todo
+Estalló
+Se armó la gorda

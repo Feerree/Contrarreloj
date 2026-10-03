@@ -1,0 +1,455 @@
+# id: alimentos
+# nombre: Alimentos y bebidas
+# icono: 🍕
+
+# facil
+Pizza
+Hamburguesa
+Pancho
+Milanesa
+Empanada
+Asado
+Chivito
+Fideos
+Ñoquis
+Ravioles
+Lasaña
+Arroz
+Papas fritas
+Puré
+Ensalada
+Sopa
+Huevo frito
+Tortilla de papas
+Pollo al horno
+Pan
+Galletitas
+Torta
+Alfajor
+Dulce de leche
+Helado
+Chocolate
+Caramelo
+Chicle
+Pochoclo
+Manzana
+Banana
+Naranja
+Pera
+Uva
+Frutilla
+Sandía
+Melón
+Durazno
+Kiwi
+Piña
+Limón
+Mandarina
+Cereza
+Frambuesa
+Coco
+Tomate
+Lechuga
+Zanahoria
+Papa
+Cebolla
+Ajo
+Morrón
+Pepino
+Zapallo
+Choclo
+Arvejas
+Brócoli
+Espinaca
+Leche
+Yogur
+Queso
+Manteca
+Jamón
+Salame
+Chorizo
+Panceta
+Agua
+Jugo de naranja
+Refresco
+Café
+Té
+Mate
+Cerveza
+Vino
+Sándwich
+Tostada
+Medialuna
+Bizcocho
+Panqueque
+Waffle
+Sushi
+Taco
+Burrito
+Nachos
+Ketchup
+Mayonesa
+Mostaza
+Sal
+Azúcar
+Pimienta
+Aceite
+Vinagre
+Miel
+Mermelada
+Cereales
+Avena
+Merengue
+Flan
+Gelatina
+Arroz con leche
+Licuado
+Pan dulce
+Turrón
+Huevo de Pascua
+Churros
+Barra de cereal
+Frutillas con crema
+Ensalada de frutas
+Pollo frito
+Milanesa napolitana
+Tarta de jamón y queso
+Pascualina
+Bondiola
+Costilla
+
+# intermedio
+Choripán
+Fainá
+Torta frita
+Bizcochos de grasa
+Pasta frola
+Postre chajá
+Martín Fierro
+Polenta
+Guiso
+Puchero
+Estofado
+Mondongo
+Locro
+Humita
+Tamal
+Chimichurri
+Salsa golf
+Salsa caruso
+Pesto
+Salsa bolognesa
+Salsa blanca
+Matambre
+Vacío
+Entraña
+Asado de tira
+Molleja
+Chinchulines
+Morcilla
+Riñón
+Provoleta
+Muzzarella
+Canelones
+Sorrentinos
+Capeletis
+Tallarines
+Risotto
+Paella
+Gazpacho
+Ceviche
+Arepa
+Quesadilla
+Guacamole
+Fajitas
+Hummus
+Falafel
+Kebab
+Shawarma
+Ramen
+Dim sum
+Curry
+Pad thai
+Croissant
+Baguette
+Focaccia
+Bagel
+Brownie
+Cheesecake
+Tiramisú
+Mousse de chocolate
+Tarta de manzana
+Lemon pie
+Crepé
+Profiteroles
+Macarons
+Donas
+Muffin
+Cupcake
+Budín
+Rosca de Reyes
+Garrapiñada
+Manzana acaramelada
+Algodón de azúcar
+Copo de nieve
+Cono de helado
+Bombón
+Masitas
+Scones
+Grisines
+Galleta marina
+Pan de molde
+Pan rallado
+Harina
+Levadura
+Polvo de hornear
+Maicena
+Crema de leche
+Ricota
+Queso crema
+Queso rallado
+Dulce de membrillo
+Dulce de batata
+Mantecol
+Garbanzos
+Lentejas
+Porotos
+Soja
+Quinoa
+Calabacín
+Berenjena
+Remolacha
+Rabanito
+Apio
+Puerro
+Alcaucil
+Espárrago
+Coliflor
+Repollo
+Acelga
+Rúcula
+Champiñón
+Aceituna
+Palta
+Mango
+Maracuyá
+Higo
+Ciruela
+Damasco
+Granada
+Arándano
+Mora
+Pomelo
+Lima (fruta)
+Membrillo
+Nuez
+Almendra
+Maní
+Castaña
+Pasas de uva
+Orégano
+Albahaca
+Perejil
+Comino
+Canela
+Nuez moscada
+Pimentón
+Ají
+Jengibre
+Vainilla
+Cacao
+Grappamiel
+Medio y medio
+Uvita
+Clericó
+Sangría
+Fernet
+Whisky
+Vodka
+Ron
+Tequila
+Champagne
+Sidra
+Caipirinha
+Mojito
+Daiquiri
+Piña colada
+Margarita (trago)
+Gin tonic
+Capuchino
+Cortado
+Café con leche
+Submarino (bebida)
+Chocolatada
+Agua tónica
+Agua con gas
+Bebida energizante
+Yerba mate
+Mate cocido
+Té de manzanilla
+Té de boldo
+
+# dificil
+Pamplona
+Buñuelos de algas
+Revuelto gramajo
+Tortilla de acelga
+Torta de fiambre
+Salpicón
+Vitel toné
+Ensalada rusa
+Lengua a la vinagreta
+Pionono
+Arrollado
+Sambayón
+Leche asada
+Tocino del cielo
+Isla flotante
+Crema catalana
+Crème brûlée
+Soufflé
+Strudel
+Kuchen
+Panettone
+Ratatouille
+Fondue
+Raclette
+Bouillabaisse
+Goulash
+Borscht
+Pierogi
+Moussaka
+Tzatziki
+Baklava
+Pastel de nata
+Churrasco
+Feijoada
+Pão de queijo
+Brigadeiro
+Coxinha
+Acarajé
+Mole poblano
+Pozole
+Chilaquiles
+Enchiladas
+Tacos al pastor
+Elote
+Pupusa
+Gallo pinto
+Sancocho
+Ajiaco
+Bandeja paisa
+Lomo saltado
+Ají de gallina
+Causa limeña
+Anticucho
+Chipá
+Sopa paraguaya
+Mbejú
+Salteña
+Sopaipilla
+Pastel de choclo
+Curanto
+Completo chileno
+Cazuela
+Carbonada
+Chupín
+Buseca
+Tarta de verdura
+Pan casero
+Rosca de chicharrones
+Chicharrón
+Torrejas
+Ensaimada
+Polvorón
+Mazapán
+Alfajor de maicena
+Tableta de dulce de leche
+Bizcochuelo
+Tarta Tatin
+Panna cotta
+Gnocchi
+Carpaccio
+Bruschetta
+Antipasto
+Prosciutto
+Mortadela
+Bresaola
+Burrata
+Gorgonzola
+Parmesano
+Camembert
+Roquefort
+Queso azul
+Gouda
+Edam
+Caviar
+Foie gras
+Trufa
+Wasabi
+Tofu
+Tempeh
+Miso
+Kimchi
+Sashimi
+Tempura
+Onigiri
+Gyoza
+Bibimbap
+Pho
+Banh mi
+Tandoori
+Naan
+Samosa
+Couscous
+Tajine
+Paprika
+Cúrcuma
+Azafrán
+Cardamomo
+Estragón
+Romero
+Tomillo
+Laurel
+Cebollín
+Eneldo
+Kale
+Endivia
+Hinojo
+Topinambur
+Mandioca
+Batata
+Yacón
+Pitahaya
+Carambola
+Lichi
+Guayaba
+Chirimoya
+Feijoa
+Butiá
+Arazá
+Pitanga
+Guaraná
+Kombucha
+Kéfir
+Hidromiel
+Pisco
+Grappa
+Caña
+Amargo
+Vermut
+Campari
+Aperol spritz
+Negroni
+Martini
+Cosmopolitan
+Bloody Mary
+Espresso
+Ristretto
+Macchiato
+Latte
+Frappé
+Té verde
+Chai
+Matcha
+Tereré

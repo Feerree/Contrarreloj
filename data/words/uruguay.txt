@@ -1,0 +1,217 @@
+# id: uruguay
+# nombre: Cultura uruguaya
+# icono: 🇺🇾
+
+# facil
+Ta, bo
+Paisito
+Chivitería
+Pizzería de barrio
+Mundial en el bar
+Cuatro estrellas
+Campeones de América
+Bandera de Artigas
+Bandera de los Treinta y Tres
+Escudo uruguayo
+Garúa
+Chorizo al pan
+Garra charrúa
+La Celeste
+Sol de Mayo
+Bandera uruguaya
+Himno uruguayo
+Orientales, la patria o la tumba
+25 de Agosto
+Montevideano
+Ciudad Vieja
+Pocitos
+Carrasco
+Malvín
+Punta Carretas
+Cordón
+Centro de Montevideo
+Peñarol
+Nacional
+Clásico uruguayo
+Manya
+Bolso
+Tricolor
+Aurinegro
+Estadio Campeón del Siglo
+Defensor Sporting
+Danubio
+Wanderers
+Fénix
+Rentistas
+Boston River
+Plaza Colonia
+Bizcochos con mate
+Refuerzo
+Sándwich olímpico
+Asado con cuero
+Cuadro de barrio
+Túnica blanca
+Moña azul
+Liceo
+Facultad
+Bedelía
+Tamboril
+Comparsa lubola
+Gorlero
+Playa de los Ingleses
+La Pedrera
+Valizas
+Aguas Dulces
+Barra de Valizas
+Ruta 10
+Plaza Matriz
+Quiosco de diarios
+Almacén de barrio
+Bondi
+Chacra
+Estancia
+Rancho
+Pulpería
+Boliche de campaña
+Gaucho oriental
+Bombacha de campo
+Alpargatas
+Poncho
+Facón
+Rebenque
+Boleadoras
+Lazo
+Payador
+
+# intermedio
+Batalla de flores
+Despedida del Carnaval
+Liguilla Pre-Libertadores
+Torre de los Homenajes
+Bajar a la playa
+Temporada en Punta del Este
+Turista argentino
+Diáspora uruguaya
+Ley de la marihuana
+Ley de ocho horas
+Divorcio por sola voluntad
+Hospital de Clínicas
+Facultad de Medicina
+Universidad de la República
+Universidad Católica
+Universidad ORT
+Universidad de Montevideo
+Liceo Francés
+British Schools
+IAVA
+Liceo Zorrilla
+Examen de diciembre
+Previa (materia)
+Repetir de año
+Escuela laica, gratuita y obligatoria
+Cédula uruguaya
+Apagón
+La Diaria
+El País (diario)
+El Observador
+Búsqueda (semanario)
+Brecha (semanario)
+Montevideo Portal
+Radio Sarandí
+Radio Carve
+Sábado Sport
+Tenfield
+Paco Casal
+Tribuna Olímpica
+Villa del Cerro
+Belvedere
+Paso Molino
+Capurro
+Prado
+Brazo Oriental
+Aires Puros
+Sayago
+Casavalle
+Piedras Blancas
+Maroñas
+Flor de Maroñas
+Buceo (barrio)
+Punta Gorda
+Malvín Norte
+Punta de Rieles
+La Blanqueada
+Reducto
+Jacinto Vera
+Aguada
+Bella Vista
+Barrio Reus
+Shopping Montevideo
+Punta Carretas Shopping
+Nuevocentro
+Portones Shopping
+Costa Urbana
+Mercado Agrícola
+Mercado Ferrando
+Velódromo
+Cilindro Municipal
+Palacio Peñarol
+Playa Pocitos
+Playa Malvín
+Playa Carrasco
+Faro de Punta Brava
+Rambla Sur
+Rambla de Malvín
+Puerto de Punta del Este
+Playa El Emir
+Playa Bikini
+La Barra
+Manantiales (balneario)
+Cerro San Antonio
+Villa Serrana
+Colonia Valdense
+Nueva Palmira
+Conchillas
+Fortín de Santa Rosa
+Salto Grande
+Paisaje Industrial Fray Bentos
+Iglesia de Atlántida
+Gardel uruguayo
+Portuñol
+Parque de Santa Teresa
+
+# dificil
+Estatua de Artigas
+Museo del Carnaval
+Museo del Fútbol
+Museo de la Memoria
+Museo Histórico Cabildo
+Biblioteca Nacional
+Palacio Santos
+Obelisco a los Constituyentes
+Plaza Cagancha
+Plaza de los Treinta y Tres
+Plaza Zabala
+Peatonal Sarandí
+Calle Andes
+Bulevar España
+Avenida Rivera
+Avenida Brasil
+Avenida Agraciada
+Avenida Millán
+Camino Maldonado
+Camino Carrasco
+Faro de Piriápolis
+UPM
+Liga Uruguaya de Básquetbol
+Telenoche 4
+Buen Día Uruguay
+A Contramano
+Curtidores de Hongos
+Contrafarsa
+Momosapiens
+Queso Magro
+Asaltantes con Patente
+Patos Cabreros
+La Gran Muñeca
+Araca la Cana
+Zíngaros

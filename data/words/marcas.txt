@@ -1,0 +1,719 @@
+# id: marcas
+# nombre: Marcas y empresas
+# icono: 🏷️
+
+# facil
+Coca-Cola
+Pepsi
+McDonald's
+Burger King
+KFC
+Subway
+Starbucks
+Nike
+Adidas
+Puma (marca)
+Apple
+Samsung
+Google
+Microsoft
+Amazon
+Facebook
+Instagram
+WhatsApp
+TikTok
+Twitter
+Disney
+Lego
+Nintendo
+PlayStation
+Xbox
+Toyota
+Ford
+Ferrari
+Mercedes-Benz
+BMW
+Volkswagen
+Fiat
+Chevrolet
+Renault
+Peugeot
+Honda
+Tesla
+Uber
+Mercado Libre
+PedidosYa
+Rappi
+Zara
+H&M
+Shein
+Converse
+Vans
+Ray-Ban
+Rolex
+Gucci
+Louis Vuitton
+Chanel
+Victoria's Secret
+Colgate
+Gillette
+Nutella
+Kinder
+Milka
+Oreo
+Doritos
+Pringles
+Lay's
+Red Bull
+Monster (bebida)
+Gatorade
+Fanta
+Sprite
+Nescafé
+Nesquik
+Danone
+Conaprole
+Salus
+Pilsen
+Norteña
+Patricia (cerveza)
+Canarias (yerba)
+Baldo
+Sorpresa (yerba)
+Cololó
+Bimbo
+Frigo
+Freddo
+Tienda Inglesa
+Disco (supermercado)
+Devoto
+Ta-Ta
+El Dorado (supermercado)
+Antel
+Movistar
+Claro
+Ancel
+UTE
+OSE
+Visa
+Mastercard
+PayPal
+Abitab
+Redpagos
+Ikea
+Walmart
+Coto
+Carrefour
+Avon
+Natura
+Dove
+Axe (desodorante)
+Rexona
+Nivea
+Pantene
+Head & Shoulders
+Johnson's Baby
+Huggies
+Pampers
+Scotch-Brite
+Bic
+Faber-Castell
+Staedtler
+Pelikan
+Crayola
+Play-Doh
+Hot Wheels
+Matchbox
+Playmobil
+Fisher-Price
+Mattel
+Hasbro
+Nerf
+
+# intermedio
+Alfajores Portezuelo
+Alfajores Punta Ballena
+Alfajores Havanna
+Alfajores Jorgito
+Guaymallén
+Bon o Bon
+Cabsha
+Rocklets
+Toddy
+Chocolinas
+Criollitas
+Maná (galletitas)
+Merengadas
+Rumba
+Club Social
+Kesitas
+Chips Ahoy
+Ritz
+Twistos
+Cheetos
+Ruffles
+Pehuajó
+Nevares
+Lactolate
+Cindor
+Manjar
+Coronado
+Los Nietitos
+Doble Cola
+Nix
+Watt's
+Del Valle
+Cepita
+Ades
+Fresh
+Tang
+Clight
+Cifrut
+Powerade
+Speed (bebida)
+Vitamin Water
+Schweppes
+Paso de los Toros
+Mirinda
+Seven Up
+Matutina
+Minerva
+Fernet Branca
+Johnnie Walker
+Jack Daniel's
+Absolut
+Smirnoff
+Bacardí
+Havana Club
+José Cuervo
+Baileys
+Heineken
+Stella Artois
+Corona (cerveza)
+Budweiser
+Quilmes
+Zillertal
+Mastra
+Davok
+Volcánica
+Bodega Garzón
+Santa Rosa (vino)
+Faisán (vino)
+Mc Café
+Mostaza (restaurante)
+La Pasiva
+Chivitos Marcos
+Pizza Hut
+Domino's
+Papa John's
+Dunkin'
+Krispy Kreme
+Taco Bell
+Wendy's
+Popeyes
+Five Guys
+Shake Shack
+Chick-fil-A
+Hard Rock Cafe
+Café Martínez
+Nescafé Dolce Gusto
+Nespresso
+Illy
+Lavazza
+Juan Valdez
+Tim Hortons
+Costa Coffee
+Uber Eats
+Didi
+Cabify
+Airbnb
+Booking
+Expedia
+Despegar
+Trivago
+LATAM
+Aerolíneas Argentinas
+American Airlines
+Iberia
+Emirates
+Qatar Airways
+Ryanair
+Buquebus
+Colonia Express
+COT
+Turil
+Cutcsa
+Copsa
+Agencia Central
+Nissan
+Hyundai
+Kia
+Suzuki
+Mitsubishi
+Mazda
+Subaru
+Volvo
+Audi
+Porsche
+Lamborghini
+Maserati
+Bugatti
+Rolls-Royce
+Bentley
+Aston Martin
+Jaguar (marca)
+Land Rover
+Jeep
+Dodge
+Cadillac
+Mini Cooper
+Citroën
+Chery
+BYD
+Geely
+Harley-Davidson
+Yamaha
+Kawasaki
+Ducati
+Vespa
+Motomel
+Yumbo
+Winner
+Baccio
+Michelin
+Pirelli
+Goodyear
+Shell
+Esso
+Ancap
+Petrobras
+YPF
+Texaco
+Duracell
+Energizer
+Philips
+Sony
+LG
+Panasonic
+Lenovo
+HP
+Dell
+Asus
+Acer
+Huawei
+Xiaomi
+Motorola
+Nokia
+BlackBerry
+Canon
+Nikon
+GoPro
+Kodak
+Fujifilm
+JBL
+Bose
+Beats
+Marshall
+Fender
+Gibson
+Steinway
+Casio
+Swatch
+Omega
+Tag Heuer
+Seiko
+Prada
+Versace
+Armani
+Dior
+Hermès
+Balenciaga
+Fendi
+Burberry
+Dolce & Gabbana
+Tommy Hilfiger
+Calvin Klein
+Ralph Lauren
+Lacoste
+Levi's
+Diesel
+Guess
+Mango (ropa)
+Pull & Bear
+Bershka
+Stradivarius
+Forever 21
+Gap
+Uniqlo
+Primark
+Decathlon
+Under Armour
+Reebok
+New Balance
+Asics
+Fila
+Umbro
+Kappa
+Le Coq Sportif
+Topper
+Penalty
+The North Face
+Columbia
+Patagonia (marca)
+Quiksilver
+Billabong
+Rip Curl
+Crocs
+Havaianas
+Ugg
+Dr. Martens
+Timberland
+Skechers
+Jordan (marca)
+Oakley
+Hello Kitty
+Sanrio
+Bandai
+Sega
+Atari
+Ubisoft
+Electronic Arts
+Rockstar Games
+Valve
+Steam
+Epic Games
+Blizzard
+Riot Games
+Activision
+Konami
+Capcom
+Square Enix
+Twitch
+Discord
+Telegram
+Snapchat
+Pinterest
+LinkedIn
+Reddit
+Tinder
+Bumble
+Skype
+Dropbox
+Canva
+Duolingo
+Wikipedia
+OpenAI
+Anthropic
+ChatGPT
+Gemini (IA)
+Copilot
+Shopify
+eBay
+AliExpress
+Temu
+Alibaba
+Dafiti
+Mercado Pago
+Prex
+Midinero
+Brou
+Banco Santander
+Itaú
+BBVA
+Scotiabank
+HSBC
+Banco República
+Western Union
+American Express
+
+# dificil
+Nabisco
+Kraft
+Nestlé
+Unilever
+Procter & Gamble
+Mondelez
+Arcor
+Grupo Bimbo
+Ambev
+Fábricas Nacionales de Cerveza
+FNC
+Pepsico
+Kellogg's
+Quaker
+Hellmann's
+Knorr
+Maggi
+Heinz
+Campbell's
+Mars (empresa)
+M&M's
+Snickers
+Twix
+KitKat
+Toblerone
+Lindt
+Ferrero Rocher
+Raffaello
+Haribo
+Mentos
+Halls
+Tic Tac
+Bubbaloo
+Beldent
+Topline
+Sugus
+Billiken
+Mogul
+Flynn Paff
+Palitos de la selva
+Pico Dulce
+Chupa Chups
+Pez (caramelos)
+Push Pop
+Ring Pop
+Baggio
+Hamlet (galletitas)
+Bagley
+Terrabusi
+Felfort
+Georgalos
+Fanacoa
+Ricard
+Cinzano
+Gancia
+Chandon
+Moët & Chandon
+Dom Pérignon
+Veuve Clicquot
+Hennessy
+Rémy Martin
+Chivas Regal
+Jägermeister
+Malibu
+Tanqueray
+Bombay Sapphire
+Beefeater
+Gordon's
+Hendrick's
+Licor 43
+Amarula
+Kahlúa
+Cointreau
+Grand Marnier
+Espinillar
+Calvinor
+Bodega Bouza
+Bodega Pisano
+Old Spice
+Lynx
+Vasenol
+Hinds
+Ponds
+Lancôme
+Estée Lauder
+L'Oréal
+Maybelline
+MAC Cosmetics
+Revlon
+Sephora
+Clinique
+Garnier
+Sedal
+Elvive
+Plusbelle
+Suave
+Neutrogena
+La Roche-Posay
+Cetaphil
+Eucerin
+Mustela
+Nenuco
+Bayer
+Pfizer
+Moderna
+AstraZeneca
+Johnson & Johnson
+Roemmers
+Bagó
+Actron
+Ibupirac
+Perifar
+Zolben
+Novemina
+Tafirol
+Buscapina
+Sertal
+Uruguay Natural
+Marca País
+Antel Arena
+Movie Center
+Grupo Disco
+Multiahorro
+Farmashop
+San Roque
+Macromercado
+Géant
+Kinko
+El Clon
+Motociclo
+Barraca Europa
+Sodimac
+Easy
+Merrell
+Montagne
+Rapsodia
+Las Pepas
+Tascani
+Daniel Cassin
+Parisien
+Mangata
+Pepe Jeans
+Wrangler
+Lee (marca)
+Hush Puppies
+Clarks
+Kickers
+Diadora
+Lotto
+Joma
+Mizuno
+Hummel
+Brooks
+Hoka
+On Running
+Saucony
+Wilson
+Spalding
+Molten
+Mikasa (marca)
+Babolat
+Head
+Yonex
+Speedo
+Arena (marca)
+Everlast
+Venum
+Garmin
+Fitbit
+Polar (marca)
+Suunto
+Patek Philippe
+Audemars Piguet
+Cartier
+Tiffany & Co.
+Pandora (joyas)
+Swarovski
+Montblanc
+Parker
+Moleskine
+Zippo
+Victorinox
+Tupperware
+Pyrex
+Tramontina
+Oster
+Atma
+Punktal
+James
+Electrolux
+Whirlpool
+Bosch
+Siemens
+Black & Decker
+Stanley
+Dremel
+Makita
+DeWalt
+3M
+WD-40
+La Gotita
+Poxipol
+Voligoma
+Plasticola
+Uhu
+Teflón
+Velcro
+Termolar
+Contigo
+Yeti
+Coleman
+Bic Cristal
+Rotring
+Rapidograph
+Wacom
+Logitech
+Razer
+Corsair
+HyperX
+SanDisk
+Western Digital
+Seagate
+Qualcomm
+Foxconn
+TSMC
+Oracle
+IBM
+Cisco
+Salesforce
+SAP
+Adobe
+Photoshop
+Illustrator
+Excel
+PowerPoint
+Word
+Outlook
+Gmail
+Google Drive
+Google Chrome
+Firefox
+Safari
+Opera (navegador)
+Internet Explorer
+Bing
+Yahoo
+Hotmail
+MSN Messenger
+Fotolog
+MySpace
+Tumblr
+Orkut
+Vine
+Periscope
+Clubhouse
+BeReal
+Threads
+Bluesky
+Mastodon
+Kick (plataforma)
+OnlyFans
+Patreon
+Kickstarter
+GoFundMe
+Wix
+WordPress
+Figma
+Notion
+Slack
+Trello
+Asana
+Zara Home
+Bed Bath & Beyond
+Blockbuster
+Kmart
+Sears
+Macy's
+Costco
+Target
+7-Eleven
+Oxxo
+Dia (supermercado)
+Mercadona
+El Corte Inglés
+Galeries Lafayette
+Harrods
+Fortnum & Mason
+Selfridges
+FAO Schwarz
+Hamleys

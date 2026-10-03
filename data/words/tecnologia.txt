@@ -1,0 +1,387 @@
+# id: tecnologia
+# nombre: Tecnología
+# icono: 💻
+
+# facil
+Internet
+Wifi
+Bluetooth
+Contraseña
+Correo electrónico
+Mensaje de texto
+Videollamada
+Aplicación
+Descargar
+Actualización
+Batería baja
+Pantalla táctil
+Selfie
+Captura de pantalla
+Emoji
+Videojuego
+Inteligencia artificial
+Chatbot
+Programación
+Código
+Página web
+Navegador
+Buscador
+Virus informático
+Antivirus
+La nube (internet)
+Archivo
+Carpeta (computadora)
+Escritorio (computadora)
+Ícono
+Cursor
+Copiar y pegar
+Deshacer
+Guardar
+Imprimir
+Apagar y prender
+Reiniciar
+Modo avión
+Cámara frontal
+Notebook
+Smart TV
+Drone
+Impresora 3D
+Realidad virtual
+Lentes de realidad virtual
+Robot aspiradora
+Auto eléctrico
+Panel solar
+Código QR
+Código de barras
+Tarjeta de crédito
+Cajero automático
+Huella digital
+Reconocimiento facial
+Usuario
+Perfil
+Hackeo
+Spam
+Link
+Hashtag
+Arroba
+Píxel
+Megabyte
+Gigabyte
+Cable USB
+Carga rápida
+Auriculares inalámbricos
+Asistente de voz
+Alexa
+Siri
+Google Maps
+
+# intermedio
+Algoritmo de recomendación
+Base de datos
+Servidor
+Ciberseguridad
+Firewall
+Encriptación
+Verificación en dos pasos
+Phishing
+Malware
+Ransomware
+Troyano
+Gusano informático
+Bug
+Parche
+Sistema operativo
+Windows
+macOS
+Linux
+Android
+iOS
+Software
+Hardware
+Procesador
+Memoria RAM
+Disco SSD
+Placa madre
+Tarjeta gráfica
+Fuente de poder
+Monitor
+Puerto USB
+HDMI
+Cable de red
+Ancho de banda
+Velocidad de descarga
+Ping (red)
+Dirección IP
+Dominio
+Hosting
+Página de inicio
+Cookies
+Caché
+Historial de navegación
+Modo incógnito
+Pestaña
+Marcador (navegador)
+Captcha
+Inicio de sesión
+Cerrar sesión
+Bloqueo de pantalla
+Patrón de desbloqueo
+Fondo de pantalla
+Tono de llamada
+Notificación
+Modo oscuro
+Almacenamiento lleno
+Copia de seguridad
+Formatear
+Restablecer de fábrica
+Driver
+Firmware
+Bit
+Byte
+Terabyte
+Resolución
+4K
+Alta definición
+Streaming
+Transmisión en vivo
+Podcast
+Webinar
+Zoom
+Teletrabajo
+Nómade digital
+Lenguaje de programación
+Python
+JavaScript
+HTML
+Java
+C++
+Variable (programación)
+Bucle
+Función (programación)
+Compilador
+Código abierto
+GitHub
+Aprendizaje automático
+Red neuronal
+Big data
+Internet de las cosas
+Casa inteligente
+Domótica
+Blockchain
+Criptomoneda
+Bitcoin
+NFT
+Metaverso
+Realidad aumentada
+Automatización
+Robótica
+Brazo robótico
+Exoesqueleto
+Prótesis biónica
+Impresión 3D
+Escáner 3D
+Dron de reparto
+Auto autónomo
+Starlink
+SpaceX
+Fibra óptica submarina
+5G
+Antena
+Router wifi
+Repetidor wifi
+Módem
+Tarjeta SIM
+Chip
+eSIM
+Transistor
+Silicio
+Silicon Valley
+Startup
+Unicornio (empresa)
+Emprendimiento tecnológico
+Hackatón
+Interfaz
+Experiencia de usuario
+Usabilidad
+Pantalla OLED
+Pantalla plegable
+Cargador inalámbrico
+Batería de litio
+Energía renovable
+Vehículo híbrido
+Patente
+Inventor
+Invento
+Imprenta
+Máquina de vapor
+Telégrafo
+Teléfono fijo
+Radio a transistores
+Televisión en blanco y negro
+Videocasetera
+DVD
+Blu-ray
+MP3
+iPod
+Nokia 1100
+Tamagotchi
+Calculadora científica
+Computadora personal
+Mainframe
+Plan Ceibal
+Ceibalita
+
+# dificil
+Computación cuántica
+Qubit
+Ley de Moore
+Arquitectura de von Neumann
+GPU
+Overclocking
+Refrigeración líquida
+BIOS
+Kernel
+Máquina virtual
+Contenedor (software)
+Docker
+Nube híbrida
+Microservicios
+API
+Frontend
+Backend
+Full stack
+DevOps
+Control de versiones
+Git
+Commit
+Rama (git)
+Pull request
+Debugging
+Refactorización
+Deuda técnica
+Spaghetti code
+Stack Overflow
+Compilación
+Intérprete (programación)
+Sintaxis
+Recursividad
+Algoritmo de ordenamiento
+Búsqueda binaria
+Complejidad algorítmica
+Estructura de datos
+Árbol binario
+Grafo
+Pila (programación)
+Cola (programación)
+Hash
+SQL
+NoSQL
+Inyección SQL
+Ataque DDoS
+Botnet
+Ingeniería social
+Keylogger
+Spyware
+Adware
+Deep web
+Dark web
+Tor
+VPN
+Proxy
+Cifrado de extremo a extremo
+Clave pública
+Firma digital
+Certificado SSL
+HTTPS
+Protocolo
+TCP/IP
+DNS
+Servidor DNS
+Latencia
+Lag
+Paquete de datos
+LAN
+WAN
+Ethernet
+NFC
+RFID
+Pagos sin contacto
+Billetera virtual
+Fintech
+Token
+Smart contract
+Minería de criptomonedas
+Ethereum
+Deepfake
+Visión por computadora
+Procesamiento de lenguaje natural
+Modelo de lenguaje
+Prompt
+Alucinación (IA)
+Test de Turing
+Alan Turing
+Ada Lovelace
+Charles Babbage
+Máquina analítica
+ENIAC
+Tarjeta perforada
+Circuito integrado
+Microprocesador
+Intel
+AMD
+Nvidia
+Arduino
+Raspberry Pi
+Sensor
+Actuador
+Giroscopio
+Acelerómetro
+Lidar
+Radar
+Sonar
+Fibra de carbono
+Nanotecnología
+Biotecnología
+Impresora láser
+Plotter
+Pantalla de tinta electrónica
+Kindle
+E-book
+Firma electrónica
+Gobierno electrónico
+Obsolescencia programada
+Basura electrónica
+Brecha digital
+Derecho al olvido
+Privacidad de datos
+Algoritmo de búsqueda
+SEO
+Posicionamiento web
+Landing page
+Wireframe
+Prototipo
+MVP
+Beta
+Versión alfa
+Código fuente
+Licencia libre
+Software libre
+Linus Torvalds
+Richard Stallman
+Tim Berners-Lee
+World Wide Web
+ARPANET
+Módem de 56k
+Dial-up
+CD-ROM
+Windows 95
+Windows XP
+Pantallazo azul
+MS-DOS
+Línea de comandos
+Terminal
+Atajo de teclado
+Control Alt Suprimir
+Bloq Mayús
+Tecla Enter
+Barra espaciadora

@@ -1,0 +1,522 @@
+# id: cuerpo
+# nombre: Medicina y cuerpo humano
+# icono: 🫀
+
+# facil
+Cabeza
+Pelo
+Cara
+Ojo
+Nariz
+Boca
+Oreja
+Diente
+Lengua (órgano)
+Labio
+Cuello
+Hombro
+Brazo
+Codo
+Mano
+Dedo
+Uña
+Pecho
+Panza
+Ombligo
+Espalda
+Cintura
+Cadera
+Pierna
+Rodilla
+Tobillo
+Pie
+Talón
+Corazón
+Cerebro
+Pulmón
+Estómago
+Hueso
+Sangre
+Piel
+Músculo
+Ceja
+Pestaña (ojo)
+Barba
+Bigote
+Mejilla
+Frente
+Mentón
+Fiebre
+Resfrío
+Gripe
+Tos
+Estornudo
+Dolor de cabeza
+Dolor de panza
+Dolor de muela
+Herida
+Moretón
+Raspón
+Quemadura
+Fractura
+Yeso
+Hospital
+Ambulancia
+Consultorio
+Receta médica
+Remedio
+Pastilla
+Jarabe
+Inyección
+Alergia
+Picadura
+Sarampión
+Varicela
+Granos
+Acné
+Pecas
+Lunar
+Arrugas
+Canas
+Calvicie
+Hipo
+Bostezo
+Sueño
+Ronquido
+Hambre
+Sed
+Cansancio
+Embarazo
+Bebé recién nacido
+Parto
+Lágrima
+Sudor
+Saliva
+Mocos
+Caries
+Ortodoncia
+Brackets
+Primeros auxilios
+RCP
+
+# intermedio
+Hígado
+Riñón (órgano)
+Intestino
+Páncreas
+Vejiga
+Vesícula
+Apéndice
+Bazo
+Tiroides
+Esófago
+Tráquea
+Laringe
+Faringe
+Amígdalas
+Garganta
+Nuca
+Axila
+Muñeca (cuerpo)
+Antebrazo
+Palma de la mano
+Nudillo
+Pulgar
+Meñique
+Índice (dedo)
+Costilla (hueso)
+Columna vertebral
+Vértebra
+Cráneo
+Mandíbula
+Clavícula
+Omóplato
+Pelvis
+Fémur
+Tibia
+Peroné
+Rótula
+Esternón
+Cartílago
+Tendón
+Ligamento
+Tendón de Aquiles
+Bíceps
+Tríceps
+Abdominales
+Glúteos
+Cuádriceps
+Gemelos (músculo)
+Pantorrilla
+Arteria
+Vena
+Capilar
+Glóbulo rojo
+Glóbulo blanco
+Plaquetas
+Grupo sanguíneo
+Transfusión
+Donación de sangre
+Presión arterial
+Pulso
+Latido
+Ritmo cardíaco
+Colesterol
+Glucosa
+Insulina
+Hormona
+Adrenalina
+Dopamina
+Serotonina
+Sistema nervioso
+Neurona
+Médula espinal
+Reflejo
+Sistema inmune
+Anticuerpo
+Infección
+Inflamación
+Antibiótico
+Antiinflamatorio
+Analgésico
+Ibuprofeno
+Paracetamol
+Aspirina
+Antialérgico
+Suero
+Venda elástica
+Cabestrillo
+Puntos de sutura
+Cicatriz
+Ampolla
+Esguince
+Luxación
+Calambre
+Contractura
+Tortícolis
+Lumbalgia
+Hernia
+Migraña
+Mareo
+Desmayo
+Vértigo
+Náuseas
+Vómito
+Diarrea
+Indigestión
+Acidez
+Gastritis
+Úlcera
+Apendicitis
+Anemia
+Diabetes
+Asma
+Bronquitis
+Neumonía
+Sinusitis
+Otitis
+Conjuntivitis
+Faringitis
+Angina
+Hipertensión
+Infarto
+ACV
+Cáncer
+Quimioterapia
+Tumor
+Covid
+Pandemia
+Epidemia
+Contagio
+Cuarentena
+Tapabocas
+Alcohol en gel
+Hisopado
+Test de embarazo
+Ecografía
+Radiografía
+Tomografía
+Resonancia magnética
+Análisis de sangre
+Electrocardiograma
+Marcapasos
+Trasplante
+Cirugía
+Anestesia
+Quirófano
+Sala de emergencias
+Terapia intensiva
+Camilla
+Prótesis
+Implante dental
+Conducto (dentista)
+Muela de juicio
+Blanqueamiento dental
+Sarro
+Gingivitis
+Miopía
+Astigmatismo
+Daltonismo
+Ceguera
+Sordera
+Lengua de señas
+Braille
+Insomnio
+Sonambulismo
+Pesadilla
+Estrés
+Ansiedad
+Depresión
+Terapia
+Autoestima
+Dieta
+Vitamina C
+Calorías
+Hidratación
+Sedentarismo
+Obesidad
+Celiaquía
+Intolerancia a la lactosa
+Vegetariano
+Vegano
+Ayuno intermitente
+Pubertad
+Adolescencia
+Menopausia
+Envejecimiento
+Gemelos
+Cesárea
+Lactancia
+Cordón umbilical
+Placenta
+Huella dactilar
+Sistema digestivo
+Sistema respiratorio
+Sistema circulatorio
+Esqueleto
+Cinco sentidos
+Tacto
+Olfato
+Gusto
+Vista
+Oído
+
+# dificil
+Hipotálamo
+Hipófisis
+Cerebelo
+Bulbo raquídeo
+Hipocampo (cerebro)
+Amígdala cerebral
+Corteza cerebral
+Lóbulo frontal
+Hemisferio cerebral
+Sinapsis
+Neurotransmisor
+Axón
+Dendrita
+Glándula suprarrenal
+Timo
+Glándula pineal
+Duodeno
+Yeyuno
+Íleon
+Colon
+Recto
+Píloro
+Diafragma
+Pleura
+Alvéolos
+Bronquios
+Epiglotis
+Úvula
+Paladar
+Encía
+Esmalte dental
+Dentina
+Molar
+Canino (diente)
+Incisivo
+Premolar
+Iris
+Pupila
+Retina
+Córnea
+Cristalino
+Nervio óptico
+Tímpano
+Martillo (oído)
+Yunque (oído)
+Estribo (hueso)
+Caracol del oído
+Trompa de Eustaquio
+Cóclea
+Esfínter
+Uréter
+Uretra
+Próstata
+Ovario
+Útero
+Óvulo
+Espermatozoide
+Fecundación
+Embrión
+Feto
+Cigoto
+Testosterona
+Estrógeno
+Progesterona
+Cortisol
+Oxitocina
+Melatonina
+Endorfina
+Hemoglobina
+Plasma sanguíneo
+Linfa
+Ganglio
+Médula ósea
+Fagocito
+Linfocito
+Leucemia
+Hemofilia
+Trombosis
+Embolia
+Aneurisma
+Arritmia
+Taquicardia
+Bradicardia
+Soplo cardíaco
+Angina de pecho
+Arteriosclerosis
+Bypass
+Cateterismo
+Angioplastia
+Desfibrilador
+Hemodiálisis
+Cálculo renal
+Cirrosis
+Hepatitis
+Ictericia
+Pancreatitis
+Colitis
+Síndrome de colon irritable
+Reflujo gastroesofágico
+Endoscopía
+Colonoscopía
+Biopsia
+Metástasis
+Radioterapia
+Oncología
+Inmunoterapia
+Vacuna de ARN mensajero
+Inmunidad de rebaño
+Antígeno
+Alérgeno
+Shock anafiláctico
+Epinefrina
+Antihistamínico
+Corticoide
+Placebo
+Efecto nocebo
+Ensayo clínico
+Juramento hipocrático
+Hipócrates
+Galeno
+Vesalio
+Historia clínica
+Diagnóstico
+Pronóstico
+Síntoma
+Síndrome
+Patología
+Crónico
+Agudo
+Asintomático
+Incubación
+Paciente cero
+Triaje
+Maniobra de Heimlich
+Posición lateral de seguridad
+Respiración boca a boca
+Hipotermia
+Golpe de calor
+Insolación
+Deshidratación
+Hipoglucemia
+Coma
+Muerte cerebral
+Esclerosis múltiple
+Parkinson
+Alzheimer
+Epilepsia
+Autismo
+TDAH
+Dislexia
+Trastorno bipolar
+Esquizofrenia
+Trastorno obsesivo compulsivo
+Fobia
+Claustrofobia
+Aracnofobia
+Acrofobia
+Agorafobia
+Ataque de pánico
+Burnout
+Resiliencia
+Psicoterapia
+Hipocondría
+Bruxismo
+Apnea del sueño
+Narcolepsia
+Parálisis del sueño
+Fase REM
+Ciclo circadiano
+Jet lag
+Escoliosis
+Hernia de disco
+Artrosis
+Artritis
+Osteoporosis
+Tendinitis
+Fascitis plantar
+Juanete
+Pie plano
+Callo
+Verruga
+Hongos en los pies
+Psoriasis
+Dermatitis
+Vitiligo
+Rosácea
+Melanoma
+Herpes
+Paperas
+Rubéola
+Tos convulsa
+Tétanos
+Rabia (enfermedad)
+Dengue
+Malaria
+Fiebre amarilla
+Zika
+Tuberculosis
+Lepra
+Viruela
+Cólera
+Peste bubónica
+Gripe española
+Ébola
+VIH
+Sida
+Microbiota
+Probiótico
+Antioxidante
+Omega 3
+Vitamina D
+Ácido fólico
+Índice de masa corporal
+Metabolismo basal
+Cetosis
+Hidratos de carbono
+Fibra alimentaria
+Gluten

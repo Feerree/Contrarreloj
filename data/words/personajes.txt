@@ -1,0 +1,802 @@
+# id: personajes
+# nombre: Series y personajes ficticios
+# icono: 🦸
+
+# facil
+Homero Simpson
+Bart Simpson
+Lisa Simpson
+Marge Simpson
+Patricio Estrella
+Calamardo
+Don Cangrejo
+Plankton
+Arenita
+Minnie
+Goofy
+Pluto (personaje)
+Winnie Pooh
+Bugs Bunny
+Pato Lucas
+Piolín
+Silvestre
+Correcaminos
+Coyote (Looney Tunes)
+Pikachu
+Ash Ketchum
+Goku
+Vegeta
+Mario Bros
+Luigi
+Princesa Peach
+Bowser
+Sonic
+Pac-Man
+Harry Potter
+Hermione Granger
+Ron Weasley
+Dumbledore
+Voldemort
+Hagrid
+Darth Vader
+Luke Skywalker
+Yoda
+Chewbacca
+R2-D2
+C-3PO
+Princesa Leia
+Robin
+Joker
+Mujer Maravilla
+Thanos
+Wolverine
+Simba
+Mufasa
+Scar
+Timón y Pumba
+Nemo
+Dory
+Woody
+Buzz Lightyear
+Elsa
+Olaf
+Anna (Frozen)
+Burro (Shrek)
+Fiona
+Gato con Botas
+Rayo McQueen
+Mate (Cars)
+Sullivan
+Mike Wazowski
+Rapunzel
+Ariel (sirenita)
+La Sirenita
+Bella y Bestia
+Aladdín
+Genio de la lámpara
+Jasmín
+Mulán
+Pocahontas
+Moana
+Stitch
+Tarzán
+Peter Pan
+Campanita
+Capitán Garfio
+Dumbo
+Bambi
+Gepetto
+Pepe Grillo
+Alicia
+Sombrerero Loco
+Gato de Cheshire
+Reina de Corazones
+Cruella de Vil
+Maléfica
+Úrsula
+Rey Julien
+Gru
+Quico
+Don Ramón
+La Chilindrina
+Doña Florinda
+Profesor Jirafales
+Señor Barriga
+Papá Noel
+Ratón Pérez
+Conejo de Pascua
+Reyes Magos
+Hada madrina
+Bruja
+Vampiro
+Hombre lobo
+Zombi
+Fantasma
+Frankenstein
+Drácula
+Sherlock Holmes
+George (Peppa Pig)
+Charlie Brown
+Popeye
+Olivia (Popeye)
+Pantera Rosa
+Pájaro Loco
+Shaggy
+Pedro Picapiedra
+Pablo Mármol
+Tom
+Jerry
+Barbie
+Ken
+Manolito
+Susanita
+Felipe (Mafalda)
+Robin Hood
+Zorro (personaje)
+Pitufos
+Papá Pitufo
+Pitufina
+Gárgamel
+Paw Patrol
+Cosmo y Wanda
+Timmy Turner
+
+# intermedio
+Ned Flanders
+Señor Burns
+Smithers
+Moe
+Krusty
+Milhouse
+Abuelo Simpson
+Apu
+Jefe Gorgory
+Barney Gómez
+Maggie Simpson
+Peter Griffin
+Stewie Griffin
+Rick Sánchez
+Morty Smith
+Finn y Jake
+Dipper y Mabel
+Perry el ornitorrinco
+Doofenshmirtz
+Bombón, Burbuja y Bellota
+Mojo Jojo
+Dexter (laboratorio)
+Johnny Bravo
+Coraje
+Ben Tennyson
+Aang
+Zuko
+Luffy
+Zoro (One Piece)
+Light Yagami
+Ryuk
+Eren Jaeger
+Tanjiro
+Seiya
+Sailor Mercury
+Sakura (Naruto)
+Sasuke
+Kakashi
+Gohan
+Piccolo
+Krilin
+Freezer
+Cell
+Majin Boo
+Bulma
+Shenlong
+Charmander
+Squirtle
+Bulbasaur
+Mewtwo
+Team Rocket
+Meowth
+Jigglypuff
+Snorlax
+Eevee
+Link (Zelda)
+Zelda
+Kirby
+Donkey Kong
+Yoshi
+Wario
+Samus
+Kratos
+Master Chief
+Lara Croft
+Steve (Minecraft)
+Creeper
+Crash Bandicoot
+Spyro
+Sub-Zero
+Scorpion
+Ryu
+Chun-Li
+Geralt de Rivia
+Ellie (The Last of Us)
+Joel (The Last of Us)
+Arthur Morgan
+CJ (GTA)
+Kirito
+Walter White
+Jesse Pinkman
+Saul Goodman
+Tony Soprano
+Michael Scott
+Dwight Schrute
+Sheldon Cooper
+Penny (Big Bang)
+Barney Stinson
+Ted Mosby
+Joey Tribbiani
+Chandler Bing
+Ross Geller
+Rachel Green
+Monica Geller
+Phoebe Buffay
+Eleven (Stranger Things)
+Dustin
+Demogorgon
+Vecna
+Homero (Addams)
+Dedos (Locos Addams)
+El Profesor (La casa de papel)
+Tokio (La casa de papel)
+Berlín (La casa de papel)
+Jon Snow
+Daenerys Targaryen
+Tyrion Lannister
+Arya Stark
+Cersei Lannister
+Caminantes blancos
+Rick Grimes
+Negan
+Dr. Gregory House
+Meredith Grey
+Dexter Morgan
+Thomas Shelby
+Rey Joffrey
+Betty la fea
+Don Armando
+Patito (Patito Feo)
+Mía Colucci
+Jack Sparrow
+Gollum
+Frodo
+Gandalf
+Aragorn
+Legolas
+Sam Gamyi
+Sauron
+Bilbo Bolsón
+Smaug
+Dobby
+Snape
+Draco Malfoy
+Sirius Black
+Bellatrix
+Hedwig
+Neville Longbottom
+Luna Lovegood
+Katniss Everdeen
+Edward Cullen
+Bella Swan
+Jacob Black
+Neo
+Morfeo (Matrix)
+Agente Smith
+Trinity
+Sarah Connor
+Marty McFly
+Doc Brown
+Ethan Hunt
+Rocky Balboa
+Rambo
+John Wick
+Hannibal Lecter
+Norman Bates
+Pennywise
+Ghostface
+Michael Myers
+Leatherface
+Pinhead
+Samara
+Slender Man
+Capitana Marvel
+Black Widow
+Hawkeye
+Doctor Strange
+Ant-Man
+Groot
+Rocket Raccoon
+Star-Lord
+Gamora
+Loki
+Nick Fury
+Magneto
+Profesor X
+Venom
+Duende Verde
+Doctor Octopus
+Gatúbela
+Pingüino (Batman)
+Acertijo
+Harley Quinn
+Bane
+Flash
+Aquaman
+Linterna Verde
+Lex Luthor
+Supergirl
+Cyborg
+Shazam
+Hellboy
+Tortugas Ninja
+Leonardo (Tortuga Ninja)
+Splinter
+Power Ranger rojo
+Optimus Prime
+Bumblebee
+Megatron
+He-Man
+She-Ra
+Esqueletor
+Inspector Gadget
+Príncipe azul
+Siete enanitos
+Reina Malvada
+Espejito espejito
+Lobo feroz
+Gigante egoísta
+Grinch
+Jack Skellington
+Coraline
+Edward Manos de Tijera
+Willy Wonka
+Charlie (fábrica de chocolate)
+Oompa Loompa
+Mary Poppins
+Matilda
+Pippi Calzaslargas
+Heidi
+Marco (dibujo animado)
+Candy Candy
+Remi
+Bob el constructor
+Thomas el tren
+Barney (dinosaurio)
+Elmo
+Comegalletas
+Big Bird
+Rana René
+Miss Piggy
+Señor Cara de Papa
+Rex (Toy Story)
+Jessie (Toy Story)
+Lotso
+Wall-E
+Eva (Wall-E)
+Remy (Ratatouille)
+Carl Fredricksen
+Russell (Up)
+Dug
+Mr. Increíble
+Elastigirl
+Frozono
+Edna Moda
+Mérida (Valiente)
+Flynn Rider
+Kristoff
+Sven
+Hércules
+Megara
+Hades (Disney)
+Pegaso (Hércules)
+Quasimodo
+Esmeralda
+Kuzco
+Lilo
+Nala
+Rafiki
+Zazú
+Baloo
+Mowgli
+Shere Khan
+Rey Louie
+Bagheera
+Kaa
+Lady y el Vagabundo
+101 dálmatas
+Pongo
+Bolt
+Ralph el demoledor
+Vanellope
+Baymax
+Hiro Hamada
+Judy Hopps
+Nick Wilde
+Flash (Zootopia)
+Mirabel
+Bruno Madrigal
+Miguel (Coco)
+Héctor (Coco)
+Alegría (Intensa-Mente)
+Tristeza (Intensa-Mente)
+Desagrado
+Furia (Intensa-Mente)
+Ansiedad (Intensa-Mente)
+Po (Kung Fu Panda)
+Maestro Shifu
+Tigresa
+Alex el león
+Marty la cebra
+Gloria la hipopótamo
+Melman
+Pingüinos de Madagascar
+Sid (La era de hielo)
+Manny
+Diego (La era de hielo)
+Scrat
+Hipo (Cómo entrenar a tu dragón)
+Chimuelo
+Lord Farquaad
+Jengibre (Shrek)
+Dragona (Shrek)
+
+# dificil
+Lenny y Carl
+Hombre Abejorro
+Troy McClure
+Sideshow Bob
+Ralph Wiggum
+Nelson Muntz
+Bob Patiño
+Comic Book Guy
+Kenny McCormick
+Cartman
+Stan Marsh
+Butters
+Brian Griffin
+Quagmire
+Bender
+Fry
+Leela
+Zapp Brannigan
+Mr. Meeseeks
+Pepinillo Rick
+Rey Helado
+Dulce Princesa
+Marceline
+BMO
+Bill Cipher
+Grunkle Stan
+Candace Flynn
+Isabella (Phineas y Ferb)
+Profesor Utonio
+Mandark
+Dee Dee
+Eustace Bagge
+Muriel
+Ed, Edd y Eddy
+Billy y Mandy
+Puro Hueso
+Kim Possible
+Danny Phantom
+Invasor Zim
+Gerald (Hey Arnold)
+Arnold
+Helga Pataki
+Rocko
+CatDog
+Ren y Stimpy
+Tommy Pickles
+Angélica Pickles
+Carlitos (Rugrats)
+Chuckie Finster
+Doug Funnie
+Patti Mayonesa
+Toph
+Katara
+Sokka
+Iroh
+Appa
+Momo (Avatar)
+Korra
+Usagi Tsukino
+Tuxedo Mask
+Luna (Sailor Moon)
+Ikki de Fénix
+Shiryu
+Hyoga
+Shun de Andrómeda
+Saori Kido
+Jiraiya
+Itachi
+Orochimaru
+Gaara
+Hinata
+Rock Lee
+Madara
+Pain (Naruto)
+Nami
+Sanji
+Usopp
+Chopper (One Piece)
+Ace (One Piece)
+Shanks
+Barbanegra
+Kaido
+Levi Ackerman
+Mikasa
+Armin
+Titán colosal
+Nezuko
+Zenitsu
+Inosuke
+Muzan
+Edward Elric
+Alphonse Elric
+Spike Spiegel
+Totoro
+Sin Cara
+Haku (Chihiro)
+Calcifer
+Howl
+Kiki
+Ponyo
+Nausicaä
+Princesa Mononoke
+Lupin III
+Doraemon
+Nobita
+Shin-chan
+Detective Conan
+Astroboy
+Trunks
+Goten
+Broly
+Bills
+Whis
+Androide 18
+Ten Shin Han
+Yamcha
+Maestro Roshi
+Oolong
+Ganondorf
+Navi (Zelda)
+Mega Man
+Dr. Eggman
+Tails
+Knuckles
+Shadow
+Fox McCloud
+Solid Snake
+Raiden
+Dante (Devil May Cry)
+Cloud Strife
+Sephiroth
+Tifa
+Aerith
+Jill Valentine
+Leon S. Kennedy
+Némesis
+Ezio Auditore
+Altaïr
+Nathan Drake
+Aloy
+Atreus
+Marcus Fenix
+Agente 47
+GLaDOS
+Chell
+Gordon Freeman
+Isaac Clarke
+Pyramid Head
+Freddy Fazbear
+Huggy Wuggy
+Sans (Undertale)
+Hollow Knight
+Cuphead
+Arthur Shelby
+Hank Schrader
+Gus Fring
+Mike Ehrmantraut
+Kim Wexler
+Jimmy McGill
+Christopher Moltisanti
+Don Draper
+Frank Underwood
+Omar Little
+Rust Cohle
+Dale Cooper
+Laura Palmer
+Agente Mulder
+Agente Scully
+Kramer
+George Costanza
+Elaine Benes
+Leslie Knope
+Ron Swanson
+Jake Peralta
+Capitán Holt
+Jim Halpert
+Pam Beesly
+Andy Bernard
+Kevin Malone
+Charlie Kelly
+Gunther (Friends)
+Janice
+Raj Koothrappali
+Howard Wolowitz
+Leonard Hofstadter
+Amy Farrah Fowler
+Hodor
+Bran Stark
+Sansa Stark
+Ned Stark
+Jaime Lannister
+Brienne de Tarth
+Rey de la Noche
+Petyr Baelish
+Varys
+Ramsay Bolton
+Daryl Dixon
+Michonne
+Glenn Rhee
+Carl Grimes
+Hopper (Stranger Things)
+Steve Harrington
+Robin Buckley
+Eddie Munson
+Joyce Byers
+Will Byers
+Mike Wheeler
+Lucas Sinclair
+Max Mayfield
+Nairobi (La casa de papel)
+Denver (La casa de papel)
+Río (La casa de papel)
+Arturito
+Raquel Murillo
+Gi-hun
+Front Man
+Muñeca del juego del calamar
+Enid Sinclair
+Rue Bennett
+Maeve Wiley
+Otis Milburn
+Eric Effiong
+Lady Whistledown
+Daphne Bridgerton
+Homelander
+Billy Butcher
+Starlight
+Mandaloriano
+Grogu
+Boba Fett
+Obi-Wan Kenobi
+Anakin Skywalker
+Padmé
+Emperador Palpatine
+Darth Maul
+Kylo Ren
+Rey (Star Wars)
+Han Solo
+Lando Calrissian
+Jabba el Hutt
+Ewok
+Stormtrooper
+Jedi
+Sith
+Sable de luz
+Halcón Milenario
+Estrella de la Muerte
+Spock
+Capitán Kirk
+Doctor Who
+Dalek
+Tardis
+Dolores Umbridge
+Minerva McGonagall
+Gellert Grindelwald
+Newt Scamander
+Peeves
+Nick Casi Decapitado
+Hermanos Weasley
+Ginny Weasley
+Cedric Diggory
+Lucius Malfoy
+Tom Riddle
+Galadriel
+Saruman
+Arwen
+Éowyn
+Merry y Pippin
+Bárbol
+Nazgûl
+Balrog
+Elrond
+Thorin Escudo de Roble
+Aslan
+Bruja Blanca
+Señor Tumnus
+Edmund Pevensie
+Percy Jackson
+Annabeth Chase
+Peeta Mellark
+Haymitch
+Effie Trinket
+Presidente Snow
+Tris Prior
+Augustus Waters
+Hazel Grace
+Christian Grey
+Atticus Finch
+Holden Caulfield
+Jay Gatsby
+Daisy Buchanan
+Elizabeth Bennet
+Señor Darcy
+Jane Eyre
+Heathcliff
+Dorian Gray
+Dr. Jekyll y Mr. Hyde
+Capitán Nemo
+Phileas Fogg
+Robinson Crusoe
+Viernes (Robinson Crusoe)
+Gulliver
+Huckleberry Finn
+Tom Sawyer
+Oliver Twist
+Ebenezer Scrooge
+Jean Valjean
+Javert
+Fantine
+Cosette
+D'Artagnan
+Los tres mosqueteros
+Conde de Montecristo
+Hércules Poirot
+Miss Marple
+Dr. Watson
+Moriarty
+Arsène Lupin
+Philip Marlowe
+Clarice Starling
+Patrick Bateman
+Tyler Durden
+Travis Bickle
+Vito Corleone
+Michael Corleone
+Tony Montana
+Jules Winnfield
+Vincent Vega
+Mia Wallace
+La Novia (Kill Bill)
+Hans Landa
+Aldo Raine
+Django
+Dr. Strangelove
+HAL 9000
+Alex DeLarge
+Jack Torrance
+Danny Torrance
+Ripley
+Xenomorfo
+Depredador (personaje)
+T-1000
+Robocop
+Mad Max
+Furiosa
+Leeloo
+Korben Dallas
+Amélie Poulain
+Ofelia (Laberinto del fauno)
+Fauno
+Hombre pálido
+Paul Atreides
+Gusano de arena

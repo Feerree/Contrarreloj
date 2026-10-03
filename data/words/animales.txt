@@ -1,0 +1,355 @@
+# id: animales
+# nombre: Animales
+# icono: 🦁
+
+# facil
+Perro
+Gato
+Caballo
+Vaca
+Cerdo
+Oveja
+Gallina
+Pollito
+Pato
+Conejo
+León
+Tigre
+Elefante
+Jirafa
+Cebra
+Mono
+Oso
+Lobo
+Zorro
+Ratón
+Rata
+Serpiente
+Cocodrilo
+Tortuga
+Rana
+Sapo
+Pez
+Tiburón
+Ballena
+Delfín
+Pulpo
+Cangrejo
+Mariposa
+Abeja
+Hormiga
+Mosca
+Mosquito
+Araña
+Caracol
+Gusano
+Lagartija
+Águila
+Paloma
+Loro
+Búho
+Pingüino
+Avestruz
+Flamenco
+Canguro
+Koala
+Panda
+Camello
+Burro
+Cabra
+Toro
+Hipopótamo
+Rinoceronte
+Gorila
+Ardilla
+Murciélago
+Cucaracha
+Pavo
+Gaviota
+Cisne
+Hámster
+Tortuga marina
+Caballito de mar
+Estrella de mar
+Medusa
+Foca
+Morsa
+Oso polar
+Ciervo
+Mapache
+Erizo
+Zorrillo
+Langosta
+Camarón
+Grillo
+Saltamontes
+Libélula
+Vaquita de San Antonio
+Luciérnaga
+Pájaro carpintero
+Colibrí
+Cuervo
+Gorrión
+Chancho
+Lechuza
+Perezoso
+Llama
+Puma
+Leopardo
+Jaguar
+Hiena
+Pez payaso
+Tero
+Hornero
+Carpincho
+
+# intermedio
+Ñandú
+Mulita
+Armadillo
+Zorro gris
+Guazubirá
+Lobo marino
+Yacaré
+Benteveo
+Cardenal
+Calandria
+Zorzal
+Garza
+Cigüeña
+Pelícano
+Tucán
+Guacamayo
+Cóndor
+Halcón
+Gavilán
+Buitre
+Carancho
+Chimango
+Pavo real
+Faisán
+Codorniz
+Perdiz
+Chajá
+Cotorra
+Golondrina
+Picaflor
+Martín pescador
+Alpaca
+Vicuña
+Guanaco
+Tapir
+Oso hormiguero
+Coatí
+Nutria
+Castor
+Comadreja
+Hurón
+Topo
+Puercoespín
+Chinchilla
+Cobayo
+Lince
+Pantera
+Guepardo
+Chacal
+Coyote
+Bisonte
+Búfalo
+Alce
+Reno
+Antílope
+Gacela
+Ñu
+Okapi
+Orangután
+Chimpancé
+Babuino
+Lémur
+Suricata
+Ornitorrinco
+Wombat
+Demonio de Tasmania
+Dromedario
+Mula
+Iguana
+Camaleón
+Salamandra
+Víbora de la cruz
+Boa
+Cobra
+Pitón
+Anaconda
+Escorpión
+Tarántula
+Ciempiés
+Polilla
+Avispa
+Abejorro
+Termita
+Garrapata
+Pulga
+Piojo
+Babosa
+Mejillón
+Almeja
+Ostra
+Calamar
+Sepia
+Raya
+Pez espada
+Pez globo
+Piraña
+Salmón
+Atún
+Trucha
+Bagre
+Anguila
+Orca
+Narval
+Manatí
+Erizo de mar
+Coral
+Mantis religiosa
+Escarabajo
+Lombriz
+Sanguijuela
+Mamut
+Dinosaurio
+Tiranosaurio
+Hormiga colorada
+Pinzón
+Mirlo
+Petirrojo
+Albatros
+Pingüino emperador
+Oso pardo
+Oso de anteojos
+Tamandúa
+Mono capuchino
+Mono aullador
+Perro salchicha
+Caniche
+Pastor alemán
+Gato siamés
+Ganso
+
+# dificil
+Tatú carreta
+Ocelote
+Margay
+Gato montés
+Aguará guazú
+Ciervo de los pantanos
+Venado de campo
+Lobito de río
+Mano pelada
+Hurón menor
+Cuis
+Tuco-tuco
+Zarigüeya
+Comadreja overa
+Murciélago vampiro
+Tero real
+Cuervillo de cañada
+Espátula rosada
+Biguá
+Macá
+Cardenal amarillo
+Churrinche
+Hornero de pecho blanco
+Ratona
+Tordo
+Pirincho
+Urraca
+Jilguero
+Gliptodonte
+Megaterio
+Smilodon
+Velociraptor
+Triceratops
+Estegosaurio
+Pterodáctilo
+Braquiosaurio
+Dodo
+Tilacino
+Celacanto
+Axolote
+Tardígrado
+Pez linterna
+Pez abisal
+Cachalote
+Beluga
+Dugongo
+Kril
+Plancton
+Anémona
+Nautilus
+Cangrejo ermitaño
+Cacatúa
+Casuario
+Emú
+Quetzal
+Ave del paraíso
+Pájaro bobo
+Frailecillo
+Marabú
+Ibis
+Grulla
+Avutarda
+Martineta
+Pangolín
+Cerdo hormiguero
+Ñandú petiso
+Aye-aye
+Tarsero
+Loris
+Gibón
+Mandril
+Bonobo
+Kinkajú
+Mangosta
+Jineta
+Tejón
+Glotón
+Marta
+Armiño
+Visón
+Cebú
+Yak
+Íbice
+Rebeco
+Muflón
+Dragón de Komodo
+Monstruo de Gila
+Basilisco
+Gecko
+Rana dardo venenosa
+Sapo cururú
+Tortuga de Galápagos
+Morena
+Barracuda
+Pez martillo
+Tiburón ballena
+Pez luna
+Rape
+Medusa inmortal
+Mantarraya
+Escarabajo pelotero
+Mariposa monarca
+Insecto palo
+Cigarra
+Chinche
+Cochinilla
+Tijereta
+Garza mora
+Flamenco austral
+Cisne de cuello negro
+Gaviota cocinera
+Pingüino de Magallanes
+Elefante marino
+Lobo marino de un pelo
+Ballena franca austral
+Ballena jorobada
+Delfín rosado
+Franciscana

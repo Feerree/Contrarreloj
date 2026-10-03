@@ -1,0 +1,329 @@
+# id: internet
+# nombre: Redes sociales e Internet
+# icono: 📱
+
+# facil
+Like
+Seguidor
+Dejar de seguir
+Comentario
+Compartir
+Publicación
+Historia de Instagram
+Reel
+Video viral
+Meme
+Sticker
+GIF
+Audio de WhatsApp
+Grupo de WhatsApp
+Doble tilde azul
+Visto
+En línea
+Última conexión
+Estado de WhatsApp
+Foto de perfil
+Biografía de perfil
+Filtro de Instagram
+Live
+Etiquetar
+Mención
+Mensaje directo
+Chat
+Bloquear
+Silenciar
+Reportar
+Tiktoker
+Tendencia
+Challenge
+Unboxing
+Vlog
+Clickbait
+Suscribirse
+Activar la campanita
+Emoji llorando de risa
+Fueguito
+Cara de payaso
+Ojos de corazón
+Wifi gratis
+Sin señal
+Datos móviles
+Se me cortó
+Buffering
+Reenviar
+Cadena de WhatsApp
+Fake news
+Bot
+Troll
+Hater
+Fan
+Stalkear
+Ghostear
+Clavar el visto
+Crush
+Match
+Swipe
+Cita online
+Videollamada grupal
+Clase virtual
+Cámara apagada
+Micrófono silenciado
+Compartir pantalla
+Pantalla congelada
+
+# intermedio
+X (Twitter)
+Tuit
+Retuit
+Hilo de Twitter
+Trending topic
+Espacio de Twitter
+Facebook Marketplace
+Grupo de Facebook
+Evento de Facebook
+Muro de Facebook
+Poke
+Solicitud de amistad
+Amigos en común
+Close friends
+Encuesta en historia
+Caja de preguntas
+Destacadas
+Feed
+Grilla de Instagram
+Carrusel
+Explorar
+For You
+Algoritmo de TikTok
+Duet
+Stitch (TikTok)
+Sonido original
+POV
+Storytime
+GRWM
+Outfit del día
+Haul
+Mukbang
+ASMR
+Reacción (video)
+YouTube Shorts
+Monetización
+Sponsor
+Canje con marcas
+Código de descuento
+Link en la bio
+Linktree
+Colaboración
+Engagement
+Alcance
+Impresiones
+Métricas
+Seguidores falsos
+Comprar seguidores
+Verificado
+Cuenta privada
+Cuenta pública
+Cuenta fake
+Finsta
+Catfish
+Ciberacoso
+Grooming
+Doxeo
+Hackeo de cuenta
+Suplantación de identidad
+Estafa online
+Cuento del tío digital
+Contraseña robada
+Cancelación
+Cultura de la cancelación
+Funar
+Escrache
+Exposed
+Drama de youtubers
+Beef
+Shitpost
+Copypasta
+Subreddit
+Upvote
+Downvote
+Foro
+Taringa
+Yahoo Respuestas
+Messenger
+Zumbido
+Nick de MSN
+Ventanita de chat
+Emoticón
+Kaomoji
+Lol
+XD
+Jaja
+Jsjs
+Ok boomer
+Boomer
+Millennial
+Centennial
+Generación Z
+Generación Alpha
+Nativo digital
+Adicción al celular
+Desintoxicación digital
+Tiempo en pantalla
+Scroll infinito
+Doomscrolling
+FOMO
+JOMO
+Cringe
+Random
+Basado
+Red flag
+Green flag
+Ick
+Rizz
+Slay
+Delulu
+Aesthetic
+Vibe
+Mood
+Literal
+Sigma
+Skibidi
+Brainrot
+Sus
+Ratio
+Stan
+Shippeo
+OTP
+Fanart
+Edit
+Fancam
+Plantilla de meme
+Meme del perro Cheems
+Doge
+Pepe la rana
+Rickroll
+Nyan Cat
+Harlem Shake
+Ice Bucket Challenge
+Gangnam Style
+Vestido azul y negro
+Distracted boyfriend
+Mujer gritándole al gato
+This is fine
+Stonks
+Trollface
+Forever alone
+Bad Luck Brian
+Success Kid
+Grumpy Cat
+Keyboard Cat
+Charlie bit my finger
+Momo challenge
+Tide Pods
+Bottle flip
+Mannequin challenge
+Planking
+Dab
+Floss
+Renegade
+
+# dificil
+Wiki
+Blog
+Fediverso
+Web 2.0
+Web3
+Dominio .uy
+Insignia
+Moderador
+Admin
+Baneo
+Shadowban
+Strike
+Desmonetización
+Fair use
+Creative Commons
+Marca de agua
+Captura de video
+Recorte
+Filtro de belleza
+Dismorfia de Snapchat
+Retoque fotográfico
+Facetune
+Lensa
+Avatares IA
+Voz clonada
+Faceapp
+Racha de Snapchat
+Racha de Duolingo
+Búho de Duolingo
+Wordle
+Donación por Twitch
+Sub (Twitch)
+Emote
+VOD
+Co-streaming
+Watch party
+Comunidad online
+Influencer de nicho
+Microinfluencer
+UGC
+Creador de contenido
+Economía de creadores
+Cookies de terceros
+Publicidad segmentada
+Privacidad en redes
+Términos y condiciones
+Aceptar cookies
+Cambridge Analytica
+Filtración de datos
+Big Tech
+GAFAM
+Neutralidad de la red
+Burbuja de filtro
+Cámara de eco
+Desinformación
+Posverdad
+Chequeo de datos
+Granja de trolls
+Astroturfing
+Viralización
+Efecto Streisand
+Ley de Godwin
+Ley de Poe
+Regla 34
+Lurker
+Necroposting
+Off-topic
+Spoiler alert
+IRL
+AFK
+BRB
+DM
+FYP
+Simp
+Incel
+Edgy
+Flogger
+Chat de Terra
+Latin Chat
+Ares
+Napster
+LimeWire
+Megaupload
+Cuevana
+Popcorn Time
+Torrent
+Emulador
+ROM
+Acortador de links
+Menú QR
+Prueba de velocidad
+Antel Fibra
+Plan de datos
+Roaming
+Recarga de saldo
+SMS de verificación
+Autenticador
+Google Authenticator
+Recuperar cuenta

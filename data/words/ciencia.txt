@@ -1,0 +1,539 @@
+# id: ciencia
+# nombre: Ciencia
+# icono: 🔬
+
+# facil
+Átomo
+Molécula
+Célula
+ADN
+Gravedad
+Electricidad
+Imán
+Energía
+Luz
+Sonido
+Calor
+Temperatura
+Vapor
+Oxígeno
+Dióxido de carbono
+Planeta
+Estrella
+Sol
+Luna
+Tierra (planeta)
+Marte
+Júpiter
+Saturno
+Venus
+Mercurio (planeta)
+Neptuno
+Urano
+Plutón
+Galaxia
+Vía Láctea
+Universo
+Cometa
+Meteorito
+Asteroide
+Agujero negro
+Eclipse
+Telescopio
+Laboratorio
+Experimento
+Fósil
+Fotosíntesis
+Semilla
+Raíz
+Hoja
+Flor
+Fruto
+Bacteria
+Virus
+Vacuna
+Microbio
+Batería
+Robot
+Cohete
+Satélite
+Nave espacial
+Estación espacial
+Gravedad cero
+Big Bang
+Evolución
+Darwin
+Einstein
+Isaac Newton
+Fórmula
+Ecuación
+Teoría
+Hipótesis
+Química
+Física
+Biología
+Matemática
+Suma
+Resta
+Multiplicación
+División
+Número pi
+Triángulo
+Círculo
+Cuadrado
+Rectángulo
+Cubo
+Esfera
+Pirámide (figura)
+Ángulo recto
+Porcentaje
+Fracción
+Número primo
+Infinito
+Cero
+Metro
+Kilo
+Litro
+Segundo (tiempo)
+
+# intermedio
+Protón
+Neutrón
+Electrón
+Núcleo atómico
+Tabla periódica
+Elemento químico
+Hidrógeno
+Helio
+Carbono
+Nitrógeno
+Sodio
+Hierro
+Oro (elemento)
+Plata (elemento)
+Cobre
+Aluminio
+Plomo
+Uranio
+Calcio
+Potasio
+Mercurio (elemento)
+Ácido
+Base química
+pH
+Reacción química
+Combustión
+Oxidación
+Óxido
+Sal común
+Mezcla
+Solución
+Disolvente
+Evaporación
+Condensación
+Ebullición
+Fusión
+Solidificación
+Estado sólido
+Estado líquido
+Estado gaseoso
+Plasma
+Densidad
+Masa
+Volumen
+Peso
+Velocidad
+Aceleración
+Fuerza
+Inercia
+Fricción
+Presión
+Palanca
+Polea
+Rueda
+Péndulo de Foucault
+Onda
+Frecuencia
+Eco
+Reflexión
+Refracción
+Prisma
+Espectro
+Infrarrojo
+Ultravioleta
+Rayos X
+Radiación
+Radiactividad
+Electroimán
+Corriente eléctrica
+Voltaje
+Circuito
+Conductor
+Aislante
+Campo magnético
+Polo magnético
+Energía solar
+Energía eólica
+Energía nuclear
+Energía hidráulica
+Combustible fósil
+Petróleo
+Gas natural
+Carbón
+Reciclaje
+Ecosistema
+Cadena alimenticia
+Biodiversidad
+Especie
+Hábitat
+Mamífero
+Reptil
+Anfibio
+Ave
+Insecto
+Invertebrado
+Vertebrado
+Herbívoro
+Carnívoro
+Omnívoro
+Depredador
+Presa
+Parásito
+Hongo
+Moho
+Levadura (organismo)
+Alga
+Musgo
+Helecho
+Polinización
+Germinación
+Clorofila
+Mitosis
+Gen
+Cromosoma
+Herencia genética
+Mutación
+Clonación
+Oveja Dolly
+Selección natural
+Adaptación
+Extinción
+Microscopio electrónico
+Método científico
+Variable
+Observación
+Muestra
+Teoría de la relatividad
+Mecánica cuántica
+Átomo de Bohr
+Leyes de Newton
+Marie Curie
+Galileo Galilei
+Nikola Tesla
+Stephen Hawking
+Copérnico
+Arquímedes
+Pitágoras
+Teorema de Pitágoras
+Euclides
+Mendel
+Pasteur
+Alexander Fleming
+Penicilina
+Sistema solar
+Órbita
+Rotación
+Traslación
+Estación del año
+Fases de la Luna
+Luna llena
+Luna nueva
+Cuarto creciente
+Constelación
+Osa Mayor
+Cruz del Sur
+Tres Marías
+Estrella fugaz
+Lluvia de estrellas
+Supernova
+Nebulosa
+Año luz
+Exoplaneta
+Telescopio Hubble
+Telescopio James Webb
+NASA
+Curiosity
+Andrómeda
+Aurora boreal
+Raíz cuadrada
+Potencia
+Logaritmo
+Álgebra
+Geometría
+Trigonometría
+Estadística
+Probabilidad
+Promedio
+Gráfica
+Paralelogramo
+Rombo
+Trapecio
+Hexágono
+Pentágono
+Octógono
+Polígono
+Diámetro
+Radio (geometría)
+Circunferencia
+Perímetro
+Área
+Hipotenusa
+Cateto
+Cilindro
+Cono
+Vector
+Número negativo
+Número decimal
+Número romano
+Sistema binario
+Millón
+Billón
+Gúgol
+
+# dificil
+Quark
+Neutrino
+Bosón de Higgs
+Antimateria
+Materia oscura
+Energía oscura
+Entropía
+Termodinámica
+Cero absoluto
+Superconductor
+Semiconductor
+Fisión nuclear
+Fusión nuclear
+Acelerador de partículas
+CERN
+Gran Colisionador de Hadrones
+Teoría de cuerdas
+Principio de incertidumbre
+Gato de Schrödinger
+Dualidad onda-partícula
+Efecto Doppler
+Efecto fotoeléctrico
+Efecto túnel
+Relatividad especial
+Dilatación del tiempo
+Paradoja de los gemelos
+Agujero de gusano
+Horizonte de sucesos
+Singularidad
+Radiación de Hawking
+Estrella de neutrones
+Púlsar
+Cuásar
+Enana blanca
+Gigante roja
+Enana marrón
+Cinturón de asteroides
+Cinturón de Kuiper
+Nube de Oort
+Planeta enano
+Ceres
+Europa (luna)
+Titán
+Ganímedes
+Ío
+Fobos
+Cometa Halley
+Voyager
+Sonda espacial
+Efecto Coriolis
+Isótopo
+Ion
+Catión
+Anión
+Valencia química
+Enlace covalente
+Enlace iónico
+Puente de hidrógeno
+Catalizador
+Enzima
+Polímero
+Monómero
+Hidrocarburo
+Alcohol (químico)
+Ácido sulfúrico
+Ácido clorhídrico
+Bicarbonato de sodio
+Amoníaco
+Metano
+Ozono
+Grafeno
+Aleación
+Bronce
+Acero
+Mol
+Número de Avogadro
+Ley de Ohm
+Ley de Hooke
+Principio de Arquímedes
+Principio de Pascal
+Teorema de Bernoulli
+Momento angular
+Torque
+Caída libre
+Movimiento rectilíneo
+Movimiento circular
+Energía cinética
+Energía potencial
+Trabajo mecánico
+Caballo de fuerza
+Vatio
+Julio (unidad)
+Newton (unidad)
+Kelvin
+Pascal (unidad)
+Hertz
+Ohmio
+Amperio
+Voltio
+Culombio
+Decibel
+Fotón
+Láser
+Holograma
+Fibra óptica
+Espectrómetro
+Cromatografía
+Centrifugadora
+Destilación
+Filtración
+Decantación
+Sublimación
+Ósmosis
+Difusión
+Homeostasis
+Metabolismo
+Respiración celular
+Mitocondria
+Ribosoma
+Núcleo celular
+Membrana celular
+Citoplasma
+Pared celular
+Cloroplasto
+Vacuola
+Meiosis
+ARN
+Proteína
+Aminoácido
+Genoma
+Genoma humano
+CRISPR
+Transgénico
+Célula madre
+Procariota
+Eucariota
+Arquea
+Protozoo
+Ameba
+Paramecio
+Taxonomía
+Reino animal
+Filo
+Género (biología)
+Carl Linneo
+Nomenclatura binomial
+Simbiosis
+Mutualismo
+Comensalismo
+Bioluminiscencia
+Fotoperíodo
+Tropismo
+Estomas
+Xilema
+Floema
+Polen
+Estambre
+Pistilo
+Gimnosperma
+Angiosperma
+Endemismo
+Especie invasora
+Sucesión ecológica
+Bioma
+Pirámide trófica
+Ley de Mendel
+Alelo
+Genotipo
+Fenotipo
+Dominante y recesivo
+Darwinismo
+Lamarck
+Ancestro común
+Eslabón perdido
+Estratigrafía
+Datación por carbono
+Era geológica
+Jurásico
+Cretácico
+Cámbrico
+Extinción masiva
+Meteorito de Chicxulub
+Tabla de multiplicar
+Números imaginarios
+Número áureo
+Sucesión de Fibonacci
+Número e
+Derivada
+Integral
+Límite
+Función matemática
+Matriz
+Conjunto
+Teoría de conjuntos
+Diagrama de Venn
+Paradoja de Zenón
+Fractal
+Topología
+Banda de Möbius
+Botella de Klein
+Teorema de Fermat
+Hipótesis de Riemann
+Máquina de Turing
+Algoritmo
+Criptografía
+Ecuación de segundo grado
+Plano cartesiano
+Bisectriz
+Mediatriz
+Tangente
+Seno
+Coseno
+Radián
+Poliedro
+Tetraedro
+Icosaedro
+Dodecaedro
+Elipse
+Parábola
+Hipérbola
+Asíntota
+Media aritmética
+Mediana
+Moda (estadística)
+Desviación estándar
+Campana de Gauss
+Correlación
+Muestreo
+Margen de error
+Mínimo común múltiplo
+Máximo común divisor
+Factorial
+Combinatoria
+Permutación
+Número irracional
+Número perfecto

@@ -1,0 +1,442 @@
+# id: internacional
+# nombre: Cultura internacional
+# icono: 🌍
+
+# facil
+Pasta italiana
+Boina francesa
+Kimono
+Geisha
+Dragón chino
+Año del conejo
+Palillos chinos
+Galleta de la fortuna
+Bumerán
+Haka
+Kilt escocés
+Monstruo del lago Ness
+Guardia real británica
+Autobús rojo de Londres
+Cabina telefónica roja
+Taxi amarillo de Nueva York
+Cowboy
+Sombrero de vaquero
+Día de Acción de Gracias
+Pavo de Acción de Gracias
+Cuatro de julio
+Hot dog neoyorquino
+Animadoras
+Graduación con birrete
+Baile de graduación
+Prom
+Fraternidad universitaria
+Autobús escolar amarillo
+Taco mexicano en Estados Unidos
+Tapas
+Fiesta de San Fermín
+Salchicha alemana
+Chucrut
+Pretzel
+Tulipanes holandeses
+Molino de viento
+Zuecos
+Bicicletas en Ámsterdam
+Matrioska
+Ballet ruso
+Ushanka
+Pirámides y faraones
+Jeroglífico egipcio
+Polinesio
+Collar de flores hawaiano
+Hula
+Surf en Hawái
+Iglú
+Esquimal
+Trineo de perros
+
+# intermedio
+Ceremonia del té
+Harajuku
+Kawaii
+Maneki-neko
+Daruma
+Kabuki japonés
+Onsen
+Bento
+Mochi
+Dango
+Takoyaki
+Okonomiyaki
+Wagyu
+Sake
+K-drama
+Hallyu
+Barbacoa coreana
+Soju
+Hanbok
+Año Nuevo lunar
+Festival del medio otoño
+Pastel de luna
+Danza del dragón
+Danza del león
+Tai chi
+Ejército de terracota
+Pato laqueado
+Dumplings
+Té de burbujas
+Sombrero cónico
+Masaje tailandés
+Songkran
+Holi
+Sari
+Bindi
+Henna
+Mehndi
+Turbante
+Sij
+Gurú
+Ashram
+Varanasi
+Sistema de castas
+Bazar
+Zoco
+Alfombra persa
+Narguile
+Shisha
+Danza del vientre
+Derviche giratorio
+Hammam
+Delicias turcas
+Mezquita Azul
+Gran Bazar de Estambul
+Hiyab
+Burka
+Papiro
+Faluca
+Tuareg
+Cuscús marroquí
+Tajín marroquí
+Medina de Marrakech
+Babuchas
+Safari en Kenia
+Masái
+Gran Migración
+Cinco grandes
+Vuvuzela
+Mundial 2010
+Afrobeat
+Fela Kuti
+Kente
+Aborígenes australianos
+Uluru
+Maoríes
+Hobbiton
+Tatuaje maorí
+Ta moko
+Fish and chips
+Hora del té
+Scones con crema
+Familia real británica
+Coronación
+Corgi de la reina
+Cambio de guardia
+Humor británico
+Monty Python
+Beatlemanía
+Swinging London
+Haggis
+Tartán
+Leprechaun
+Guinness
+Riverdance
+Cancán
+Macarons franceses
+Croque monsieur
+Escargots
+Quesos franceses
+Champaña
+Alta costura
+Semana de la moda de París
+Gondolero
+Commedia italiana
+Gelato
+Mafia siciliana
+Cosa Nostra
+Papa en el Vaticano
+Guardia Suiza
+Jamón ibérico
+Churros con chocolate
+Tortilla española
+Sevillanas
+Feria de Abril
+Fado
+Pastel de Belém
+Bacalao portugués
+Azulejos
+Tranvía 28
+Waffles belgas
+Manneken Pis
+Bratwurst
+Vals vienés
+Sachertorte
+Lederhosen
+Dirndl
+Alpes suizos
+Hygge
+Mitología nórdica
+Fika
+Smörgåsbord
+Blinis
+Catedral de San Basilio
+Huevo Fabergé
+Ballet Bolshói
+Cosacos
+Danza cosaca
+Kalinka
+Gulag
+Ruta 66
+Show de medio tiempo
+Apple pie
+Pancakes con miel de maple
+Jarabe de arce
+Barbacoa texana
+Tex-Mex
+Hot wings
+Mac and cheese
+Spring break
+Road trip
+Motel de ruta
+Diner
+Drive-thru
+Jazz de Nueva Orleans
+Mardi Gras
+Hip hop del Bronx
+Hockey canadiense
+Policía montada
+Poutine
+Inuit
+Tótem
+
+# dificil
+Wabi-sabi
+Ikigai
+Kintsugi
+Omotenashi
+Shinto
+Yokai
+Kitsune
+Tanuki
+Oni
+Shogun
+Ronin
+Bushido
+Seppuku
+Ukiyo-e
+La gran ola de Kanagawa
+Hokusai
+Manga shonen
+Shojo
+Isekai
+Otaku
+Hikikomori
+Pachinko
+Hotel cápsula
+Purikura
+Gachapon
+Konbini
+Shibuya
+Akihabara
+Paso de Shibuya
+Hachiko
+Godzilla
+I Ching
+Tao Te Ching
+Sun Tzu
+El arte de la guerra
+Pinyin
+Mandarín
+Cantonés
+Ópera de Pekín
+Guerreros de Xi'an
+Dinastía Ming
+Dinastía Qing
+Último emperador
+Puyi
+Libro rojo
+Macao
+Té oolong
+Té pu-erh
+Kama Sutra
+Mahabharata
+Ramayana
+Bhagavad Gita
+Upanishads
+Vedas
+Shiva
+Vishnu
+Brahma
+Ganesha
+Krishna
+Kali
+Hanuman
+Lakshmi
+Namasté
+Ayurveda
+Kathakali
+Bharatanatyam
+Ravi Shankar
+Raga
+Chai masala
+Lassi
+Biryani
+Dosa
+Paneer
+Ghee
+Chutney
+Tren de Bombay
+Dabbawala
+Sufismo
+Rumi
+Sherezade
+Simbad el marino
+Alí Babá
+Alfombra voladora
+Califa
+Sultán
+Harén
+Visir
+Jeque
+Emir
+Beduino
+Caravana
+Dátiles
+Café árabe
+Halva
+Shakshuka
+Pita
+Za'atar
+Kipá
+Menorá
+Estrella de David
+Shofar
+Pésaj
+Yom Kipur
+Rosh Hashaná
+Purim
+Klezmer
+Kibutz
+Ortodoxos jasídicos
+Yidis
+Golem
+Mezuzá
+Zoroastrismo
+Nouruz
+Ciro el Grande
+Omar Jayam
+Hafez
+Shahnameh
+Kurdos
+Armenios
+Duduk
+Lavash
+Khachapuri
+Polifonía georgiana
+Döner
+Simit
+Raki
+Atatürk
+Pamukkale
+Éfeso
+Ouzo
+Sirtaki
+Zorba el griego
+Feta
+Retsina
+Bouzouki
+Rebetiko
+Ostracismo
+Ágora
+Oráculo de Delfos
+Juegos de Olimpia
+Filosofía griega
+Teatro de Epidauro
+Ciclo artúrico
+Excalibur
+Camelot
+Mesa redonda
+Merlín
+Lancelot
+Bosque de Sherwood
+Beowulf
+Canterbury
+Chaucer
+Druidas
+Celtas
+Samhain
+Banshee
+Selkie
+Kelpie
+Dullahan
+Gaélico
+Runas
+Edda
+Sagas islandesas
+Valhalla
+Valquiria
+Yggdrasil
+Ragnarök
+Mjölnir
+Berserker
+Drakkar vikingo
+Fiordos noruegos
+Sol de medianoche
+Noche polar
+Sami
+Joik
+Kalevala
+Sisu
+Lagom
+Janteloven
+Smörrebröd
+Lutefisk
+Surströmming
+Glögg
+Krampus
+Mercado navideño
+Calendario de adviento
+Corona de adviento
+Nutcracker
+Hermanos Grimm
+Selva Negra
+Castillo de Neuschwanstein
+Ruta Romántica
+Ampelmännchen
+Currywurst
+Schnitzel
+Café vienés
+Ópera de Viena
+Lipizzanos
+Escuela Española de Equitación
+Transilvania
+Castillo de Bran
+Gitanos
+Csárdás
+Tokaji
+Polka polaca
+Bigos
+Pysanky
+Bandura
+Borsch ucraniano
+Pan de centeno
+Kvas
+Samovar
+Dacha
+Banya
+Lada
+Trabant
+Fiat 500
+Black cab
+Double-decker
+Oxbridge
+Eton
+Neolengua

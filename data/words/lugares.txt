@@ -1,0 +1,335 @@
+# id: lugares
+# nombre: Lugares y edificios
+# icono: 🏠
+
+# facil
+Casa
+Apartamento
+Edificio
+Rascacielos
+Living
+Comedor
+Dormitorio
+Baño
+Patio
+Balcón
+Terraza
+Azotea
+Sótano
+Altillo
+Escalera mecánica
+Ascensor
+Escuela
+Jardín de infantes
+Universidad
+Aula
+Patio del recreo
+Gimnasio de la escuela
+Comedor escolar
+Cementerio
+Farmacia
+Panadería
+Carnicería
+Verdulería
+Almacén
+Peluquería
+Barbería
+Lavandería
+Juguetería
+Heladería
+Pizzería
+Restaurante
+Cafetería
+Parrillada
+Hamburguesería
+Correo
+Estación de policía
+Cuartel de bomberos
+Estadio de fútbol
+Polideportivo
+Piscina
+Plaza de juegos
+Parque
+Granja
+Establo
+Gallinero
+Corral
+Chiquero
+Cucha
+Pecera
+Jaula
+Isla desierta
+Cabaña
+Carpa de camping
+Hotel
+Motel
+Hostal
+Posada
+Shopping center
+Mercado
+Feria
+Autolavado
+Taller
+Oficina
+Depósito
+Galpón
+Obra en construcción
+
+# intermedio
+Monoambiente
+Penthouse
+Dúplex
+Loft
+Casa de campo
+Quinta
+Chalet
+Mansión
+Palacio
+Muralla
+Fuerte
+Búnker
+Refugio
+Choza
+Tipi
+Palafito
+Rancho de paja
+Conventillo
+Pensión
+Residencia estudiantil
+Geriátrico
+Orfanato
+Guardería
+Internado
+Convento
+Abadía
+Ermita
+Capilla
+Basílica
+Santuario
+Templo budista
+Mausoleo
+Panteón
+Cripta
+Catacumbas
+Morgue
+Funeraria
+Sala velatoria
+Notaría
+Juzgado
+Municipalidad
+Registro civil
+Oficina de correos
+Hemeroteca
+Pinacoteca
+Observatorio
+Jardín botánico
+Bodega
+Viñedo
+Destilería
+Cervecería
+Fábrica de chocolate
+Astillero
+Dique seco
+Aserradero
+Molino
+Silo
+Tambo
+Matadero
+Frigorífico
+Mina de oro
+Pozo de petróleo
+Plataforma petrolera
+Represa
+Central nuclear
+Central eléctrica
+Parque eólico
+Planta potabilizadora
+Basural
+Vertedero
+Planta de reciclaje
+Desarmadero
+Chatarrería
+Casa de empeño
+Autódromo
+Pista de patinaje
+Pista de hielo
+Bolera
+Sala de juegos
+Cancha de tenis
+Cancha de paddle
+Campo de golf
+Pista de atletismo
+Skatepark
+Parque temático
+Reserva ecológica
+Mirador
+Refugio de montaña
+Estación de esquí
+Balneario
+Malecón
+Muelle de pescadores
+Rompeolas
+Puerto deportivo
+Marina
+Club náutico
+Aeroclub
+Hangar
+Terminal aérea
+Sala de espera
+Sala VIP
+Parador
+Boletería
+Guardarropa
+Probador
+Vidriera
+Escaparate
+Patio de comidas
+Food truck
+Carrito de panchos
+Puesto de diarios
+Quiosco de revistas
+Cabina de fotos
+Callejón
+Cortada
+Bulevar
+Peatonal
+Paseo marítimo
+Fuente
+Monumento
+Arco de triunfo
+Obelisco
+Barrio cerrado
+Country
+Favela
+Chinatown
+Zona roja
+Centro histórico
+Casco antiguo
+
+# dificil
+Anfiteatro
+Acueducto
+Termas romanas
+Circo romano
+Hipódromo romano
+Zigurat
+Mastaba
+Necrópolis
+Ciudadela
+Alcázar
+Alcazaba
+Caravasar
+Serrallo
+Torre de homenaje
+Foso
+Puente levadizo
+Almena
+Atalaya
+Calabozo
+Mazmorra
+Patíbulo
+Cadalso
+Picota
+Claustro
+Refectorio
+Scriptorium
+Campanario
+Sacristía
+Nave central
+Ábside
+Cúpula
+Bóveda
+Rosetón
+Gárgola
+Arbotante
+Contrafuerte
+Columnata
+Pórtico
+Atrio
+Peristilo
+Patio andaluz
+Aljibe
+Palomar
+Granero
+Pajar
+Caballeriza
+Picadero
+Bebedero
+Abrevadero
+Brete
+Tranquera
+Alambrado
+Potrero
+Casco de estancia
+Galpón de esquila
+Almacén de ramos generales
+Fortín
+Saladero
+Barraca
+Corralón
+Inquilinato
+Casa chorizo
+Casa de patio
+Zaguán
+Claraboya
+Mansarda
+Buhardilla
+Tragaluz
+Ventanal
+Galería
+Pérgola
+Quincho
+Taberna
+Cantina
+Mesón
+Fonda
+Bistró
+Café literario
+Piano bar
+Speakeasy
+Club nocturno
+Garito
+Tugurio
+Antro
+Escondite
+Guarida
+Búnker antiaéreo
+Refugio nuclear
+Silo de misiles
+Base militar
+Base antártica
+Base lunar
+Laboratorio secreto
+Área 51
+Fort Knox
+Bóveda de banco
+Caja fuerte
+Cámara acorazada
+Sala de máquinas
+Sala de calderas
+Cuarto de servicio
+Cuarto de huéspedes
+Cuarto oscuro
+Vestidor
+Despensa
+Alacena
+Lavadero
+Cochera
+Taller de carpintería
+Estudio de grabación
+Set de televisión
+Camerino
+Bambalinas
+Foso de orquesta
+Sala de conferencias
+Auditorio
+Paraninfo
+Aula magna
+Rectorado
+Decanato
+Cantina universitaria
+Sala de profesores
+Secretaría
+Portería
+Garita
+Cabina de peaje

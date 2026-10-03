@@ -1,0 +1,429 @@
+# id: historia
+# nombre: Historia
+# icono: 🏛️
+
+# facil
+Prehistoria
+Hombre de las cavernas
+Edad de Piedra
+Pirámides de Egipto
+Faraón
+Momia
+Romanos
+Gladiador
+Coliseo
+Vikingos
+Caballero medieval
+Castillo
+Rey Arturo
+Cristóbal Colón
+Descubrimiento de América
+Conquistadores
+Incas
+Aztecas
+Mayas
+Indígenas
+Charrúas
+Independencia
+Revolución Francesa
+Primera Guerra Mundial
+Segunda Guerra Mundial
+Hitler
+Nazis
+Bomba atómica
+Llegada a la Luna
+Muro de Berlín
+Guerra Fría
+Titanic
+Esclavitud
+Imperio romano
+Grecia antigua
+Juegos Olímpicos antiguos
+Democracia
+Dictadura
+Revolución
+Guerra
+Batalla
+Tratado de paz
+Bandera
+Himno nacional
+Escudo nacional
+Constitución
+Héroe nacional
+José Artigas
+Treinta y Tres Orientales
+Batalla de Las Piedras
+Jura de la Constitución
+Bicentenario
+Reina
+Príncipe
+Princesa
+Emperador
+Corona
+Trono
+Imperio
+Colonia
+Esclavo
+Samurái
+Ninja
+Muralla China
+Marco Polo
+Napoleón
+Cleopatra
+Julio César
+Alejandro Magno
+Martin Luther King
+Nelson Mandela
+Gandhi
+Che Guevara
+Fidel Castro
+Simón Bolívar
+San Martín
+Abraham Lincoln
+Holocausto
+
+# intermedio
+Edad Media
+Edad Moderna
+Edad Contemporánea
+Renacimiento
+Ilustración
+Revolución Industrial
+Revolución Rusa
+Revolución Mexicana
+Revolución Cubana
+Independencia de Estados Unidos
+Mayo de 1810
+Grito de Asencio
+Éxodo del Pueblo Oriental
+Cruzada Libertadora
+Desembarco de la Agraciada
+Guerra Grande
+Guerra de la Triple Alianza
+Sitio de Montevideo
+Revolución de 1904
+Aparicio Saravia
+José Batlle y Ordóñez
+Batllismo
+Golpe de Estado de 1973
+Plebiscito de 1980
+Vuelta a la democracia
+Maracanazo
+Primer Mundial de 1930
+Estadio Centenario
+Tupamaros
+Fundación de Montevideo
+Bruno Mauricio de Zabala
+Juan Díaz de Solís
+Hernandarias
+Virreinato del Río de la Plata
+Provincia Cisplatina
+Banda Oriental
+Liga Federal
+Reglamento de Tierras
+Instrucciones del Año XIII
+Peronismo
+Evita Perón
+Guerra de Malvinas
+Pinochet
+Salvador Allende
+Plan Cóndor
+Desaparecidos
+Madres de Plaza de Mayo
+Feudalismo
+Señor feudal
+Vasallo
+Siervo
+Cruzadas
+Inquisición
+Peste negra
+Caída de Constantinopla
+Imperio otomano
+Imperio bizantino
+Imperio persa
+Imperio mongol
+Gengis Kan
+Atila
+Carlomagno
+Juana de Arco
+Enrique VIII
+Isabel I
+Reyes Católicos
+Hernán Cortés
+Francisco Pizarro
+Moctezuma
+Atahualpa
+Túpac Amaru
+Pachacútec
+Tenochtitlan
+Mesopotamia
+Sumerios
+Babilonia
+Código de Hammurabi
+Fenicios
+Egipcios
+Persas
+Espartanos
+Atenienses
+Termópilas
+Guerra de Troya
+Caballo de Troya
+Pompeya
+Senado romano
+Calígula
+Nerón
+Augusto
+Marco Antonio
+Espartaco
+Imperio carolingio
+Templarios
+Vasco da Gama
+Fernando de Magallanes
+Américo Vespucio
+Galeón
+Carabela
+Revolución de Mayo
+Guerra de Secesión
+Fiebre del oro
+Lejano Oeste
+Revolución de Octubre
+Lenin
+Stalin
+Mussolini
+Fascismo
+Franco
+Guerra Civil Española
+Churchill
+Roosevelt
+Kennedy
+Asesinato de Kennedy
+Pearl Harbor
+Desembarco de Normandía
+Día D
+Hiroshima
+Nagasaki
+Ana Frank
+Campo de concentración
+Auschwitz
+Juicios de Núremberg
+Plan Marshall
+Telón de acero
+Crisis de los misiles
+Guerra de Vietnam
+Guerra de Corea
+Carrera espacial
+Sputnik
+Laika
+Yuri Gagarin
+Apolo 11
+Neil Armstrong
+Perestroika
+Gorbachov
+Unión Soviética
+Apartheid
+Primavera Árabe
+11 de septiembre
+Torres Gemelas
+Crisis de 2002
+Crisis de 2008
+Brexit
+Mayo francés
+Woodstock
+Hippies
+Movimiento sufragista
+Voto femenino
+Derechos civiles
+
+# dificil
+Paleolítico
+Neolítico
+Edad de Bronce
+Edad de Hierro
+Homo sapiens
+Neandertal
+Australopiteco
+Pinturas rupestres
+Cuevas de Altamira
+Escritura cuneiforme
+Jeroglíficos
+Piedra de Rosetta
+Tutankamón
+Ramsés II
+Nefertiti
+Akenatón
+Gran Esfinge
+Hititas
+Asirios
+Hebreos
+Cartago
+Aníbal
+Guerras Púnicas
+Pax Romana
+Diocleciano
+Constantino
+Edicto de Milán
+Caída de Roma
+Visigodos
+Ostrogodos
+Hunos
+Bárbaros
+Al-Ándalus
+Reconquista
+Batalla de Hastings
+Carta Magna
+Guerra de los Cien Años
+Guerra de las Dos Rosas
+Gremios
+Ruta de la Seda
+Imprenta de Gutenberg
+Reforma protestante
+Martín Lutero
+Contrarreforma
+Concilio de Trento
+Calvinismo
+Tratado de Tordesillas
+Encomienda
+Mita
+Virreinato del Perú
+Nueva España
+Cabildo abierto
+Criollos
+Mestizaje
+Bandeirantes
+Misiones jesuíticas
+Guerra Guaranítica
+Tratado de Madrid
+Invasiones inglesas
+Revolución haitiana
+Toussaint Louverture
+Bastilla
+Robespierre
+Reinado del Terror
+Guillotina
+Declaración de los Derechos del Hombre
+Código napoleónico
+Batalla de Waterloo
+Congreso de Viena
+Santa Alianza
+Doctrina Monroe
+Destino manifiesto
+Revoluciones de 1848
+Comuna de París
+Unificación italiana
+Garibaldi
+Unificación alemana
+Bismarck
+Imperialismo
+Reparto de África
+Conferencia de Berlín
+Guerra del Opio
+Rebelión de los bóxers
+Restauración Meiji
+Shogunato
+Guerra ruso-japonesa
+Archiduque Francisco Fernando
+Trincheras
+Tratado de Versalles
+Sociedad de Naciones
+Crac del 29
+Gran Depresión
+New Deal
+República de Weimar
+Noche de los cristales rotos
+Anschluss
+Blitzkrieg
+Batalla de Stalingrado
+Batalla de Inglaterra
+Operación Barbarroja
+Proyecto Manhattan
+Conferencia de Yalta
+Pacto de Varsovia
+Puente aéreo de Berlín
+Macartismo
+Revolución Cultural
+Mao Zedong
+Gran Salto Adelante
+Jemeres rojos
+Pol Pot
+Guerra de los Seis Días
+Crisis del petróleo
+Revolución iraní
+Glasnost
+Primavera de Praga
+Revolución de Terciopelo
+Solidaridad (Polonia)
+Lech Wałęsa
+Tiananmén
+Guerra del Golfo
+Guerra de los Balcanes
+Genocidio de Ruanda
+Acuerdos de Oslo
+Tratado de Maastricht
+Batalla de Sarandí
+Batalla de Rincón
+Batalla de Ituzaingó
+Convención Preliminar de Paz
+Batalla de Guayabos
+Batalla de Carpintería
+Blancos y Colorados
+Fructuoso Rivera
+Manuel Oribe
+Juan Antonio Lavalleja
+Gobierno del Cerrito
+Gobierno de la Defensa
+Venancio Flores
+Leandro Gómez
+Defensa de Paysandú
+Militarismo
+Lorenzo Latorre
+Máximo Santos
+Reforma vareliana
+José Pedro Varela
+Batalla de Masoller
+Gabriel Terra
+Luis Batlle Berres
+Uruguay, la Suiza de América
+Colegiado
+Pacheco Areco
+Medidas prontas de seguridad
+Juan María Bordaberry
+Pacto del Club Naval
+Ley de Caducidad
+Huelga general de 1973
+Toma de Pando
+Fuga de Punta Carretas
+Triple A
+Proceso de Reorganización Nacional
+Hipólito Yrigoyen
+Sarmiento
+Juan Manuel de Rosas
+Mitre
+Urquiza
+Facundo Quiroga
+Güemes
+Belgrano
+Bernardo O'Higgins
+Antonio José de Sucre
+Francisco de Miranda
+Gran Colombia
+Pancho Villa
+Emiliano Zapata
+Porfiriato
+Benito Juárez
+Getúlio Vargas
+Tiradentes
+Imperio del Brasil
+Pedro I de Brasil
+Batalla de Ayacucho
+Batalla de Maipú
+Cruce de los Andes
+Guerra del Pacífico
+Guerra del Chaco
+Francisco Solano López
+Doctor Francia
+Stroessner
+Somoza
+Sandinistas
+Trujillo (dictador)
+Duvalier
+Noriega

@@ -1,0 +1,440 @@
+# id: profesiones
+# nombre: Profesiones y oficios
+# icono: 👩‍🔧
+
+# facil
+Médico
+Enfermero
+Dentista
+Maestro
+Profesor
+Policía
+Bombero
+Cocinero
+Mozo
+Panadero
+Carnicero
+Peluquero
+Mecánico
+Electricista
+Plomero
+Albañil
+Carpintero
+Pintor
+Jardinero
+Veterinario
+Abogado
+Juez
+Arquitecto
+Ingeniero
+Contador
+Secretario
+Cajero
+Vendedor
+Taxista
+Chofer de ómnibus
+Piloto de avión
+Azafata
+Astronauta
+Bailarín
+Cantante
+Actor
+Músico
+Fotógrafo
+Periodista
+Escritor
+Futbolista
+Árbitro
+Entrenador
+Cartero
+Payaso
+Mago
+Pescador
+Granjero
+Soldado
+Marinero
+Científico
+Programador
+Psicólogo
+Farmacéutico
+Guardavidas
+Niñera
+Repartidor
+Barrendero
+Recolector de residuos
+Guardia de seguridad
+Bibliotecario
+Recepcionista
+Modelo
+Youtuber
+Influencer
+Chef
+Pastelero
+Heladero
+Diariero
+Kiosquero
+Verdulero
+Almacenero
+Feriante
+Cuidacoches
+Portero
+Sereno
+Detective
+Espía
+Pirata
+Rey
+Presidente
+Alcalde
+Cura
+Monja
+
+# intermedio
+Cirujano
+Pediatra
+Ginecólogo
+Oculista
+Cardiólogo
+Dermatólogo
+Psiquiatra
+Nutricionista
+Fisioterapeuta
+Partera
+Paramédico
+Anestesista
+Radiólogo
+Óptico
+Kinesiólogo
+Fonoaudiólogo
+Escribano
+Fiscal
+Procurador
+Diplomático
+Embajador
+Senador
+Diputado
+Ministro
+Intendente
+Concejal
+Economista
+Sociólogo
+Antropólogo
+Arqueólogo
+Historiador
+Geólogo
+Biólogo
+Químico
+Físico
+Matemático
+Astrónomo
+Meteorólogo
+Botánico
+Zoólogo
+Paleontólogo
+Traductor
+Intérprete
+Locutor
+Conductor de televisión
+Productor
+Director de cine
+Guionista
+Camarógrafo
+Editor
+Diseñador gráfico
+Diseñador de moda
+Ilustrador
+Dibujante
+Escultor
+Ceramista
+Orfebre
+Relojero
+Zapatero
+Sastre
+Costurera
+Modista
+Tapicero
+Herrero
+Soldador
+Cerrajero
+Vidriero
+Techista
+Pintor de obra
+Yesero
+Capataz
+Obrero
+Operario
+Estibador
+Camionero
+Maquinista
+Controlador aéreo
+Capitán de barco
+Grumete
+Leñador
+Apicultor
+Avicultor
+Ganadero
+Peón rural
+Gaucho
+Tambero
+Esquilador
+Domador
+Herrador
+Jinete
+Jockey
+Torero
+Cazador
+Guardaparque
+Guía turístico
+Agente de viajes
+Hotelero
+Conserje
+Mucama
+Barman
+Sommelier
+Pizzero
+Parrillero
+Asador
+Repostero
+Catador
+Crítico de cine
+Bloguero
+Community manager
+Streamer
+Gamer profesional
+Analista de datos
+Desarrollador web
+Técnico informático
+Hacker
+Diseñador UX
+Ingeniero de sonido
+DJ
+Productor musical
+Director de orquesta
+Compositor
+Luthier
+Afinador de pianos
+Acróbata
+Malabarista
+Equilibrista
+Domador de leones
+Trapecista
+Titiritero
+Ventrílocuo
+Mimo
+Humorista
+Murguista
+Candombero
+Lustrabotas
+Afilador
+Colchonero
+Vendedor ambulante
+Empleado público
+Bancario
+Corredor de bolsa
+Agente inmobiliario
+Rematador
+Tasador
+Auditor
+Gerente
+Empresario
+Emprendedor
+Inversor
+Coach
+Personal trainer
+Instructor de yoga
+Profesor de gimnasia
+Maestra jardinera
+Directora de escuela
+Inspector
+Preceptor
+Tutor
+Decano
+Rector
+Investigador
+Bombero forestal
+Rescatista
+Socorrista
+General
+Coronel
+Sargento
+Inspector de tránsito
+Aduanero
+Agente secreto
+Guardaespaldas
+Detective privado
+Forense
+Criminólogo
+Perito
+Carcelero
+
+# dificil
+Otorrinolaringólogo
+Endocrinólogo
+Neurólogo
+Neurocirujano
+Traumatólogo
+Urólogo
+Oncólogo
+Hematólogo
+Reumatólogo
+Geriatra
+Neonatólogo
+Podólogo
+Quiropráctico
+Homeópata
+Acupunturista
+Instrumentista quirúrgico
+Laboratorista
+Bioquímico
+Genetista
+Epidemiólogo
+Virólogo
+Microbiólogo
+Entomólogo
+Ornitólogo
+Ictiólogo
+Herpetólogo
+Primatólogo
+Etólogo
+Ecólogo
+Oceanógrafo
+Vulcanólogo
+Sismólogo
+Glaciólogo
+Climatólogo
+Geógrafo
+Cartógrafo
+Topógrafo
+Agrimensor
+Agrónomo
+Enólogo
+Viticultor
+Bodeguero
+Cervecero artesanal
+Barista
+Maître
+Pinche de cocina
+Lavacopas
+Curador de arte
+Galerista
+Restaurador de arte
+Conservador de museo
+Archivista
+Paleógrafo
+Egiptólogo
+Numismático
+Filatelista
+Lingüista
+Filólogo
+Semiólogo
+Filósofo
+Teólogo
+Psicoanalista
+Psicopedagogo
+Terapeuta ocupacional
+Asistente social
+Mediador
+Actuario
+Econometrista
+Analista financiero
+Tesorero
+Liquidador de sueldos
+Despachante de aduana
+Gestor
+Corredor de seguros
+Prestamista
+Usurero
+Cambista
+Contrabandista
+Sicario
+Mercenario
+Corsario
+Bucanero
+Juglar
+Trovador
+Bufón
+Escriba
+Alquimista
+Herbolario
+Boticario
+Barbero
+Pregonero
+Farolero
+Aguatero
+Lechero
+Botero
+Balsero
+Remero
+Carpintero naval
+Práctico de puerto
+Farero
+Vigía
+Cartero rural
+Telegrafista
+Linotipista
+Tipógrafo
+Imprentero
+Encuadernador
+Corrector de estilo
+Redactor publicitario
+Creativo publicitario
+Relacionista público
+Vocero
+Lobista
+Asesor de imagen
+Estilista
+Maquillador
+Tatuador
+Manicura
+Pedicura
+Masajista
+Cosmetóloga
+Doble de riesgo
+Extra de cine
+Utilero
+Escenógrafo
+Vestuarista
+Iluminador
+Sonidista
+Microfonista
+Apuntador
+Tramoyista
+Coreógrafo
+Dramaturgo
+Libretista
+Actor de voz
+Animador 3D
+Modelador 3D
+Desarrollador de videojuegos
+Tester de videojuegos
+Ingeniero en sistemas
+Ingeniero civil
+Ingeniero naval
+Ingeniero aeroespacial
+Piloto de pruebas
+Piloto de Fórmula 1
+Paracaidista
+Escalador
+Sherpa
+Guía de montaña
+Guardabosques
+Taxidermista
+Embalsamador
+Sepulturero
+Florista
+Paisajista
+Podador
+Fumigador
+Deshollinador
+Limpiavidrios
+Ascensorista
+Valet parking
+Botones
+Crupier
+Tahúr
+Prestidigitador
+Hipnotizador
+Adivino
+Tarotista
+Astrólogo
+Chamán
+Curandero

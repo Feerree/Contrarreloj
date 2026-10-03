@@ -1,0 +1,338 @@
+# id: mitologia
+# nombre: Mitología y fantasía
+# icono: 🐉
+
+# facil
+Dragón
+Sirena
+Hada
+Duende
+Gnomo
+Elfo
+Enano (fantasía)
+Gigante
+Ogro
+Monstruo
+Hechicero
+Varita
+Escoba voladora
+Caldero de bruja
+Poción mágica
+Hechizo
+Maldición
+Casa embrujada
+Lámpara mágica
+Alfombra mágica
+Espejo mágico
+Manzana envenenada
+Beso de amor verdadero
+Príncipe encantado
+Rana encantada
+Castillo encantado
+Bosque encantado
+Centauro
+Minotauro
+Cíclope
+Zeus
+Poseidón
+Afrodita
+Cupido
+Odín
+Anubis
+Ra
+Fuente de la juventud
+Olimpo
+Ave fénix
+Pie Grande
+Monstruo del pantano
+Kraken
+Cuco
+Hombre de la bolsa
+
+# intermedio
+Atenea
+Medusa (gorgona)
+Apolo
+Artemisa
+Hera
+Deméter
+Dionisio
+Hefesto
+Perséfone
+Eros
+Gaia
+Cronos
+Titanes griegos
+Prometeo
+Aquiles
+Penélope
+Helena de Troya
+Agamenón
+Perseo
+Teseo
+Jasón
+Argonautas
+Vellocino de oro
+Ícaro
+Dédalo
+Laberinto del Minotauro
+Orfeo
+Eurídice
+Edipo
+Esfinge
+Hidra de Lerna
+Cerbero
+Caronte
+Río Estigia
+Inframundo
+Campos Elíseos
+Tártaro
+Sirenas de Ulises
+Escila y Caribdis
+Las nueve musas
+Gracias
+Moiras
+Furias
+Ninfas
+Sátiro
+Dríade
+Náyade
+Nereidas
+Tritón
+Arpía
+Gorgona
+Grifo
+Mantícora
+Hipogrifo
+Cancerbero
+Baco
+Jano
+Rómulo y Remo
+Loba capitolina
+Freya
+Frigg
+Balder
+Tyr
+Heimdall
+Asgard
+Midgard
+Bifröst
+Fenrir
+Jörmungandr
+Gigantes de hielo
+Isis
+Osiris
+Horus
+Seth
+Bastet
+Thot
+Sobek
+Libro de los Muertos
+Ojo de Horus
+Escarabajo sagrado
+Pesaje del corazón
+Amaterasu
+Susanoo
+Izanagi
+Kami
+Rey Mono
+Sun Wukong
+Fénix chino
+Qilin
+Garuda
+Naga
+Rakshasa
+Asura
+Gilgamesh
+Enkidu
+Ishtar
+Marduk
+Tiamat
+Lilith
+Behemot
+Querubín
+Serafín
+Arcángel
+Ángel de la guarda
+Ángel caído
+Lucifer
+Demonio
+Diablo
+Íncubo
+Súcubo
+Poseído
+Exorcismo
+Licántropo
+Wendigo
+Muerto viviente
+Poltergeist
+Ectoplasma
+Ouija
+Médium
+Sesión espiritista
+Cementerio indio
+Leyenda urbana
+Dama de blanco
+Niña del exorcista
+Chica de la curva
+Mothman
+Ovni
+Extraterrestre
+Abducción
+Círculos en los cultivos
+Roswell
+Nessie
+Mapinguarí
+Sasquatch
+Hada de los dientes (mito)
+Olla de oro
+
+# dificil
+Uróboros
+Ankh
+Sello de Salomón
+Piedra filosofal
+Elixir de la vida
+Alquimia
+Homúnculo
+Necronomicón
+Cthulhu
+Sleipnir
+Huginn y Muninn
+Draugr
+Jotun
+Ymir
+Nidhogg
+Gungnir
+Tuatha Dé Danann
+Cú Chulainn
+Morrigan
+Avalon
+Dama del Lago
+Morgana
+Mordred
+Tristán e Isolda
+Parsifal
+Perceval
+Tabla Esmeralda
+Hermes Trismegisto
+Ahura Mazda
+Ahriman
+Mitra
+Simurgh
+Roc
+Yinn
+Ifrit
+Ave Rokh
+Lamassu
+Pazuzu
+Xólotl
+Mictlán
+Mictlantecuhtli
+Coatlicue
+Tezcatlipoca
+Chaac
+Itzamná
+Ixchel
+Hunahpú e Ixbalanqué
+Xibalbá
+Inti
+Mama Quilla
+Pachacámac
+Tupã
+Jasy Jatere
+Kerana
+Moñái
+Teju Jagua
+Yacurutú
+Hombre del saco
+Sacamantecas
+Trasgo
+Meiga
+Santa Compaña
+Aquelarre
+Sabbat
+Noche de Walpurgis
+Baba Yaga
+Koschei el inmortal
+Pájaro de fuego
+Rusalka
+Domovói
+Leshy
+Vodianoi
+Strigoi
+Dhampir
+Ghoul
+Lamia
+Erinias
+Tique
+Hécate
+Selene
+Helios (dios del sol)
+Eos
+Érebo
+Rea
+Hiperión
+Mnemósine
+Temis
+Tetis
+Epimeteo
+Deucalión
+Sísifo
+Tántalo
+Ixión
+Midas
+Faetón
+Belerofonte
+Casiopea
+Orión
+Calisto
+Endimión
+Adonis
+Pigmalión
+Galatea
+Psique
+Aracne
+Níobe
+Dánae
+Leda
+Cadmo
+Antígona
+Electra
+Medea
+Clitemnestra
+Casandra
+Laocoonte
+Eneas
+Dido
+Ascanio
+Hespérides
+Manzana dorada
+Doce trabajos de Hércules
+León de Nemea
+Jabalí de Erimanto
+Establos de Augías
+Columnas de Hércules
+Ambrosía
+Néctar de los dioses
+Cornucopia
+Égida
+Tridente
+Rayo de Zeus
+Caduceo
+Sandalias aladas
+Casco de Hades
+Lira de Orfeo
+Ariadna
+Minos
+Talos
+Autómata de bronce
+Lemuria
+Shangri-La
+Ciudad de los Césares
+Paititi
+Ciudad perdida
+Tierra hueca
+Arca perdida
+Lanza de Longinos
+Espada en la piedra

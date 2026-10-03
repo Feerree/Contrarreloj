@@ -1,0 +1,533 @@
+# id: arte
+# nombre: Arte y literatura
+# icono: 🎨
+
+# facil
+Pintura
+Escultura
+Dibujo
+Museo
+Pincel
+Paleta de colores
+Lienzo
+Acuarela
+Óleo
+Crayón
+Lápices de colores
+Retrato
+Paisaje
+Autorretrato
+Mona Lisa
+La noche estrellada
+El grito
+Leonardo da Vinci
+Picasso
+Van Gogh
+Frida Kahlo
+Miguel Ángel
+Grafiti
+Mural
+Poesía
+Poema
+Rima
+Cuento
+Novela
+Fábula
+Leyenda
+Mito
+Autor
+Biblioteca pública
+Librería
+Página
+Portada
+Capítulo
+Final feliz
+Había una vez
+Caperucita Roja
+Blancanieves
+Cenicienta
+La Bella Durmiente
+Pinocho
+Los tres chanchitos
+Hansel y Gretel
+Ricitos de Oro
+El Principito
+Don Quijote
+Romeo y Julieta
+Shakespeare
+Cervantes
+Borges
+García Márquez
+Cien años de soledad
+Mafalda
+Historieta
+Cómic
+Manga
+Diario íntimo
+Carta de amor
+Teatro
+Obra de teatro
+Escenario
+Telón
+Aplauso
+Actriz
+Títere
+Marioneta
+Origami
+Fotografía
+Collage
+Mosaico
+Vitral
+Cerámica
+Arcilla
+Plastilina
+Estatua
+Busto
+Galería de arte
+Exposición
+
+# intermedio
+Renacimiento (arte)
+Barroco
+Impresionismo
+Expresionismo
+Cubismo
+Surrealismo
+Arte abstracto
+Arte pop
+Arte urbano
+Realismo
+Romanticismo
+Dadaísmo
+Minimalismo
+Arte conceptual
+Instalación artística
+Performance
+Arte digital
+Caricatura
+Ilustración (dibujo)
+Boceto
+Perspectiva
+Claroscuro
+Fresco
+Témpera
+Carboncillo
+Grabado
+Serigrafía
+Caballete de pintor
+Espátula
+Restauración
+Falsificación
+Subasta de arte
+Marchand
+Museo del Louvre
+Museo del Prado
+MoMA
+Capilla Sixtina
+La última cena
+El nacimiento de Venus
+La persistencia de la memoria
+Guernica
+Las meninas
+La joven de la perla
+David de Miguel Ángel
+El pensador
+La Venus de Milo
+Salvador Dalí
+Diego Rivera
+Andy Warhol
+Banksy
+Rembrandt
+Monet
+Renoir
+Botticelli
+Rafael
+Goya
+Velázquez
+Klimt
+Magritte
+Kandinsky
+Pollock
+Joaquín Torres García
+Pedro Figari
+Juan Manuel Blanes
+Carlos Páez Vilaró
+Casapueblo
+Museo Torres García
+Museo Nacional de Artes Visuales
+José Gurvich
+Rafael Barradas
+José Belloni
+La Carreta (monumento)
+El Entrevero
+Literatura
+Poeta
+Novelista
+Dramaturgia
+Ensayo
+Biografía
+Autobiografía
+Crónica
+Antología
+Prólogo
+Epílogo
+Índice
+Personaje principal
+Protagonista
+Antagonista
+Narrador
+Trama
+Desenlace
+Clímax
+Moraleja
+Metáfora
+Hipérbole
+Personificación
+Onomatopeya
+Comparación (figura)
+Soneto
+Verso
+Estrofa
+Haiku
+Décima
+Payada
+Bestseller
+Saga
+Trilogía
+Ciencia ficción
+Novela policial
+Novela romántica
+Terror (género)
+Fantasía (género)
+Distopía
+Utopía
+Realismo mágico
+Mario Benedetti
+Juan Carlos Onetti
+Horacio Quiroga
+Eduardo Galeano
+Delmira Agustini
+Juana de Ibarbourou
+Idea Vilariño
+Cristina Peri Rossi
+Felisberto Hernández
+Julio Cortázar
+Pablo Neruda
+Gabriela Mistral
+Octavio Paz
+Mario Vargas Llosa
+Isabel Allende
+Ernesto Sábato
+Alfonsina Storni
+Rubén Darío
+José Martí
+Federico García Lorca
+Antonio Machado
+Gustavo Adolfo Bécquer
+Homero
+La Ilíada
+La Odisea
+Dante
+La Divina Comedia
+Edgar Allan Poe
+Julio Verne
+Charles Dickens
+Jane Austen
+Oscar Wilde
+Mark Twain
+Agatha Christie
+Stephen King
+J. K. Rowling
+Tolkien
+El Señor de los Anillos (libro)
+George Orwell
+1984 (novela)
+Rebelión en la granja
+Franz Kafka
+La metamorfosis
+Victor Hugo
+Los miserables
+Alicia en el país de las maravillas
+El Hobbit
+Las crónicas de Narnia
+Los juegos del hambre
+Crepúsculo
+Diario de Ana Frank
+Martín Fierro (libro)
+Cuentos de la selva
+Rayuela
+La tregua
+Las venas abiertas de América Latina
+El túnel (Sabato)
+Pedro Páramo
+Ficciones
+El Aleph
+Veinte poemas de amor
+Mujercitas
+El diario de Bridget Jones
+Moby Dick
+El Gran Gatsby
+Orgullo y prejuicio
+Hamlet
+Macbeth
+Otelo
+Feria del Libro
+Premio Nobel de Literatura
+Bienal de Venecia
+
+# dificil
+Puntillismo
+Fauvismo
+Futurismo
+Constructivismo
+Universalismo constructivo
+Art nouveau
+Art déco
+Bauhaus
+Neoclasicismo
+Rococó
+Gótico
+Románico
+Manierismo
+Prerrafaelitas
+Simbolismo
+Arte naíf
+Arte povera
+Land art
+Op art
+Hiperrealismo
+Bodegón
+Naturaleza muerta
+Tríptico
+Díptico
+Retablo
+Icono bizantino
+Miniatura
+Sfumato
+Trampantojo
+Anamorfosis
+Pan de oro
+Pátina
+Temple
+Encáustica
+Aguafuerte
+Litografía
+Xilografía
+Linograbado
+Esgrafiado
+Escorzo
+Punto de fuga
+Proporción áurea
+Hombre de Vitruvio
+El jardín de las delicias
+El Bosco
+Brueghel
+Vermeer
+Caravaggio
+Tiziano
+Durero
+El Greco
+Rubens
+Turner
+Constable
+Delacroix
+Courbet
+Manet
+Degas
+Cézanne
+Gauguin
+Toulouse-Lautrec
+Seurat
+Matisse
+Modigliani
+Chagall
+Miró
+Mondrian
+Duchamp
+La fuente (Duchamp)
+Hopper
+Rothko
+Basquiat
+Keith Haring
+Yayoi Kusama
+Ai Weiwei
+Jeff Koons
+Damien Hirst
+Marina Abramović
+Rodin
+Bernini
+Donatello
+Brancusi
+Giacometti
+Fernando Botero
+Antonio Berni
+Xul Solar
+Quinquela Martín
+Oswaldo Guayasamín
+Tarsila do Amaral
+Roberto Matta
+José Clemente Orozco
+David Alfaro Siqueiros
+Muralismo mexicano
+Carlos Federico Sáez
+Petrona Viera
+Amalia Nieto
+Lucio Fontana
+Escuela del Sur
+América invertida
+Museo de Arte Precolombino
+Generación del 45
+Generación del 900
+Modernismo literario
+Vanguardia
+Ultraísmo
+Boom latinoamericano
+Novela de formación
+Novela epistolar
+Picaresca
+Lazarillo de Tormes
+La Celestina
+Siglo de Oro
+Lope de Vega
+Calderón de la Barca
+La vida es sueño
+Quevedo
+Góngora
+Sor Juana Inés de la Cruz
+Garcilaso de la Vega
+Ariel (Rodó)
+José Enrique Rodó
+Florencio Sánchez
+M'hijo el dotor
+Julio Herrera y Reissig
+Bartolomé Hidalgo
+Tabaré (poema)
+Juan Zorrilla de San Martín
+Javier de Viana
+Mario Levrero
+Circe Maia
+Marosa di Giorgio
+Ida Vitale
+Carlos Liscano
+Hugo Burel
+Tomás de Mattos
+Juan José Saer
+Ricardo Piglia
+Adolfo Bioy Casares
+La invención de Morel
+Silvina Ocampo
+Manuel Puig
+El beso de la mujer araña
+Roberto Bolaño
+Los detectives salvajes
+Juan Rulfo
+Carlos Fuentes
+Alejo Carpentier
+José Lezama Lima
+César Vallejo
+Vicente Huidobro
+José María Arguedas
+Clarice Lispector
+Jorge Amado
+Machado de Assis
+Paulo Coelho
+El alquimista (Coelho)
+Fernando Pessoa
+José Saramago
+Ensayo sobre la ceguera
+Umberto Eco
+El nombre de la rosa
+Italo Calvino
+Las ciudades invisibles
+Tolstói
+Guerra y paz
+Anna Karénina
+Dostoyevski
+Crimen y castigo
+Chéjov
+Gógol
+Pushkin
+Goethe
+Fausto
+Thomas Mann
+Hermann Hesse
+Siddhartha
+Baudelaire
+Las flores del mal
+Rimbaud
+Proust
+En busca del tiempo perdido
+Flaubert
+Madame Bovary
+Albert Camus
+El extranjero
+Jean-Paul Sartre
+Simone de Beauvoir
+Virginia Woolf
+James Joyce
+Ulises (novela)
+Samuel Beckett
+Esperando a Godot
+T. S. Eliot
+Walt Whitman
+Emily Dickinson
+Hemingway
+El viejo y el mar
+William Faulkner
+John Steinbeck
+F. Scott Fitzgerald
+J. D. Salinger
+El guardián entre el centeno
+Ray Bradbury
+Fahrenheit 451
+Aldous Huxley
+Un mundo feliz
+Isaac Asimov
+Philip K. Dick
+H. P. Lovecraft
+Mary Shelley
+Bram Stoker
+Lewis Carroll
+Haruki Murakami
+Kazuo Ishiguro
+Chimamanda Ngozi Adichie
+Margaret Atwood
+El cuento de la criada
+Toni Morrison
+Macondo
+Aureliano Buendía
+Dulcinea
+Sancho Panza
+Rocinante
+Ofelia
+Yorick
+Ser o no ser
+Musa
+Mecenas
+Bohemia
+Ex libris
+Incunable
+Códice
+Palimpsesto
+Manuscrito
+Caligrafía
+Tipografía
+Seudónimo
+Plagio
+Derechos de autor
+Editorial
+Fanzine
+Novela gráfica
+Maus
+Watchmen
+Persépolis
+El Eternauta
+Patoruzú
+Isidoro Cañones
+Condorito
+Asterix
+Tintín
+Garfield
+Snoopy
+Calvin y Hobbes
+Quino

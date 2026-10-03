@@ -1,0 +1,353 @@
+# id: economia
+# nombre: Economía y finanzas
+# icono: 💰
+
+# facil
+Dinero
+Efectivo
+Ahorro
+Préstamo bancario
+Deuda
+Sueldo
+Aguinaldo
+Propina
+Vuelto
+Cambio
+Precio
+Oferta
+Descuento
+Liquidación
+Rebaja
+Factura
+Ticket
+Recibo
+Cuenta bancaria
+Tarjeta de débito
+Transferencia
+Banco
+Chanchito
+Pobreza
+Millonario
+Impuesto
+IVA
+Alquiler
+Hipoteca
+Compra
+Venta
+Cliente
+Tienda
+Comercio
+Empresa
+Fábrica
+Trabajo
+Empleo
+Desempleo
+Jubilación
+Jefe
+Empleado
+Horas extra
+Vacaciones pagas
+Licencia
+Feriado pago
+Dólar
+Peso uruguayo
+Euro
+Real brasileño
+Cara o cruz
+Caja registradora
+Presupuesto
+Gasto
+Ganancia
+Pérdida
+Inversión
+Negocio
+Emprendimiento
+Marca registrada
+Cuotas
+Al contado
+Fiado
+Regateo
+Caro
+Barato
+Inflación
+Crisis económica
+
+# intermedio
+Interés
+Tasa de interés
+Plazo fijo
+Caja de ahorro
+Cuenta corriente
+Cheque
+Cheque sin fondos
+Estado de cuenta
+Saldo
+Débito automático
+Crédito
+Aval
+Garantía
+Garante
+Embargo
+Quiebra
+Concurso de acreedores
+Morosidad
+Clearing
+Deuda externa
+Déficit
+Superávit
+Producto Bruto Interno
+Recesión
+Estanflación
+Hiperinflación
+Deflación
+Devaluación
+Tipo de cambio
+Cotización
+Dólar blue
+Cambio paralelo
+Casa de cambio
+Bolsa de valores
+Acción (finanzas)
+Accionista
+Dividendo
+Bono
+Wall Street
+Toro y oso
+Mercado alcista
+Mercado bajista
+Burbuja financiera
+Especulación
+Índice Dow Jones
+Nasdaq
+S&P 500
+Fondo de inversión
+Fondo de pensión
+AFAP
+BPS
+DGI
+BCU
+Banco Central
+Banco Mundial
+FMI
+OMC
+Mercosur
+Aranceles
+Exportación
+Importación
+Balanza comercial
+Contrabando
+Libre comercio
+Globalización
+Proteccionismo
+Monopolio
+Oligopolio
+Competencia
+Oferta y demanda
+Mercado negro
+Economía informal
+Changa
+Trabajo en negro
+Monotributo
+Unipersonal
+Sociedad anónima
+SRL
+Cooperativa
+Franquicia
+Multinacional
+Holding
+Fusión de empresas
+Capital semilla
+Inversor ángel
+Crowdfunding
+Plan de negocios
+Retorno de inversión
+Rentabilidad
+Costo fijo
+Costo variable
+Punto de equilibrio
+Margen de ganancia
+Facturación
+Balance
+Contabilidad
+Auditoría
+Evasión fiscal
+Paraíso fiscal
+Lavado de dinero
+Corrupción
+Coima
+Soborno
+Esquema Ponzi
+Estafa piramidal
+Salario mínimo
+Consejo de Salarios
+Sindicato
+Huelga
+Paro
+Convenio colectivo
+Despido
+Indemnización
+Seguro de paro
+Licencia por maternidad
+Pasantía
+Currículum
+Entrevista laboral
+Período de prueba
+Ascenso laboral
+Aumento de sueldo
+Recibo de sueldo
+Aportes
+Canasta básica
+Costo de vida
+Poder adquisitivo
+IPC
+Unidad indexada
+Unidad reajustable
+Préstamo en UI
+Microcrédito
+Usura
+Pagaré
+Letra de cambio
+Factura electrónica
+RUT
+Cédula de identidad
+Cuenta en dólares
+Dólar ahorro
+Moneda extranjera
+Stablecoin
+Billetera fría
+
+# dificil
+Macroeconomía
+Microeconomía
+Keynesianismo
+Monetarismo
+Neoliberalismo
+Liberalismo económico
+Mano invisible
+Capitalismo
+Socialismo
+Comunismo
+Economía planificada
+Economía mixta
+Estado de bienestar
+Tragedia de los comunes
+Costo de oportunidad
+Externalidad
+Bien público
+Bien de lujo
+Bien inferior
+Elasticidad
+Utilidad marginal
+Ley de rendimientos decrecientes
+Economías de escala
+Ventaja comparativa
+Ventaja absoluta
+Teoría de juegos
+Dilema del prisionero
+Equilibrio de Nash
+Curva de Laffer
+Curva de Phillips
+Coeficiente de Gini
+Índice de desarrollo humano
+PBI per cápita
+Riesgo país
+Grado inversor
+Calificadora de riesgo
+Moody's
+Standard & Poor's
+Default
+Reestructuración de deuda
+Canje de deuda
+Bonos basura
+Swap
+Contratos de futuros
+Opciones financieras
+Derivados
+Commodities
+Petróleo Brent
+Activo
+Pasivo
+Patrimonio
+Amortización
+Depreciación
+Capital de trabajo
+Flujo de caja
+EBITDA
+Valor actual neto
+Tasa interna de retorno
+Interés compuesto
+Interés simple
+Apalancamiento
+Margin call
+Venta en corto
+Oferta pública inicial
+OPA
+Capital de riesgo
+Fondo buitre
+Hedge fund
+Private equity
+Due diligence
+Insider trading
+Crac bursátil
+Lunes negro
+Tulipomanía
+Burbuja puntocom
+Crisis subprime
+Lehman Brothers
+Corralito
+Tablita
+Crisis del tequila
+Efecto dominó
+Too big to fail
+Rescate financiero
+Flexibilización cuantitativa
+Emisión monetaria
+Política monetaria
+Política fiscal
+Encaje bancario
+Reserva Federal
+Banco Central Europeo
+Bretton Woods
+Patrón oro
+Zona euro
+Unión aduanera
+Tratado de libre comercio
+Cuota de importación
+Dumping
+Subsidio
+Retenciones
+Impuesto a la renta
+IRPF
+IRAE
+Impuesto al patrimonio
+Contribución inmobiliaria
+Patente de rodados
+Impuesto de Primaria
+Timbre profesional
+Caja de Profesionales
+Caja Bancaria
+Montepío
+Seguro social
+Fonasa
+Mutualista
+Emergencia móvil
+Cuota mutual
+Ticket de alimentación
+Salario vacacional
+Licencia sindical
+Fuero sindical
+PIT-CNT
+Cámara de Comercio
+Cámara de Industrias
+ARU
+Asociación Rural
+Federación Rural
+INAC
+Plan Agropecuario
+Zona franca
+Puerto libre
+Free shop
+Tax free
+Duty free
+Turismo de compras
+Bagayero

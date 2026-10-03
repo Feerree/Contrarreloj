@@ -1,0 +1,331 @@
+# id: latam
+# nombre: Cultura latinoamericana
+# icono: 🌮
+
+# facil
+Día de los Muertos
+Catrina
+Sombrero mexicano
+Chullo
+Superclásico
+Boca Juniors
+River Plate
+La Bombonera
+Monumental de Núñez
+Maracaná
+Cristo del Corcovado
+Playa de Copacabana
+Ipanema
+Garota de Ipanema
+Picanha
+Mezcal
+Salsa picante
+Chile jalapeño
+Pisco sour
+Inca Kola
+Moái
+Calendario maya
+Habano
+Malecón de La Habana
+Máscara de luchador
+Canarinha
+Albiceleste
+Mundial 2022
+Scaloneta
+Muchachos, ahora nos volvimos a ilusionar
+Mano de Dios
+Gol del siglo
+
+# intermedio
+Ofrenda de muertos
+Pan de muerto
+Cempasúchil
+Papel picado
+Alebrije
+Lotería mexicana
+Charro
+Jarabe tapatío
+Huipil
+Rebozo
+Sarape
+Guayabera
+Sombrero vueltiao
+Sombrero de paja toquilla
+Sombrero panamá
+Mola panameña
+Mochila wayuu
+Hamaca de Yucatán
+Tejido aguayo
+Aguayo
+Cholita
+Pollera de chola
+Bombín boliviano
+Diablada de Oruro
+Carnaval de Oruro
+Carnaval de Barranquilla
+Feria de las Flores
+Silleteros
+Festival Vallenato
+Festival de la Leyenda Vallenata
+Qhapaq Ñan
+Camino del Inca
+Nazca
+Líneas de Nazca
+Chan Chan
+Tiwanaku
+Pirámide del Sol
+Templo Mayor
+Palenque
+Tikal
+Copán
+Mitad del Mundo
+Tortuga gigante
+Bombacha gaucha
+Churrasquería
+Rodízio
+Açaí
+Guaraná Antarctica
+Pastel de feira
+Rede Globo
+Xuxa
+Turma da Mônica
+Peña criolla
+Fernet con Coca
+Ñandutí
+Quechua
+Aimara
+Náhuatl
+Mapudungun
+Mapuches
+Guaraníes
+Taínos
+Arahuacos
+Yanomamis
+Kunas
+Wayúu
+Rapa Nui
+Spanglish
+Chicano
+Latinos en Estados Unidos
+Remesas
+Sueño americano
+Muro fronterizo
+Cartel de drogas
+Narcocultura
+Narcocorrido
+Premios Lo Nuestro
+Premios Juventud
+Gaviota de plata
+Monstruo de la Quinta Vergara
+Festival de Cosquín
+Fiesta Nacional de la Vendimia
+Tango en San Telmo
+Caminito
+La Boca (barrio)
+Avenida 9 de Julio
+Calle Florida
+Puerto Madero
+Recoleta
+Palermo Soho
+Café Tortoni
+Casa Rosada
+Plaza de Mayo
+Pañuelo blanco
+Ruta 40
+Garganta del Diablo
+Valle de Uco
+Malbec
+Carmenere
+Empanada de pino
+Huaso
+Mote con huesillo
+Papa a la huancaína
+Chicha morada
+Cuy
+Arroz chaufa
+Chifa
+Nikkei
+Gastronomía peruana
+Gastón Acurio
+Arepa reina pepiada
+Hallaca
+Pabellón criollo
+Cachapa
+Tequeño
+Miss Venezuela
+Eje cafetero
+Sombrero aguadeño
+Selena Quintanilla
+Roberto Gómez Bolaños
+
+# dificil
+Huaca
+Ayllu
+Minga
+Mita incaica
+Quipu
+Chasqui
+Mama Ocllo
+Manco Cápac
+Viracocha
+Quetzalcóatl
+Huitzilopochtli
+Tláloc
+Kukulkán
+Popol Vuh
+Chilam Balam
+Juego de pelota maya
+Cenote
+Chinampa
+Códice maya
+Tzompantli
+Xochimilco
+Trajinera
+Mercado de Sonora
+Tianguis
+Mole negro
+Chapulines
+Escamoles
+Huitlacoche
+Tlayuda
+Agua de jamaica
+Horchata
+Tepache
+Pulque
+Champurrado
+Guelaguetza
+Danza de los voladores
+Voladores de Papantla
+Huapango
+Son huasteco
+Marimba chiapaneca
+Música norteña
+Banda sinaloense
+Cumbia sonidera
+Bachata dominicana
+Merengue típico
+Perico ripiao
+Guira
+Tambora
+Plena puertorriqueña
+Coquí
+Mofongo
+Arroz con gandules
+Pernil
+Tostones
+Mangú
+Ropa vieja
+Moros y cristianos
+Congrí
+Yuca con mojo
+Bodeguita del Medio
+Buena Vista Social Club
+Compay Segundo
+Ibrahim Ferrer
+Benny Moré
+Son montuno
+Chachachá
+Orishas
+Yemayá
+Changó
+Oshún
+Babalawo
+Nueva trova
+Gaita zuliana
+Diablos de Yare
+Galerón
+Champeta
+Bullerengue
+Marimba de chonta
+Currulao
+Bambuco
+Pasillo
+Sanjuanito
+Yaraví
+Saya afroboliviana
+Caporales
+Morenada
+Tinku
+Kullawada
+Malambo
+Carnavalito
+Bagualas
+Vidala
+Coplas
+Polca correntina
+Rasguido doble
+Chotis
+Tinkunaco
+Difunta Correa
+San La Muerte
+Virgen de Luján
+Virgen de Guadalupe
+Virgen de Caacupé
+Señor de los Milagros
+Virgen de Copacabana
+Ekeko
+Alasita
+Tío del cerro
+Pombero
+Luisón
+Yasí Yateré
+Kurupí
+Mboi Tu'i
+Ña Pora
+La Llorona
+Chupacabras
+Mandinga
+Lobizón
+Caipora
+Saci-pererê
+Curupira
+Boto cor-de-rosa
+Iara
+Mula sin cabeza
+Patasola
+Madremonte
+Silbón
+Sayona
+Tunda
+Cadejo
+Nahual
+Trauco
+Pincoya
+Caleuche
+Imbunche
+Chonchón
+Comunidad Andina
+Alianza del Pacífico
+ALBA
+Celac
+Bolivarianismo
+Chavismo
+Kirchnerismo
+Lulismo
+Fujimorismo
+Uribismo
+Zapatismo
+EZLN
+Subcomandante Marcos
+FARC
+Sendero Luminoso
+Montoneros
+MIR
+Teología de la liberación
+Óscar Romero
+Comisión de la Verdad
+Nunca Más
+Juicio a las Juntas
+Abuelas de Plaza de Mayo
+ESMA
+Vuelos de la muerte
+Caravana de la Muerte
+Estadio Nacional de Chile
+Villa Grimaldi
+Plebiscito chileno de 1988
+Campaña del No
+Estallido social chileno
+Convención Constitucional chilena
+Que se vayan todos
+Plan Real
+Bolsa Familia

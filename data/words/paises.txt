@@ -1,0 +1,631 @@
+# id: paises
+# nombre: Países y ciudades
+# icono: 🌎
+
+# facil
+Uruguay
+Argentina
+Brasil
+Chile
+Paraguay
+Bolivia
+Perú
+Colombia
+Venezuela
+Ecuador
+México
+Estados Unidos
+Canadá
+España
+Francia
+Italia
+Alemania
+Inglaterra
+Portugal
+China
+Japón
+Rusia
+India
+Australia
+Egipto
+Cuba
+Grecia
+Holanda
+Suiza
+Suecia
+Corea del Sur
+Sudáfrica
+Marruecos
+Turquía
+Irlanda
+Escocia
+Jamaica
+Nueva Zelanda
+Montevideo
+Buenos Aires
+Río de Janeiro
+San Pablo
+Santiago de Chile
+Lima
+Bogotá
+Ciudad de México
+Nueva York
+Los Ángeles
+Miami
+Las Vegas
+París
+Londres
+Roma
+Madrid
+Barcelona
+Berlín
+Ámsterdam
+Lisboa
+Venecia
+Tokio
+Pekín
+Moscú
+Dubái
+El Cairo
+Sídney
+Punta del Este
+Colonia del Sacramento
+Salto
+Paysandú
+Piriápolis
+Maldonado
+Rocha
+Tacuarembó
+Rivera
+Florianópolis
+Bariloche
+Mar del Plata
+Córdoba
+Rosario
+Mendoza
+Cancún
+Hawái
+Hollywood
+Toronto
+Atenas
+Florencia
+Milán
+Nápoles
+Washington
+Chicago
+San Francisco
+Orlando
+Asunción
+La Paz
+Quito
+Caracas
+La Habana
+Panamá
+Costa Rica
+Puerto Rico
+República Dominicana
+
+# intermedio
+Guatemala
+Honduras
+El Salvador
+Nicaragua
+Haití
+Bahamas
+Barbados
+Trinidad y Tobago
+Belice
+Guyana
+Surinam
+Islandia
+Noruega
+Finlandia
+Dinamarca
+Bélgica
+Austria
+Polonia
+Hungría
+República Checa
+Croacia
+Serbia
+Rumania
+Bulgaria
+Ucrania
+Bielorrusia
+Lituania
+Estonia
+Letonia
+Eslovenia
+Eslovaquia
+Albania
+Montenegro
+Bosnia
+Macedonia del Norte
+Luxemburgo
+Mónaco
+Liechtenstein
+Andorra
+San Marino
+Vaticano
+Malta
+Chipre
+Gales
+Israel
+Palestina
+Líbano
+Siria
+Irak
+Irán
+Arabia Saudita
+Emiratos Árabes Unidos
+Catar
+Kuwait
+Jordania
+Yemen
+Omán
+Afganistán
+Pakistán
+Bangladés
+Nepal
+Bután
+Sri Lanka
+Maldivas
+Tailandia
+Vietnam
+Camboya
+Laos
+Birmania
+Malasia
+Singapur
+Indonesia
+Filipinas
+Corea del Norte
+Mongolia
+Taiwán
+Kazajistán
+Uzbekistán
+Georgia
+Armenia
+Azerbaiyán
+Argelia
+Túnez
+Libia
+Sudán
+Etiopía
+Kenia
+Tanzania
+Uganda
+Ruanda
+Nigeria
+Ghana
+Senegal
+Camerún
+Costa de Marfil
+Mali
+Congo
+Angola
+Mozambique
+Zimbabue
+Zambia
+Namibia
+Botsuana
+Madagascar
+Somalia
+Fiyi
+Papúa Nueva Guinea
+Groenlandia
+Tasmania
+Sicilia
+Cerdeña
+Córcega
+Mallorca
+Ibiza
+Islas Canarias
+Islas Malvinas
+Isla de Pascua
+Galápagos
+Patagonia
+Tierra del Fuego
+Ushuaia
+El Calafate
+Salta
+Tucumán
+Mar de las Pampas
+Punta Cana
+Cartagena de Indias
+Medellín
+Cali
+Cusco
+Machu Picchu
+Arequipa
+Valparaíso
+Viña del Mar
+Punta Arenas
+Santa Cruz de la Sierra
+Sucre
+Guayaquil
+Maracaibo
+Brasilia
+Salvador de Bahía
+Porto Alegre
+Curitiba
+Búzios
+Recife
+Fortaleza (Brasil)
+Manaos
+Guadalajara
+Monterrey
+Tijuana
+Acapulco
+Oaxaca
+Boston
+Seattle
+Nueva Orleans
+Houston
+Dallas
+Detroit
+Filadelfia
+Atlanta
+Montreal
+Vancouver
+Quebec
+Manchester
+Liverpool
+Edimburgo
+Dublín
+Oporto
+Sevilla
+Valencia
+Bilbao
+Granada (España)
+Marsella
+Niza
+Lyon
+Burdeos
+Múnich
+Hamburgo
+Fráncfort
+Viena
+Praga
+Budapest
+Varsovia
+Cracovia
+Bruselas
+Ginebra
+Zúrich
+Estocolmo
+Oslo
+Copenhague
+Helsinki
+Estambul
+Jerusalén
+Bombay
+Nueva Delhi
+Bangkok
+Shanghái
+Hong Kong
+Seúl
+Osaka
+Kioto
+Melbourne
+Ciudad del Cabo
+Casablanca
+Marrakech
+Nairobi
+Doha
+San Petersburgo
+Mercedes
+Fray Bentos
+Durazno (ciudad)
+Florida (Uruguay)
+Minas
+Treinta y Tres
+Artigas
+Melo
+San José de Mayo
+Canelones (departamento)
+Trinidad
+Carmelo
+Nueva Helvecia
+Atlántida
+La Paloma (Rocha)
+Punta del Diablo
+Cabo Polonio
+José Ignacio
+Chuy
+Bella Unión
+Young
+Dolores
+Rio Branco
+Pando
+Las Piedras (ciudad)
+Ciudad de la Costa
+
+# dificil
+Kirguistán
+Tayikistán
+Turkmenistán
+Brunéi
+Timor Oriental
+Eritrea
+Yibuti
+Burundi
+Malaui
+Lesoto
+Esuatini
+Gabón
+Guinea Ecuatorial
+Benín
+Togo
+Burkina Faso
+Níger
+Chad
+Mauritania
+Gambia
+Sierra Leona
+Liberia
+Cabo Verde
+Santo Tomé y Príncipe
+Seychelles
+Mauricio
+Comoras
+Sudán del Sur
+República Centroafricana
+Vanuatu
+Samoa
+Tonga
+Tuvalu
+Kiribati
+Nauru
+Palaos
+Islas Marshall
+Micronesia
+Islas Salomón
+Moldavia
+Kosovo
+Islas Feroe
+Gibraltar
+Bahréin
+Granada (país)
+Santa Lucía
+Dominica
+San Vicente y las Granadinas
+Antigua y Barbuda
+San Cristóbal y Nieves
+Curazao
+Aruba
+Martinica
+Guadalupe
+Guayana Francesa
+Bermudas
+Islas Caimán
+Ulán Bator
+Katmandú
+Timbuktú
+Samarcanda
+Ereván
+Tiflis
+Bakú
+Astaná
+Taskent
+Teherán
+Bagdad
+Damasco (Siria)
+Beirut
+Amán
+Riad
+La Meca
+Abu Dabi
+Mascate
+Kabul
+Islamabad
+Karachi
+Daca
+Colombo
+Calcuta
+Bangalore
+Hanói
+Ho Chi Minh
+Phnom Penh
+Angkor Wat
+Rangún
+Kuala Lumpur
+Yakarta
+Bali
+Manila
+Taipéi
+Pyongyang
+Vladivostok
+Siberia
+Yakutia
+Novosibirsk
+Kiev
+Minsk
+Vilna
+Riga
+Tallin
+Bratislava
+Liubliana
+Zagreb
+Belgrado
+Sarajevo
+Tirana
+Skopie
+Sofía
+Bucarest
+Chisináu
+Salónica
+Santorini
+Mykonos
+Creta
+Rodas
+Capadocia
+Ankara
+Esmirna
+Nicosia
+La Valeta
+Palermo
+Turín
+Génova
+Bolonia
+Verona
+Pisa
+Siena
+Toscana
+Amalfi
+Capri
+Cinque Terre
+Lago de Como
+Salzburgo
+Innsbruck
+Berna
+Lausana
+Basilea
+Lucerna
+Colonia (Alemania)
+Düsseldorf
+Stuttgart
+Dresde
+Leipzig
+Núremberg
+Róterdam
+La Haya
+Brujas (Bélgica)
+Gante
+Amberes
+Toulouse
+Estrasburgo
+Normandía
+Provenza
+Bretaña
+Mont Saint-Michel
+Versalles
+Toledo
+Salamanca
+Santiago de Compostela
+San Sebastián
+Pamplona (España)
+Málaga
+Córdoba (España)
+Cádiz
+Zaragoza
+Coímbra
+Faro (Portugal)
+Madeira
+Azores
+Glasgow
+Belfast
+Cardiff
+Oxford
+Cambridge
+Bath
+Stonehenge
+Reikiavik
+Bergen
+Gotemburgo
+Malmö
+Aarhus
+Laponia
+Anchorage
+Alaska
+Texas
+California
+Florida
+Nevada
+Arizona
+Colorado
+Utah
+Montana
+Yellowstone
+Gran Cañón
+Monument Valley
+Nashville
+Memphis
+Austin
+San Diego
+Pittsburgh
+Baltimore
+Minneapolis
+Denver
+Phoenix
+Salt Lake City
+Portland
+Honolulu
+Ottawa
+Calgary
+Winnipeg
+Halifax
+Puebla
+Mérida (México)
+Tulum
+Playa del Carmen
+Los Cabos (México)
+Chichén Itzá
+Teotihuacán
+Antigua Guatemala
+Tegucigalpa
+Managua
+San Salvador
+San José de Costa Rica
+Ciudad de Panamá
+Santo Domingo
+Puerto Príncipe
+Kingston
+San Juan de Puerto Rico
+Nassau
+Paramaribo
+Georgetown
+Cayena
+Barranquilla
+Santa Marta
+San Andrés
+Iquitos
+Trujillo (Perú)
+Puno
+Lago Titicaca
+Potosí
+Cochabamba
+Oruro
+Uyuni
+Encarnación
+Ciudad del Este
+Antofagasta
+Iquique
+Concepción
+Puerto Montt
+Chiloé
+Atacama
+San Pedro de Atacama
+Torres del Paine
+Neuquén
+San Martín de los Andes
+Puerto Madryn
+Península Valdés
+El Chaltén
+Iguazú
+Corrientes
+Posadas (Argentina)
+Gualeguaychú
+Concordia
+Paraná
+Santa Fe
+Bahía Blanca
+La Plata
+Tandil
+Jujuy
+Purmamarca
+Cafayate
+Ouro Preto
+Paraty
+Ilha Grande
+Fernando de Noronha
+Pelotas (Brasil)
+Jaguarão
+Gramado
+Belo Horizonte
+Belém
+Natal
+João Pessoa
+Maceió
+Porto Seguro
+Lençóis Maranhenses

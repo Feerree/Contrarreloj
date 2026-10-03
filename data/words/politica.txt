@@ -1,0 +1,361 @@
+# id: politica
+# nombre: Política e instituciones
+# icono: ⚖️
+
+# facil
+Elecciones
+Voto
+Urna
+Candidato
+Campaña electoral
+Debate presidencial
+Presidente de la República
+Vicepresidente
+Gobierno
+Oposición
+Partido político
+Ley
+Parlamento
+Senado
+Cámara de Diputados
+Intendencia
+Municipio
+Alcaldía
+Ejército
+Armada
+Fuerza Aérea
+Justicia
+Tribunal
+Cárcel
+Juicio
+Abogado defensor
+Testigo
+Jurado
+Derechos humanos
+Libertad
+Igualdad
+Protesta
+Marcha
+Manifestación
+Cacerolazo
+Pancarta
+Discurso
+Escrutinio
+Encuesta
+Balotaje
+Segunda vuelta
+Frente Amplio
+Partido Nacional
+Partido Colorado
+Torre Ejecutiva
+Casa de Gobierno
+Ministerio
+ONU
+Embajada
+Pasaporte
+Visa de viaje
+Aduana
+Ciudadanía
+Nacionalidad
+Inmigrante
+Refugiado
+Paz mundial
+
+# intermedio
+Constitución de la República
+Poder Ejecutivo
+Poder Legislativo
+Poder Judicial
+Separación de poderes
+Suprema Corte de Justicia
+Corte Electoral
+Tribunal de Cuentas
+Fiscalía
+Fiscal de Corte
+Defensoría del Pueblo
+Institución Nacional de Derechos Humanos
+Ministerio del Interior
+Ministerio de Economía
+Ministerio de Educación
+Ministerio de Salud Pública
+Ministerio de Defensa
+Cancillería
+Canciller
+Asamblea General
+Consejo de Ministros
+Gabinete
+Bancada
+Legislador
+Edil
+Junta Departamental
+Concejo municipal
+Proyecto de ley
+Decreto
+Veto
+Sanción de ley
+Promulgación
+Interpelación
+Censura
+Moción
+Votación nominal
+Mayoría absoluta
+Mayoría simple
+Quórum
+Plebiscito
+Referéndum
+Consulta popular
+Iniciativa popular
+Elecciones internas
+Elecciones departamentales
+Voto obligatorio
+Voto en blanco
+Voto anulado
+Hoja de votación
+Lista (partido)
+Sublema
+Lema
+Circuito electoral
+Credencial cívica
+Padrón electoral
+Delegado de mesa
+Mesa receptora
+Coalición
+Izquierda
+Derecha
+Centro político
+Populismo
+Liberalismo
+Conservadurismo
+Progresismo
+Socialdemocracia
+Anarquismo
+Nacionalismo
+Patriotismo
+Feminismo
+Ecologismo
+Sindicalismo
+República
+Monarquía
+Monarquía constitucional
+Parlamentarismo
+Presidencialismo
+Federalismo
+Estado unitario
+Autonomía
+Soberanía
+Golpe de Estado
+Dictadura militar
+Régimen
+Autoritarismo
+Totalitarismo
+Censura previa
+Propaganda
+Libertad de expresión
+Libertad de prensa
+Derecho a huelga
+Habeas corpus
+Debido proceso
+Presunción de inocencia
+Prisión preventiva
+Libertad condicional
+Indulto
+Amnistía
+Extradición
+Asilo político
+Exilio
+Cónsul
+Consulado
+Diplomacia
+Relaciones exteriores
+Tratado internacional
+Cumbre presidencial
+G20
+G7
+OTAN
+Unión Europea
+OEA
+Unasur
+Consejo de Seguridad
+Cascos azules
+UNESCO
+UNICEF
+OMS
+Cruz Roja
+Amnistía Internacional
+Greenpeace
+Médicos Sin Fronteras
+ONG
+Lobby
+Grupo de presión
+Clientelismo
+Nepotismo
+Amiguismo
+Tráfico de influencias
+Escándalo político
+Destitución
+Juicio político
+Renuncia
+Moción de censura
+Mandato
+Reelección
+Período de gobierno
+Cadena nacional
+Vocero presidencial
+Spin doctor
+Militancia
+Militante
+Comité de base
+Club político
+Convención partidaria
+Caudillo
+Grieta
+Polarización
+Voto útil
+Voto castigo
+Indecisos
+Boca de urna
+Proyección electoral
+
+# dificil
+Rendición de cuentas
+Presupuesto quinquenal
+Ley de urgente consideración
+Ley de medios
+Ley de lemas
+Doble voto simultáneo
+Representación proporcional
+Sistema D'Hondt
+Gerrymandering
+Colegio electoral
+Voto popular
+Primarias abiertas
+Caucus
+Superdelegado
+Impeachment
+Filibusterismo
+Pato rengo
+Cohabitación
+Gobierno de coalición
+Gobierno en minoría
+Voto de confianza
+Disolución del Parlamento
+Primer ministro
+Canciller federal
+Jefe de Estado
+Jefe de Gobierno
+Monarca
+Regente
+Sucesión presidencial
+Ley de acefalía
+Estado de sitio
+Medidas de seguridad
+Toque de queda
+Ley marcial
+Estado de emergencia
+Decreto de necesidad y urgencia
+Cuarto intermedio
+Sesión extraordinaria
+Comisión parlamentaria
+Comisión investigadora
+Pedido de informes
+Llamado a sala
+Fueros parlamentarios
+Inmunidad diplomática
+Valija diplomática
+Persona non grata
+Embargo comercial
+Sanciones económicas
+Bloqueo
+Guerra comercial
+Geopolítica
+Realpolitik
+Doctrina
+Hegemonía
+Multilateralismo
+Unilateralismo
+Bipolaridad
+Tercer mundo
+Países no alineados
+BRICS
+OPEP
+ASEAN
+Commonwealth
+Corte Penal Internacional
+Corte Internacional de Justicia
+Convención de Ginebra
+Crimen de guerra
+Crimen de lesa humanidad
+Genocidio
+Limpieza étnica
+Apátrida
+Desplazados
+Derecho de asilo
+Estatuto de refugiado
+Asamblea constituyente
+Reforma constitucional
+Contrato social
+Leviatán
+Ciencia política
+Politología
+Sufragio universal
+Paridad de género
+Cupo femenino
+Ley de cuotas
+Acción afirmativa
+Discriminación positiva
+Laicidad
+Estado laico
+Separación Iglesia-Estado
+Libertad de culto
+Objeción de conciencia
+Desobediencia civil
+Resistencia pacífica
+No violencia
+Insurgencia
+Guerrilla
+Contrainsurgencia
+Terrorismo de Estado
+Inteligencia militar
+Servicio secreto
+CIA
+KGB
+Mossad
+MI6
+FBI
+Interpol
+Europol
+Escuadrón antimotines
+Guardia Republicana
+Prefectura Naval
+Policía Caminera
+Sistema Nacional de Emergencias
+Intendente de Montevideo
+Junta Departamental de Montevideo
+Congreso de Intendentes
+OPP
+INAU
+ANEP
+Codicen
+Udelar
+UTU
+UTEC
+Movimiento de Participación Popular
+Partido Comunista
+Partido Socialista
+Vertiente Artiguista
+Cabildo Abierto (partido)
+Partido Independiente
+Wilsonismo
+Herrerismo
+Foro Batllista
+Vamos Uruguay
+Alianza Nacional
+Ocupación de fábrica
+Piquete
+Corte de ruta
+Olla popular
+Asentamiento
+Vivienda social
+Mevir
+Cooperativa de vivienda
+Fucvam

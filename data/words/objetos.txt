@@ -1,0 +1,515 @@
+# id: objetos
+# nombre: Objetos cotidianos
+# icono: 🪑
+
+# facil
+Silla
+Mesa
+Cama
+Almohada
+Sábana
+Frazada
+Sillón
+Sofá
+Ropero
+Cajón
+Espejo
+Lámpara
+Ventana
+Puerta
+Llave
+Candado
+Reloj
+Despertador
+Teléfono
+Celular
+Cargador
+Auriculares
+Control remoto
+Televisor
+Computadora
+Teclado
+Mouse
+Impresora
+Lápiz
+Lapicera
+Goma de borrar
+Sacapuntas
+Regla
+Tijera
+Cuaderno
+Libro
+Mochila
+Cartuchera
+Pegamento
+Cinta adhesiva
+Plato
+Vaso
+Taza
+Cuchara
+Tenedor
+Cuchillo
+Olla
+Sartén
+Heladera
+Microondas
+Horno
+Cocina
+Licuadora
+Tostadora
+Pava eléctrica
+Termo
+Bombilla
+Escoba
+Pala
+Balde
+Trapo
+Esponja
+Jabón
+Champú
+Cepillo de dientes
+Pasta de dientes
+Toalla
+Peine
+Secador de pelo
+Inodoro
+Ducha
+Bañera
+Lavarropas
+Plancha
+Ventilador
+Aire acondicionado
+Estufa
+Paraguas
+Anteojos
+Lentes de sol
+Billetera
+Cartera
+Valija
+Gorro
+Bufanda
+Guantes
+Zapatillas
+Zapatos
+Botas
+Ojotas
+Remera
+Pantalón
+Campera
+Buzo
+Medias
+Calzoncillos
+Pijama
+Cinturón
+Corbata
+Vestido
+Pollera
+Short
+Gorra
+Anillo
+Collar
+Pulsera
+Aros
+Vela
+Fósforos
+Encendedor
+Linterna
+Pila
+Bolsa
+Caja
+Botella
+Lata
+Globo
+Pelota
+Muñeca
+Peluche
+Juguete
+Bicicleta
+Patineta
+Cuadro
+Florero
+Maceta
+Alfombra
+Cortina
+Percha
+Basurero
+Martillo
+Clavo
+Destornillador
+Tornillo
+Escalera
+Moneda
+Billete
+Sobre
+Estampilla
+Calendario
+Agenda
+Calculadora
+Tablet
+Cámara de fotos
+Parlante
+Micrófono
+Enchufe
+Alargue
+Bombita de luz
+Hamaca
+Tobogán
+Carpa
+Sobre de dormir
+
+# intermedio
+Abrelatas
+Sacacorchos
+Destapador
+Colador
+Rallador
+Batidora
+Palo de amasar
+Espumadera
+Cucharón
+Tabla de picar
+Fuente de horno
+Mantel
+Servilleta
+Individual
+Posavasos
+Jarra
+Cafetera
+Exprimidor
+Yerbera
+Azucarera
+Salero
+Panera
+Frutera
+Mortero
+Embudo
+Tupper
+Papel aluminio
+Film adherente
+Papel higiénico
+Rollo de cocina
+Pañuelo descartable
+Hisopo
+Algodón
+Cortaúñas
+Lima de uñas
+Pinza de depilar
+Afeitadora
+Desodorante
+Perfume
+Crema humectante
+Protector solar
+Maquillaje
+Labial
+Rímel
+Esmalte de uñas
+Planchita de pelo
+Rizador
+Hebilla
+Colita de pelo
+Vincha
+Broche
+Clip
+Abrochadora
+Perforadora
+Resaltador
+Marcador
+Corrector líquido
+Carpeta
+Bibliorato
+Folio
+Post-it
+Pizarrón
+Tiza
+Borrador
+Compás
+Transportador
+Escuadra
+Mapamundi
+Globo terráqueo
+Diccionario
+Enciclopedia
+Revista
+Diario
+Afiche
+Portarretratos
+Álbum de fotos
+Alcancía
+Llavero
+Navaja
+Brújula
+Mapa
+Binoculares
+Lupa
+Termómetro
+Balanza
+Cinta métrica
+Nivel
+Taladro
+Serrucho
+Alicate
+Llave inglesa
+Cinta aisladora
+Tuerca
+Arandela
+Bisagra
+Picaporte
+Timbre
+Mirilla
+Felpudo
+Perchero
+Mesita de luz
+Cómoda
+Biblioteca
+Estante
+Escritorio
+Banqueta
+Puf
+Mecedora
+Colchón
+Cuna
+Cochecito de bebé
+Chupete
+Mamadera
+Babero
+Pañal
+Sonajero
+Andador
+Triciclo
+Monopatín
+Rollers
+Patines
+Barrilete
+Trompo
+Yo-yo
+Cubo Rubik
+Rompecabezas
+Dominó
+Mazo de cartas
+Dados
+Ajedrez
+Damas
+Ludo
+Bolita
+Matera
+Conservadora
+Reposera
+Sombrilla
+Parrilla
+Pinza de ropa
+Tendedero
+Canasto
+Cesto de ropa
+Aspiradora
+Lustramuebles
+Plumero
+Mopa
+Secaplatos
+Lavavajillas
+Extractor
+Calefón
+Termotanque
+Radiador
+Estufa a leña
+Chimenea
+Sandwichera
+Freidora de aire
+Olla a presión
+Wok
+Bandeja
+Hielera
+Rociador
+Regadera
+Manguera
+Rastrillo
+Carretilla
+Cortadora de pasto
+Tijera de podar
+Buzón
+Cerradura
+Alarma
+Detector de humo
+Extintor
+Botiquín
+Curita
+Venda
+Jeringa
+Pastillero
+Muletas
+Silla de ruedas
+Bastón
+Audífono
+Lentes de contacto
+Reloj de arena
+Cronómetro
+Metrónomo
+Atril
+Funda de celular
+Power bank
+Pendrive
+Disco duro
+Router
+Webcam
+Smartwatch
+Consola
+Joystick
+Proyector
+Tocadiscos
+Radio
+Walkie-talkie
+
+# dificil
+Cortapluma
+Tirabuzón
+Molinillo de café
+Prensa francesa
+Cafetera italiana
+Batidor de alambre
+Manga pastelera
+Mandolina
+Pelapapas
+Pisapapas
+Cascanueces
+Coctelera
+Decantador
+Palangana
+Escupidera
+Bacinilla
+Bidet
+Sifón
+Damajuana
+Botellón
+Garrafa
+Brasero
+Farol
+Candil
+Candelabro
+Araña de techo
+Velador
+Pantalla de lámpara
+Persiana
+Postigo
+Mosquitero
+Toldo
+Biombo
+Diván
+Otomana
+Chaise longue
+Aparador
+Vitrina
+Baúl
+Arcón
+Cofre
+Joyero
+Costurero
+Dedal
+Alfiler
+Aguja de tejer
+Ovillo
+Máquina de coser
+Bastidor
+Telar
+Rueca
+Plancha a carbón
+Tabla de planchar
+Tintero
+Pluma fuente
+Secante
+Máquina de escribir
+Sello
+Lacre
+Abrecartas
+Pisapapeles
+Fichero
+Archivero
+Guillotina de papel
+Plastificadora
+Fotocopiadora
+Escáner
+Fax
+Contestador automático
+Teléfono de disco
+Beeper
+Walkman
+Discman
+Casete
+Disquete
+Diapositiva
+Rollo de fotos
+Polaroid
+Daguerrotipo
+Caleidoscopio
+Zoótropo
+Ábaco
+Astrolabio
+Sextante
+Catalejo
+Barómetro
+Higrómetro
+Anemómetro
+Veleta
+Pluviómetro
+Reloj de sol
+Reloj cucú
+Péndulo
+Clepsidra
+Tamiz
+Matraz
+Probeta
+Pipeta
+Mechero Bunsen
+Microscopio
+Estetoscopio
+Tensiómetro
+Otoscopio
+Bisturí
+Torniquete
+Inhalador
+Nebulizador
+Oxímetro
+Glucómetro
+Andamio
+Plomada
+Escofina
+Formón
+Garlopa
+Cepillo de carpintero
+Yunque
+Fuelle
+Amoladora
+Lijadora
+Caladora
+Pistola de silicona
+Tarugo
+Grampa
+Remache
+Pasador
+Mosquetón
+Arnés
+Grillete
+Esposas
+Ancla
+Salvavidas
+Hamaca paraguaya
+Molde de budín
+Flanera
+Cuchara de madera
+Cuchillo de untar
+Tenedor de trinchar
+Paila
+Caldero
+Cacerola
+Bifera
+Disco de arado
+Chulengo
+Atizador
+Pala de chimenea
+Leñero
+Hacha
+Machete
+Guadaña
+Hoz
+Azada
+Pico
+Horquilla
+Arado

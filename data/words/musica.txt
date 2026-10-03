@@ -1,0 +1,618 @@
+# id: musica
+# nombre: Música
+# icono: 🎵
+
+# facil
+Guitarra
+Piano
+Batería (instrumento)
+Violín
+Flauta
+Trompeta
+Saxofón
+Tambor
+Bajo eléctrico
+Ukelele
+Armónica
+Acordeón
+Pandereta
+Maracas
+Xilofón
+Teclado musical
+Karaoke
+Concierto
+Recital
+Festival de música
+Banda de rock
+Orquesta
+Coro
+Canción
+Estribillo
+Letra de canción
+Melodía
+Ritmo
+Nota musical
+Do re mi
+Pentagrama
+Clave de sol
+Partitura
+Playlist
+Spotify
+Disco de vinilo
+Videoclip
+Rock
+Pop
+Reggaetón
+Cumbia
+Tango
+Candombe
+Murga
+Rap
+Hip hop
+Trap
+Jazz
+Blues
+Salsa (música)
+Bachata
+Merengue (música)
+Reggae
+Música electrónica
+Música clásica
+Heavy metal
+Punk
+Folclore
+Villancico
+Feliz cumpleaños (canción)
+Himno
+Serenata
+Coreografía
+Paso de baile
+Boliche
+Shakira
+Bad Bunny
+Taylor Swift
+Michael Jackson
+Madonna
+Los Beatles
+Queen
+Elvis Presley
+Bob Marley
+Beethoven
+Mozart
+Rihanna
+Beyoncé
+Ed Sheeran
+Karol G
+Daddy Yankee
+Coldplay
+Luis Miguel
+Ricky Martin
+Enrique Iglesias
+Jorge Drexler
+Natalia Oreiro
+No Te Va Gustar
+La Vela Puerca
+El Cuarteto de Nos
+Ruben Rada
+Jaime Roos
+
+# intermedio
+Violonchelo
+Contrabajo
+Arpa
+Clarinete
+Oboe
+Fagot
+Trombón
+Tuba
+Corno francés
+Platillos
+Triángulo (instrumento)
+Bombo
+Redoblante
+Timbal
+Bongó
+Cajón peruano
+Charango
+Quena
+Zampoña
+Bandoneón
+Guitarra eléctrica
+Guitarra criolla
+Sintetizador
+Órgano
+Clavecín
+Afinación
+Acorde
+Escala musical
+Do mayor
+Sostenido
+Bemol
+Corchea
+Negra (nota)
+Blanca (nota)
+Redonda (nota)
+Silencio (música)
+Compás (música)
+Tempo
+Crescendo
+Solo de guitarra
+Riff
+Cover
+Remix
+Mashup
+Featuring
+Single
+Álbum
+EP
+Disco de oro
+Lista de éxitos
+Top 50
+Gira mundial
+Telonero
+Backstage
+Prueba de sonido
+Pogo
+Mosh
+Encore
+Lip sync
+Playback
+Autotune
+Productor discográfico
+Sello discográfico
+Grammy
+Grammy Latino
+Premios MTV
+Eurovisión
+Festival de Viña del Mar
+Lollapalooza
+Coachella
+Rock in Rio
+Cosquín Rock
+Pilsen Rock
+Carnaval uruguayo
+Teatro de verano
+Desfile de Llamadas
+Cuerda de tambores
+Chico, repique y piano
+Comparsa
+Parodistas
+Humoristas de carnaval
+Revista (carnaval)
+Retirada (murga)
+Saludo (murga)
+Cuplé
+Popurrí
+Milonga
+Chacarera
+Zamba
+Chamamé
+Canto popular
+Rock nacional
+Rock uruguayo
+Cumbia villera
+Cumbia plancha
+Plena
+Cuarteto cordobés
+Bossa nova
+Samba
+Forró
+Sertanejo
+Funk carioca
+Mariachi
+Ranchera
+Corrido
+Bolero
+Son cubano
+Mambo
+Cha-cha-chá
+Flamenco (baile)
+Pasodoble
+Vals
+Polca
+Ópera
+Opereta
+Musical (género)
+Gospel
+Soul
+Funk
+Disco (género)
+Techno
+House
+Dubstep
+EDM
+Indie
+Grunge
+Emo
+K-pop
+J-pop
+Lo-fi
+Beatbox
+Freestyle
+Batalla de gallos
+Tiraera
+Dembow
+Perreo
+Sinfonía
+Concierto para piano
+Sonata
+Réquiem
+Las cuatro estaciones
+Para Elisa
+Novena sinfonía
+Himno de la alegría
+Bohemian Rhapsody
+Thriller (Michael Jackson)
+Despacito
+La Cumparsita
+Mi Buenos Aires querido
+Volver (tango)
+Carlos Gardel
+Astor Piazzolla
+Alfredo Zitarrosa
+Los Olimareños
+Daniel Viglietti
+José Carbajal
+Eduardo Mateo
+Hugo Fattoruso
+Los Shakers
+Fernando Cabrera
+Larbanois y Carrero
+Agarrate Catalina
+Falta y Resto
+Los Diablos Verdes
+Cuareim 1080
+Lucas Sugo
+Márama
+Rombai
+Agustín Casanova
+Los Fatales
+Sonido Profesional
+Karibe con K
+Trotsky Vengarán
+Buitres Después de la Una
+Once Tiros
+Los Traidores
+Callejeros
+Soda Stereo
+Gustavo Cerati
+Charly García
+Luis Alberto Spinetta
+Fito Páez
+Los Redonditos de Ricota
+Indio Solari
+Andrés Calamaro
+Los Fabulosos Cadillacs
+Los Auténticos Decadentes
+Divididos
+La Renga
+Babasónicos
+Duki
+Bizarrap
+Tini
+Lali
+María Becerra
+Nicki Nicole
+Wos
+Trueno (rapero)
+Paulo Londra
+Emilia Mernes
+Rauw Alejandro
+J Balvin
+Maluma
+Ozuna
+Anuel AA
+Feid
+Peso Pluma
+Rosalía
+Juanes
+Carlos Vives
+Celia Cruz
+Juan Luis Guerra
+Marc Anthony
+Mercedes Sosa
+Violeta Parra
+Víctor Jara
+Silvio Rodríguez
+Pablo Milanés
+Caetano Veloso
+Gilberto Gil
+Tom Jobim
+Vinícius de Moraes
+Anitta
+Joan Manuel Serrat
+Joaquín Sabina
+Alejandro Sanz
+Julio Iglesias
+Camilo Sesto
+Raphael
+Selena
+Ariana Grande
+Billie Eilish
+Dua Lipa
+Lady Gaga
+Katy Perry
+Justin Bieber
+Bruno Mars
+The Weeknd
+Harry Styles
+Olivia Rodrigo
+Adele
+Eminem
+Drake
+Kanye West
+Snoop Dogg
+Tupac
+Freddie Mercury
+John Lennon
+Paul McCartney
+Mick Jagger
+The Rolling Stones
+Led Zeppelin
+Pink Floyd
+AC/DC
+Nirvana
+Kurt Cobain
+Guns N' Roses
+Metallica
+Red Hot Chili Peppers
+U2
+Bon Jovi
+Linkin Park
+Green Day
+Arctic Monkeys
+Oasis (banda)
+Radiohead
+ABBA
+BTS
+Blackpink
+Daft Punk
+David Guetta
+Avicii
+Bach
+Vivaldi
+Chopin
+Tchaikovsky
+Verdi
+Wagner
+Haydn
+Händel
+Debussy
+Stravinsky
+Frank Sinatra
+Louis Armstrong
+Ella Fitzgerald
+Ray Charles
+Stevie Wonder
+Whitney Houston
+Aretha Franklin
+Prince
+David Bowie
+Elton John
+Bob Dylan
+Jimi Hendrix
+Amy Winehouse
+
+# dificil
+Contrapunto
+Fuga (música)
+Canon (música)
+Leitmotiv
+Obertura
+Aria
+Recitativo
+Libreto
+Cadencia
+Arpegio
+Escala pentatónica
+Modulación
+Disonancia
+Armonía
+Polifonía
+Monofonía
+Síncopa
+Contratiempo
+Fermata
+Staccato
+Legato
+Pizzicato
+Vibrato
+Glissando
+Falsete
+Barítono
+Tenor
+Soprano
+Mezzosoprano
+Contralto
+Bajo (voz)
+Castrato
+Do central
+Diapasón
+Cejilla
+Púa
+Trastes
+Pedal de efectos
+Distorsión
+Amplificador
+Consola de mezcla
+Ecualizador
+Sampler
+Loop
+Caja de ritmos
+Theremín
+Sitar
+Didgeridoo
+Gaita
+Laúd
+Lira
+Mandolina (instrumento)
+Banjo
+Cítara
+Marimba
+Vibráfono
+Celesta
+Glockenspiel
+Kalimba
+Djembé
+Tabla (instrumento)
+Gong
+Castañuelas
+Güiro
+Cencerro
+Charleston (platillo)
+Bandurria
+Cuatro venezolano
+Tiple
+Bombo legüero
+Arpa paraguaya
+Erke
+Sikus
+Murga de Cádiz
+Candombe beat
+Escuela de samba
+Batucada
+Maracatú
+Frevo
+Axé
+Tropicália
+Cumbia colombiana
+Vallenato
+Porro
+Joropo
+Huayno
+Cueca
+Tonada
+Landó
+Marinera
+Bomba puertorriqueña
+Danzón
+Son jarocho
+Trova
+Nueva canción
+Canto Nuevo
+Rock progresivo
+Rock psicodélico
+Rock sinfónico
+Rockabilly
+Ska
+Dub
+Trip hop
+Drum and bass
+Trance
+Hardstyle
+Synthwave
+Vaporwave
+Shoegaze
+Post-rock
+Math rock
+Nu metal
+Black metal
+Thrash metal
+Hardcore punk
+Britpop
+Madchester
+Motown
+Doo-wop
+Swing
+Bebop
+Big band
+Ragtime
+Dixieland
+Música barroca
+Canto gregoriano
+Música dodecafónica
+Música aleatoria
+John Cage
+Philip Glass
+Ennio Morricone
+Hans Zimmer
+John Williams
+Ludovico Einaudi
+Yann Tiersen
+Erik Satie
+Ravel
+Bolero de Ravel
+Carmina Burana
+El lago de los cisnes
+El cascanueces (ballet)
+La flauta mágica
+La traviata
+Carmen (ópera)
+Aida
+Madama Butterfly
+Nessun dorma
+Pavarotti
+Plácido Domingo
+Maria Callas
+Andrea Bocelli
+Teatro Solís
+Teatro Colón
+La Scala
+Ópera de Sídney
+Royal Albert Hall
+Abbey Road
+Sgt. Pepper's
+The Dark Side of the Moon
+Nevermind
+Back in Black
+Stairway to Heaven
+Hotel California
+Imagine
+Yesterday
+Like a Rolling Stone
+Smells Like Teen Spirit
+Billie Jean
+Gasolina
+La Bamba
+Guantanamera
+Gracias a la vida
+Te recuerdo Amanda
+Ojalá
+A redoblar
+Brindis por Pierrot
+Durazno y Convención
+Adiós mi barrio
+Los Iracundos
+Pepe Guerra
+Leo Maslíah
+Laura Canoura
+Ana Prada
+Malena Muyala
+Martín Buscaglia
+Dante Spinetta
+Kevin Johansen
+Juana Molina
+Natalia Lafourcade
+Café Tacvba
+Molotov
+Maná
+Caifanes
+Zoé
+Los Tigres del Norte
+Vicente Fernández
+Juan Gabriel
+José José
+Rocío Dúrcal
+Chabuca Granda
+Los Kjarkas
+Inti-Illimani
+Quilapayún
+Los Prisioneros
+Los Jaivas
+La Ley (banda)
+Mon Laferte
+Héroes del Silencio
+Mecano
+Hombres G
+Los Enanitos Verdes
+Los Pericos
+Attaque 77
+Los Piojos (banda)
+Bersuit Vergarabat
+Virus (banda)
+Sumo (banda)
+Luca Prodan
+Pappo
+V8
+Almafuerte
+Rata Blanca

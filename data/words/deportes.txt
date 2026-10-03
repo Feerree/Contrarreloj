@@ -1,0 +1,447 @@
+# id: deportes
+# nombre: Deportes
+# icono: ⚽
+
+# facil
+Fútbol
+Básquetbol
+Vóleibol
+Tenis
+Natación
+Atletismo
+Ciclismo
+Boxeo
+Rugby
+Handball
+Golf
+Béisbol
+Ping pong
+Surf
+Skate
+Esquí
+Patinaje
+Karate
+Judo
+Gimnasia
+Maratón
+Carrera de autos
+Fórmula 1
+Gol
+Penal
+Arquero
+Delantero
+Defensa
+Mediocampista
+Tarjeta roja
+Tarjeta amarilla
+Córner
+Offside
+Pelota de fútbol
+Arco
+Red
+Raqueta
+Canasta
+Silbato
+Medalla de oro
+Copa del Mundo
+Juegos Olímpicos
+Campeón
+Estadio
+Cancha
+Hinchada
+Camiseta
+Botines
+Vestuario
+Entretiempo
+Tiro libre
+Saque de banda
+Cabezazo
+Chilena
+Gambeta
+Caño
+Golazo
+Clásico
+Triple
+Volcada
+Smash
+Saque
+Ace
+Pileta
+Trampolín
+Salto alto
+Salto en largo
+Carrera de postas
+Vallas
+Ring
+Nocaut
+Guantes de box
+Bicicleta de carrera
+Podio
+Récord mundial
+Pesas
+Gimnasio
+Yoga
+Pilates
+Crossfit
+Zumba
+Baile
+Escalada
+Pesca
+Equitación
+Polo
+Paddle
+Bowling
+Dardos
+Billar
+Arquería
+Tiro al blanco
+
+# intermedio
+Hockey sobre césped
+Hockey sobre hielo
+Waterpolo
+Remo
+Canotaje
+Kayak
+Windsurf
+Kitesurf
+Bodyboard
+Buceo
+Snorkel
+Paracaidismo
+Parapente
+Ala delta
+Bungee jumping
+Rafting
+Trekking
+Senderismo
+Montañismo
+Alpinismo
+Snowboard
+Patinaje artístico
+Patín carrera
+Triatlón
+Pentatlón
+Decatlón
+Salto con garrocha
+Lanzamiento de bala
+Lanzamiento de disco
+Lanzamiento de martillo
+Esgrima
+Taekwondo
+Kung fu
+Lucha libre
+Sumo
+Kickboxing
+Muay thai
+Artes marciales mixtas
+Jiu-jitsu
+Capoeira
+Halterofilia
+Fisicoculturismo
+Gimnasia artística
+Gimnasia rítmica
+Barra fija
+Caballete
+Anillas
+Barras paralelas
+Viga de equilibrio
+Nado sincronizado
+Clavados
+Estilo mariposa
+Estilo pecho
+Estilo espalda
+Crol
+Motocross
+Rally
+Karting
+MotoGP
+Dakar
+Turismo Carretera
+Vuelta Ciclista del Uruguay
+Tour de Francia
+Ciclismo de montaña
+BMX
+Fútbol sala
+Fútbol playa
+Fútbol 5
+Baby fútbol
+Beach vóley
+Fútbol americano
+Super Bowl
+NBA
+NFL
+Champions League
+Copa Libertadores
+Copa América
+Copa Sudamericana
+Mundial de Clubes
+Eliminatorias
+Balón de Oro
+Botín de Oro
+Pichichi
+Hat-trick
+VAR
+Pared
+Contragolpe
+Doble cinco
+Enganche
+Líbero
+Lateral
+Centrodelantero
+Puntero
+Volante (fútbol)
+Director técnico
+Capitán
+Suplente
+Tribuna
+Platea
+Palco
+Barra brava
+Descenso
+Ascenso
+Tabla de posiciones
+Fixture
+Liguilla
+Torneo Apertura
+Torneo Clausura
+Campeonato Uruguayo
+Mano a mano
+Rebote
+Doble falta
+Tie-break
+Match point
+Grand Slam
+Wimbledon
+Roland Garros
+Set
+Birdie
+Hoyo en uno
+Caddie
+Home run
+Bateador
+Lanzador
+Touchdown
+Try
+Scrum
+Line (rugby)
+Drop (rugby)
+Maratón de Nueva York
+Medio fondo
+Velocista
+Fondista
+Juegos Panamericanos
+Juegos Paralímpicos
+Antorcha olímpica
+Aros olímpicos
+Dopaje
+Árbitro asistente
+Cuarto árbitro
+Muerte súbita
+Gol olímpico
+Autogol
+Rabona
+Sombrerito
+Bicicleta (jugada)
+Elástica
+Pase gol
+Asistencia
+Tapón
+Pick and roll
+Alley-oop
+Tiempo muerto
+
+# dificil
+Curling
+Bobsleigh
+Luge
+Skeleton
+Biatlón
+Esquí de fondo
+Salto de esquí
+Combinada nórdica
+Patinaje de velocidad
+Short track
+Halfpipe
+Slalom
+Descenso libre
+Lacrosse
+Cricket
+Bádminton
+Squash
+Frontón
+Pelota paleta
+Jai alai
+Pato (deporte)
+Hockey sobre patines
+Korfball
+Floorball
+Ultimate frisbee
+Sepak takraw
+Hurling
+Fútbol gaélico
+Rugby league
+Rugby seven
+Sóftbol
+Kendo
+Aikido
+Sambo
+Krav magá
+Wushu
+Lucha grecorromana
+Remo olímpico
+Piragüismo
+Doble scull
+Regata
+Vela olímpica
+Clase Optimist
+Apnea
+Buceo libre
+Parkour
+Slackline
+Orientación
+Ultramaratón
+Ironman
+Duatlón
+Acuatlón
+Heptatlón
+Marcha atlética
+Relevos 4x100
+Salto triple
+Cien metros llanos
+Cuatrocientos metros con vallas
+Tres mil metros con obstáculos
+Ciclismo en pista
+Persecución por equipos
+Contrarreloj individual
+Maillot amarillo
+Etapa reina
+Gregario
+Pelotón
+Escapada
+Equitación de salto
+Doma clásica
+Concurso completo
+Turf
+Gran Premio José Pedro Ramírez
+Hipódromo de Maroñas
+Rodeo
+Jineteada
+Criolla del Prado
+Pial
+Tiro al plato
+Pesca submarina
+Pesca con mosca
+Canotaje de aguas bravas
+Surf de remo
+Stand up paddle
+Wakeboard
+Esquí acuático
+Motonáutica
+Fórmula E
+Indy 500
+Le Mans
+NASCAR
+Pole position
+Pit stop
+Bandera a cuadros
+Vuelta rápida
+Safety car
+Drift
+Trial
+Enduro
+Supercross
+Kickflip
+Ollie
+Grind
+Bowl
+Tubo (surf)
+Ola grande
+Escalada en bloque
+Vía ferrata
+Rápel
+Barranquismo
+Espeleología
+Minigolf
+Croquet
+Petanca
+Bochas
+Tejo
+Sapo (juego)
+Billar a tres bandas
+Snooker
+Esports
+Ajedrez blitz
+Jaque mate
+Enroque
+Gambito
+Tablas
+Ajedrez a ciegas
+Dama (ajedrez)
+Peón
+Alfil
+Torre
+Caballo de ajedrez
+Rey de ajedrez
+Sparring
+Gancho
+Upper
+Jab
+Cinturón negro
+Kata
+Dojo
+Tatami
+Ippon
+Llave de judo
+Sumisión
+Octágono
+UFC
+WWE
+Tobillera
+Rodillera
+Canillera
+Protector bucal
+Casco
+Cronometrista
+Juez de línea
+Planillero
+Preparador físico
+Pretemporada
+Concentración
+Mercado de pases
+Cláusula de rescisión
+Préstamo
+Fair play
+Tarjeta verde
+Gol de oro
+Tanda de penales
+Paradinha
+Panenka
+Tiki-taka
+Catenaccio
+Fútbol total
+Línea de cuatro
+Doble pivote
+Falso nueve
+Carrilero
+Presión alta
+Contraataque
+Zona mixta
+Conferencia de prensa
+Vuelta olímpica
+Bandera de córner
+Banderín
+Línea de cal
+Área chica
+Medialuna del área
+Punto penal
+Círculo central
+Travesaño
+Palo
+Ángulo
+Tiro de media distancia
+Volea
+Media volea
+Pisada
+Marca personal
+Barrera

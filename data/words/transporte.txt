@@ -1,0 +1,402 @@
+# id: transporte
+# nombre: Transporte
+# icono: 🚌
+
+# facil
+Auto
+Ómnibus
+Taxi
+Moto
+Camión
+Tren
+Avión
+Helicóptero
+Barco
+Lancha
+Velero
+Bote
+Canoa
+Submarino
+Crucero
+Ferry
+Subte
+Tranvía
+Patrullero
+Camión de bomberos
+Grúa
+Tractor
+Excavadora
+Camioneta
+Furgoneta
+Casa rodante
+Limusina
+Auto de carrera
+Kart
+Cuatriciclo
+Scooter eléctrico
+Monopatín eléctrico
+Carrito de supermercado
+Globo aerostático
+Paracaídas
+Aeropuerto
+Estación de tren
+Terminal de ómnibus
+Parada de ómnibus
+Boleto
+Pasaje
+Semáforo
+Cebra peatonal
+Peatón
+Volante
+Freno
+Acelerador
+Bocina
+Cinturón de seguridad
+Rueda de auxilio
+Pinchadura
+Nafta
+Estación de servicio
+Estacionamiento
+Garaje
+Autopista
+Ruta
+Calle
+Avenida
+Rotonda
+Esquina
+Puente
+Túnel
+Peaje
+Licencia de conducir
+Multa
+Embotellamiento
+Hora pico
+Choque
+Carril
+Vereda
+Ciclovía
+Casco de moto
+Asiento
+Ventanilla
+Baúl del auto
+Capó
+Parabrisas
+Limpiaparabrisas
+Espejo retrovisor
+Luces de giro
+Matrícula
+Velocímetro
+
+# intermedio
+Ómnibus de dos pisos
+Ómnibus interdepartamental
+Taxímetro
+Remise
+Carpooling
+Bicicleta pública
+Bicicleta eléctrica
+Tándem
+Monociclo
+Segway
+Hoverboard
+Trineo tirado por perros
+Carreta
+Carruaje
+Diligencia
+Sulky
+Calesa
+Rickshaw
+Tuk-tuk
+Góndola
+Balsa
+Catamarán
+Yate
+Transatlántico
+Buque
+Portaaviones
+Destructor
+Fragata
+Acorazado
+Rompehielos
+Remolcador
+Barcaza
+Petrolero
+Buque portacontenedores
+Contenedor
+Dársena
+Muelle
+Amarradero
+Escollera
+Timón
+Proa
+Popa
+Babor
+Estribor
+Mástil
+Vela mayor
+Ojo de buey
+Bodega de carga
+Avioneta
+Jet privado
+Avión de combate
+Bombardero
+Hidroavión
+Planeador
+Ultraliviano
+Dirigible
+Zepelín
+Cohete espacial
+Transbordador espacial
+Cápsula espacial
+Pista de aterrizaje
+Torre de control
+Despegue
+Aterrizaje
+Turbulencia
+Conexión
+Vuelo directo
+Check-in
+Embarque
+Puerta de embarque
+Tarjeta de embarque
+Equipaje de mano
+Valija despachada
+Cinta de equipaje
+Control de seguridad
+Control de migraciones
+Clase turista
+Primera clase
+Business
+Millas
+Overbooking
+Piloto automático
+Caja negra
+Cabina
+Alas
+Turbina
+Hélice
+Tren bala
+Tren de alta velocidad
+Tren de carga
+Locomotora
+Vagón
+Vagón comedor
+Coche cama
+Andén
+Vía férrea
+Durmientes
+Paso a nivel
+Barrera de tren
+Funicular
+Teleférico
+Aerosilla
+Monorriel
+Tren de la costa
+AFE
+Estación Central General Artigas
+Tres Cruces
+Terminal Baltazar Brum
+Aeropuerto de Carrasco
+Puerto de Colonia
+Ruta Interbalnearia
+Ruta 5
+Ruta 1
+Rambla costanera
+Bulevar Artigas
+Avenida 18 de Julio
+Avenida Italia
+Puente Internacional
+Doble vía
+Cantero central
+Banquina
+Guardarraíl
+Badén
+Lomo de burro
+Reductor de velocidad
+Radar de velocidad
+Fotomulta
+Control de alcoholemia
+SUCIVE
+Libreta de propiedad
+Inspección técnica
+Seguro del auto
+SOA
+Cambio de aceite
+Alineación y balanceo
+Gomería
+Taller mecánico
+Lavadero de autos
+Cargador de autos
+Motor
+Caja de cambios
+Cambio automático
+Cambio manual
+Embrague
+Freno de mano
+Amortiguador
+Escape
+Silenciador
+Batería del auto
+Bujía
+Correa de distribución
+Tanque de nafta
+Gasoil
+GNC
+Octanaje
+Kilometraje
+Cuentakilómetros
+Airbag
+ABS
+Sensor de estacionamiento
+Cámara de retroceso
+Navegador GPS
+Portaequipajes
+Tráiler (remolque)
+Auto clásico
+Auto antiguo
+Fusca
+Citroën 2CV
+Ford T
+Jeep Willys
+DeLorean
+Batimóvil
+Auto fantástico
+Herbie
+Auto de Los Picapiedras
+Expreso de Hogwarts
+Orient Express
+Mayflower
+
+# dificil
+Monoplaza
+Dragster
+Hot rod
+Muscle car
+Lowrider
+Monster truck
+Tanque de guerra
+Vehículo blindado
+Humvee
+Hovercraft
+Aerodeslizador
+Batiscafo
+Batisfera
+Sumergible
+Trirreme
+Galera
+Drakkar
+Junco chino
+Dhow
+Piragua
+Jangada
+Balsa de totora
+Caballito de totora
+Velero de tres mástiles
+Bergantín
+Goleta
+Clíper
+Nao
+Vapor de río
+Rueda de paletas
+Lancha colectiva
+Gabarra
+Draga
+Pontón
+Esclusa
+Canal navegable
+Hidrovía
+Calado
+Nudo (velocidad)
+Milla náutica
+Bitácora
+Radar marino
+Boya
+Baliza
+Capitanía de puerto
+Contenedor refrigerado
+Grúa pórtico
+Estiba
+Flete
+Logística
+Última milla
+Cadena de suministro
+Centro de distribución
+Courier
+Encomienda (envío)
+Paquetería
+Correo postal
+Código postal
+Envío internacional
+Tracking
+Concorde
+Boeing 747
+Airbus A380
+Jumbo
+Avión de hélice
+Avión a reacción
+Bimotor
+Cuatrimotor
+Aviónica
+Alerones
+Flaps
+Tren de aterrizaje
+Fuselaje
+Estabilizador
+Timón de profundidad
+Barrera del sonido
+Velocidad supersónica
+Mach
+Estela de condensación
+Corredor aéreo
+Espacio aéreo
+Control de tráfico aéreo
+Código de aeropuerto
+Hub aéreo
+Low cost
+Aerolínea de bandera
+Pluna
+Aeropuerto de Laguna del Sauce
+Aeropuerto de Ezeiza
+Aeroparque
+Trocha
+Trocha ancha
+Trocha angosta
+Ferrocarril Central
+Tren a las nubes
+Transiberiano
+Shinkansen
+Maglev
+TGV
+Eurostar
+Eurotúnel
+Hyperloop
+Cable Car de San Francisco
+Trolebús
+BRT
+Metrobús
+Carril exclusivo
+STM
+Boleto estudiantil
+Pase libre
+Moto de cross
+Moto de pista
+Sidecar
+Chopper
+Scooter clásico
+Ciclomotor
+Bicimoto
+Velocípedo
+Biciclo
+Bicicleta playera
+Bicicleta plegable
+Bicicleta de montaña
+Fixie
+Cambios de bicicleta
+Cadena de bicicleta
+Plato y piñón
+Rayos de la rueda
+Cámara de bicicleta
+Inflador
+Timbre de bicicleta
+Canasto de bicicleta
+Rueditas

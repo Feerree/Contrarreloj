@@ -1,0 +1,547 @@
+# id: cine
+# nombre: Cine y televisión
+# icono: 🎬
+
+# facil
+Cine
+Película
+Estreno
+Tráiler
+Director
+Cámara de cine
+Claqueta
+Alfombra roja
+Oscar
+Dibujos animados
+Película animada
+Comedia
+Drama
+Película de terror
+Película de acción
+Superhéroe
+Villano
+Spoiler
+Secuela
+Saga de películas
+Serie de televisión
+Temporada
+Episodio
+Netflix
+Disney Plus
+HBO
+YouTube
+Telenovela
+Noticiero
+Pronóstico del tiempo
+Programa de cocina
+Reality show
+Concurso de televisión
+Canal
+Zapping
+Publicidad
+Avatar
+Star Wars
+El Rey León
+Toy Story
+Frozen
+Shrek
+Buscando a Nemo
+Los Increíbles
+Monsters Inc.
+Cars
+Coco (película)
+Intensa-Mente
+Mi villano favorito
+Minions
+Madagascar (película)
+La era de hielo
+Kung Fu Panda
+Jurassic Park
+Rápidos y furiosos
+Spider-Man
+Batman
+Superman
+Avengers
+Iron Man
+Los Simpson
+Bob Esponja
+Friends
+Stranger Things
+La casa de papel
+El Chavo del 8
+Bluey
+Peppa Pig
+Mickey Mouse
+Pato Donald
+Tom y Jerry
+Scooby-Doo
+Pokémon (serie)
+Dragon Ball
+Los Picapiedras
+Hulk
+Wonder Woman
+Capitán América
+Thor
+Black Panther
+Deadpool
+Rocky
+Terminator
+E.T.
+Matrix
+Volver al futuro
+Indiana Jones
+Piratas del Caribe
+Mamma Mia
+High School Musical
+Hannah Montana
+
+# intermedio
+Guion
+Productora
+Rodaje
+Set de filmación
+Toma
+Plano
+Primer plano
+Cámara lenta
+Efectos especiales
+CGI
+Pantalla verde
+Banda sonora
+Créditos finales
+Escena poscréditos
+Final abierto
+Giro argumental
+Flashback
+Precuela
+Remake
+Reboot
+Spin-off
+Universo cinematográfico
+Crossover
+Cameo
+Doblaje
+Subtítulos
+Versión original
+Cine 3D
+Cine 4D
+IMAX
+Autocine
+Cine arte
+Cine independiente
+Cortometraje
+Largometraje
+Documental
+Falso documental
+Biopic
+Western
+Cine mudo
+Cine en blanco y negro
+Animación stop motion
+Anime
+Musical de Broadway
+Comedia romántica
+Thriller
+Suspenso
+Película de catástrofes
+Película de zombis
+Película de época
+Película bélica
+Road movie
+Película de culto
+Taquilla
+Crítica de cine
+Festival de Cannes
+Festival de Berlín
+Festival de Venecia
+Sundance
+Globos de Oro
+Premios Emmy
+Premios Goya
+Estatuilla
+Discurso de agradecimiento
+Hollywood Boulevard
+Paseo de la Fama
+Bollywood
+Nollywood
+Estudio de cine
+Pixar
+DreamWorks
+Warner
+Marvel
+DC Comics
+Lucasfilm
+Studio Ghibli
+El viaje de Chihiro
+Mi vecino Totoro
+El castillo ambulante
+El Padrino
+Pulp Fiction
+Forrest Gump
+El club de la pelea
+Origen
+Interestelar
+El caballero de la noche
+Gladiador (película)
+Corazón valiente
+Tiburón (película)
+Psicosis
+El exorcista
+El resplandor
+It (Eso)
+Scream
+Saw
+El conjuro
+Annabelle
+Chucky
+Freddy Krueger
+Jason Voorhees
+Halloween (película)
+Pesadilla en la calle Elm
+Los cazafantasmas
+Gremlins
+Los Goonies
+Mi pobre angelito
+Mujer bonita
+Dirty Dancing
+Grease
+Ghost
+El diablo viste a la moda
+Chicas pesadas
+Diario de una pasión
+Bajo la misma estrella
+Yo antes de ti
+A todos los chicos de los que me enamoré
+Misión imposible
+James Bond
+Top Gun
+Duro de matar
+Kill Bill
+Bastardos sin gloria
+Django sin cadenas
+Parásitos (película)
+Oppenheimer
+Dune
+La La Land
+Whiplash
+El lobo de Wall Street
+Atrápame si puedes
+El show de Truman
+Náufrago
+Rescatando al soldado Ryan
+La lista de Schindler
+El pianista
+La vida es bella
+Amélie
+El laberinto del fauno
+Relatos salvajes
+El secreto de sus ojos
+Nueve reinas
+Argentina, 1985
+Whisky (película)
+25 watts
+Mr. Kaplan
+La sociedad de la nieve
+Viven
+South Park
+Padre de familia
+Futurama
+Rick y Morty
+Hora de aventura
+Gravity Falls
+Phineas y Ferb
+Los padrinos mágicos
+Jimmy Neutrón
+Las Chicas Superpoderosas
+El laboratorio de Dexter
+Coraje, el perro cobarde
+Ben 10
+Avatar: la leyenda de Aang
+Naruto
+One Piece
+Los caballeros del zodíaco
+Sailor Moon
+Digimon
+Death Note
+Ataque a los titanes
+Demon Slayer
+Juego de tronos
+Breaking Bad
+The Office
+Grey's Anatomy
+Dr. House
+The Walking Dead
+Lost
+Prison Break
+Dexter
+Peaky Blinders
+The Crown
+Merlina
+El juego del calamar
+Élite
+Dark
+Black Mirror
+The Boys
+The Last of Us (serie)
+Casa del dragón
+Euphoria
+Emily en París
+Bridgerton
+Cobra Kai
+The Mandalorian
+Loki (serie)
+WandaVision
+Modern Family
+The Big Bang Theory
+Cómo conocí a tu madre
+Two and a Half Men
+Glee
+Gossip Girl
+Pretty Little Liars
+Riverdale
+13 Reasons Why
+Sex Education
+Narcos
+Pablo Escobar: el patrón del mal
+La reina del sur
+Yo soy Betty, la fea
+Rebelde Way
+Rebelde
+Patito Feo
+Violetta
+Soy Luna
+Casi Ángeles
+Chiquititas
+Floricienta
+Los Roldán
+Graduados
+Esperanza mía
+Los Power Rangers
+Barney
+Teletubbies
+Plaza Sésamo
+Dora la exploradora
+Backyardigans
+Hi-5
+Club de Mickey
+Cartoon Network
+Nickelodeon
+Disney Channel
+MTV
+Discovery Channel
+National Geographic
+Animal Planet
+History Channel
+Telemundo
+Televisa
+Canal 4
+Canal 10
+Canal 12
+Tv Ciudad
+Gran Hermano
+MasterChef
+Got Talent
+La Voz
+Operación Triunfo
+Bailando por un sueño
+ShowMatch
+¿Quién quiere ser millonario?
+Pasapalabra
+Los 8 escalones
+Sábado Show
+Videomatch
+Buenas noches, América
+Subrayado
+Cine Universitario
+Cinemateca Uruguaya
+
+# dificil
+Montaje
+Raccord
+Plano secuencia
+Travelling
+Contrapicado
+Picado
+Plano americano
+Plano general
+Gran angular
+Zoom (cámara)
+Steadicam
+Grúa de cámara
+Dolly
+Foley
+Mezcla de sonido
+Etalonaje
+Corrección de color
+Storyboard
+Casting
+Teaser
+Script doctor
+Showrunner
+Productor ejecutivo
+Asistente de dirección
+Director de fotografía
+Gaffer
+Making of
+Corte del director
+Metraje
+Fotograma
+Celuloide
+Proyector de 35 mm
+Cinemascope
+Technicolor
+Cinerama
+Formato panorámico
+Cuarta pared
+MacGuffin
+Deus ex machina
+Arma de Chéjov
+Easter egg
+Fan service
+Test de Bechdel
+Arquetipo del héroe
+Viaje del héroe
+Nouvelle vague
+Neorrealismo italiano
+Expresionismo alemán
+Dogma 95
+Cine negro
+Spaghetti western
+Blaxploitation
+Giallo
+Kaiju
+Wuxia
+Mumblecore
+Cine de autor
+Cine B
+Ciudadano Kane
+Casablanca (película)
+El mago de Oz
+Lo que el viento se llevó
+Metrópolis
+Nosferatu
+El gabinete del doctor Caligari
+El acorazado Potemkin
+Viaje a la Luna
+Tiempos modernos
+El gran dictador
+Charles Chaplin
+Buster Keaton
+Alfred Hitchcock
+Stanley Kubrick
+2001: Odisea del espacio
+La naranja mecánica
+Steven Spielberg
+Martin Scorsese
+Taxi Driver
+Francis Ford Coppola
+Apocalypse Now
+Quentin Tarantino
+Christopher Nolan
+Tim Burton
+El extraño mundo de Jack
+Wes Anderson
+El Gran Hotel Budapest
+David Lynch
+Twin Peaks
+David Fincher
+Seven
+Ridley Scott
+Blade Runner
+Alien
+James Cameron
+Peter Jackson
+Guillermo del Toro
+Alfonso Cuarón
+Roma (película)
+Alejandro González Iñárritu
+Birdman
+El renacido
+Pedro Almodóvar
+Todo sobre mi madre
+Luis Buñuel
+Un perro andaluz
+Federico Fellini
+La dolce vita
+Ingmar Bergman
+El séptimo sello
+Akira Kurosawa
+Los siete samuráis
+Hayao Miyazaki
+Bong Joon-ho
+Wong Kar-wai
+Lars von Trier
+Michael Haneke
+Jean-Luc Godard
+François Truffaut
+Los 400 golpes
+Sergio Leone
+El bueno, el malo y el feo
+Clint Eastwood
+John Ford
+Orson Welles
+Billy Wilder
+Con faldas y a lo loco
+Marilyn Monroe
+Audrey Hepburn
+Desayuno en Tiffany's
+Humphrey Bogart
+Greta Garbo
+Marlon Brando
+James Dean
+Al Pacino
+Robert De Niro
+Jack Nicholson
+Meryl Streep
+Tom Hanks
+Denzel Washington
+Leonardo DiCaprio
+Brad Pitt
+Angelina Jolie
+Johnny Depp
+Scarlett Johansson
+Margot Robbie
+Zendaya
+Timothée Chalamet
+Pedro Pascal
+Ricardo Darín
+Guillermo Francella
+Juan Pablo Rebella
+Federico Veiroj
+Álvaro Brechner
+La noche de 12 años
+El baño del Papa
+Anina
+La casa muda
+Cineclub
+Videoclub
+VHS
+Betamax
+Laserdisc
+Rebobinar
+Alquiler de películas
+Televisión por cable
+Antena de conejito
+Ajuste de carta
+Horario central
+Rating
+Late night show
+Talk show
+Sitcom
+Risas grabadas
+Telenovela turca
+Las mil y una noches (telenovela)
+Culebrón
+Miniserie
+Antología (serie)
+Maratón de series
+Final de temporada
+Cliffhanger
+Piloto (episodio)
+Fandom
+Shippear
+Fanfic
+Doblaje mexicano
+Doblaje neutro
+Voz en off
+Narrador omnisciente

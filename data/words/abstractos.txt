@@ -1,0 +1,430 @@
+# id: abstractos
+# nombre: Conceptos abstractos
+# icono: 💭
+
+# facil
+Amor
+Odio
+Amistad
+Felicidad
+Tristeza
+Alegría
+Miedo
+Enojo
+Celos
+Envidia
+Vergüenza
+Orgullo
+Paciencia
+Aburrimiento
+Sorpresa
+Esperanza
+Suerte
+Mala suerte
+Tiempo
+Pasado
+Futuro
+Presente
+Recuerdo
+Secreto
+Mentira
+Verdad
+Promesa
+Perdón
+Valentía
+Confianza
+Respeto
+Honestidad
+Generosidad
+Egoísmo
+Bondad
+Maldad
+Belleza
+Fealdad
+Silencio
+Ruido
+Paz
+Violencia
+Hogar
+Nostalgia
+Soledad
+Compañía
+Éxito
+Fracaso
+Victoria
+Derrota
+Fama
+Riqueza
+Diversión
+Risa
+Llanto
+Abrazo
+Beso
+Caricia
+Despedida
+Bienvenida
+Cumplido
+Insulto
+Grito
+Susurro
+Idea
+Pensamiento
+Imaginación
+Creatividad
+Inteligencia
+Memoria
+Olvido
+Sabiduría
+Duda
+Curiosidad
+Locura
+Calma
+Nervios
+Pereza
+Prisa
+Puntualidad
+Tardanza
+Distancia
+Cercanía
+Lentitud
+Altura
+Profundidad
+Tamaño
+
+# intermedio
+Empatía
+Simpatía
+Antipatía
+Compasión
+Gratitud
+Humildad
+Soberbia
+Arrogancia
+Vanidad
+Codicia
+Avaricia
+Gula
+Lujuria
+Ira
+Rencor
+Venganza
+Resentimiento
+Culpa
+Remordimiento
+Arrepentimiento
+Melancolía
+Euforia
+Entusiasmo
+Motivación
+Desmotivación
+Frustración
+Decepción
+Ilusión
+Desilusión
+Expectativa
+Incertidumbre
+Angustia
+Desesperación
+Optimismo
+Pesimismo
+Ironía
+Sarcasmo
+Humor negro
+Ingenio
+Talento
+Esfuerzo
+Disciplina
+Constancia
+Perseverancia
+Determinación
+Ambición
+Meta
+Propósito
+Destino
+Casualidad
+Coincidencia
+Azar
+Caos
+Orden
+Equilibrio
+Contraste
+Simetría
+Asimetría
+Eternidad
+Instante
+Momento
+Rutina
+Costumbre
+Tradición
+Progreso
+Madurez
+Inmadurez
+Inocencia
+Ingenuidad
+Malicia
+Astucia
+Sentido común
+Intuición
+Instinto
+Corazonada
+Presentimiento
+Lealtad
+Traición
+Fidelidad
+Infidelidad
+Compromiso
+Responsabilidad
+Irresponsabilidad
+Obligación
+Derecho
+Deber
+Privilegio
+Injusticia
+Desigualdad
+Solidaridad
+Cooperación
+Rivalidad
+Enemistad
+Reconciliación
+Tolerancia
+Intolerancia
+Prejuicio
+Estereotipo
+Discriminación
+Racismo
+Machismo
+Xenofobia
+Homofobia
+Diversidad
+Inclusión
+Identidad
+Autenticidad
+Hipocresía
+Contradicción
+Paradoja
+Dilema
+Problema
+Desafío
+Oportunidad
+Riesgo
+Peligro
+Inseguridad
+Vulnerabilidad
+Fortaleza
+Debilidad
+Poder
+Autoridad
+Rebeldía
+Obediencia
+Dependencia
+Adicción
+Obsesión
+Pasión
+Atracción
+Flechazo
+Amor a primera vista
+Amor platónico
+Desamor
+Corazón roto
+Mal de amores
+Friendzone
+Tensión
+Incomodidad
+Silencio incómodo
+Vergüenza ajena
+Orgullo herido
+Ego
+Amor propio
+Paz interior
+Plenitud
+Sentido de la vida
+Muerte
+Vida
+Nacimiento
+Juventud
+Vejez
+Niñez
+Adultez
+Generación
+Legado
+Reputación
+Prestigio
+Honor
+Dignidad
+Moral
+Ética
+Valores
+Virtud
+Vicio
+Pecado
+Tentación
+Castigo
+Recompensa
+Premio
+Mérito
+
+# dificil
+Nihilismo
+Existencialismo
+Estoicismo
+Hedonismo
+Epicureísmo
+Cinismo
+Escepticismo
+Relativismo
+Determinismo
+Libre albedrío
+Fatalismo
+Idealismo
+Materialismo
+Empirismo
+Racionalismo
+Utilitarismo
+Pragmatismo
+Positivismo
+Humanismo
+Altruismo
+Individualismo
+Colectivismo
+Dualismo
+Monismo
+Panteísmo
+Ontología
+Epistemología
+Metafísica
+Fenomenología
+Dialéctica
+Síntesis
+Silogismo
+Falacia
+Sofisma
+Tautología
+Axioma
+Postulado
+Dogma
+Paradigma
+Serendipia
+Sincronicidad
+Efímero
+Fugacidad
+Transitoriedad
+Impermanencia
+Trascendencia
+Inmanencia
+Abstracción
+Esencia
+Apariencia
+Sustancia
+Alma
+Espíritu
+Conciencia
+Subconsciente
+Inconsciente
+Proyección (psicología)
+Negación
+Disonancia cognitiva
+Sesgo de confirmación
+Efecto Dunning-Kruger
+Síndrome del impostor
+Profecía autocumplida
+Efecto halo
+Pensamiento crítico
+Pensamiento lateral
+Inteligencia emocional
+Mindfulness
+Procrastinación
+Perfeccionismo
+Narcisismo
+Egocentrismo
+Megalomanía
+Paranoia
+Histeria
+Apatía
+Anhedonia
+Hastío
+Tedio
+Saudade
+Añoranza
+Desarraigo
+Pertenencia
+Otredad
+Alteridad
+Empoderamiento
+Sororidad
+Fraternidad
+Camaradería
+Complicidad
+Confidencia
+Intimidad
+Introspección
+Autoconocimiento
+Iluminación
+Revelación
+Inspiración
+Bloqueo creativo
+Página en blanco
+Flujo (estado)
+Zona de confort
+Ansiedad social
+Timidez
+Extroversión
+Introversión
+Carisma
+Magnetismo personal
+Elocuencia
+Retórica
+Persuasión
+Manipulación
+Gaslighting
+Chantaje emocional
+Victimismo
+Capital social
+Meritocracia
+Burocracia
+Tecnocracia
+Plutocracia
+Oligarquía
+Anarquía
+Entelequia
+Quimera
+Espejismo
+Ilusión óptica
+Vértigo existencial
+Absurdo
+Kitsch
+Sublime
+Grotesco
+Pintoresco
+Exótico
+Cotidiano
+Banal
+Trivial
+Esencial
+Superfluo
+Redundante
+Ambigüedad
+Vaguedad
+Precisión
+Exactitud
+Rigor
+Lógica
+Razón
+Emoción
+Sentimiento
+Sensación
+Percepción
+Subjetividad
+Objetividad
+Neutralidad
+Imparcialidad
+Parcialidad
+Polaridad
+Dualidad
+Ciclo
+Reciprocidad
+Causalidad
+Consecuencia
+Efecto colateral
+Punto de inflexión
+Punto de no retorno
+Antes y después
