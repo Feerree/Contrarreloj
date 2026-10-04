@@ -1,6 +1,6 @@
 // ARCHIVO GENERADO por tools/build-bank.mjs — no editar a mano.
 // Fuente: data/words/*.txt
-export const BANK_VERSION = "15104-c0ba016";
+export const BANK_VERSION = "15103-14b883ec";
 export const CATEGORIES = [{"id":"abstractos","name":"Conceptos abstractos","icon":"💭"},{"id":"acciones","name":"Acciones y verbos","icon":"🏃"},{"id":"alimentos","name":"Alimentos y bebidas","icon":"🍕"},{"id":"animales","name":"Animales","icon":"🦁"},{"id":"arte","name":"Arte y literatura","icon":"🎨"},{"id":"ciencia","name":"Ciencia","icon":"🔬"},{"id":"cine","name":"Cine y televisión","icon":"🎬"},{"id":"cuerpo","name":"Medicina y cuerpo humano","icon":"🫀"},{"id":"cultura","name":"Cultura general","icon":"🧠"},{"id":"deportes","name":"Deportes","icon":"⚽"},{"id":"economia","name":"Economía y finanzas","icon":"💰"},{"id":"entretenimiento","name":"Entretenimiento","icon":"🎡"},{"id":"expresiones","name":"Expresiones populares","icon":"💬"},{"id":"geografia","name":"Geografía","icon":"🗺️"},{"id":"historia","name":"Historia","icon":"🏛️"},{"id":"internacional","name":"Cultura internacional","icon":"🌍"},{"id":"internet","name":"Redes sociales e Internet","icon":"📱"},{"id":"latam","name":"Cultura latinoamericana","icon":"🌮"},{"id":"lugares","name":"Lugares y edificios","icon":"🏠"},{"id":"marcas","name":"Marcas y empresas","icon":"🏷️"},{"id":"mitologia","name":"Mitología y fantasía","icon":"🐉"},{"id":"moda","name":"Ropa y moda","icon":"👗"},{"id":"musica","name":"Música","icon":"🎵"},{"id":"naturaleza","name":"Naturaleza","icon":"🌿"},{"id":"objetos","name":"Objetos cotidianos","icon":"🪑"},{"id":"paises","name":"Países y ciudades","icon":"🌎"},{"id":"personajes","name":"Series y personajes ficticios","icon":"🦸"},{"id":"personalidades","name":"Personalidades","icon":"⭐"},{"id":"politica","name":"Política e instituciones","icon":"⚖️"},{"id":"profesiones","name":"Profesiones y oficios","icon":"👩‍🔧"},{"id":"tecnologia","name":"Tecnología","icon":"💻"},{"id":"transporte","name":"Transporte","icon":"🚌"},{"id":"uruguay","name":"Cultura uruguaya","icon":"🇺🇾"},{"id":"videojuegos","name":"Videojuegos","icon":"🎮"}];
 export const WORDS = [
 ["Amor",0,1],
@@ -5310,7 +5310,6 @@ export const WORDS = [
 ["Noche de los museos",11,3],
 ["Noche Blanca",11,3],
 ["Bienal de Montevideo",11,3],
-["Primavera 0",11,3],
 ["Café Brasilero",11,3],
 ["Sala Zitarrosa",11,3],
 ["Joda",11,3],

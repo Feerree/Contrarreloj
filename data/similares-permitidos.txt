@@ -1,0 +1,6 @@
+# Pares que el validador marca como "similares" pero son conceptos distintos.
+# Formato: Concepto A | Concepto B   (el orden no importa)
+Pagaré | Pagar
+Rap | Rape
+Popeye | Popeyes
+Bote | Bot

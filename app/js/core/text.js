@@ -19,8 +19,10 @@ function singular(word) {
   // Las palabras agudas terminadas en "és" (arnés, inglés) ya están en singular.
   if (/és$/.test(word)) return normalizeKey(word);
   word = normalizeKey(word);
-  if (word.length > 4 && /[^aeiou]es$/.test(word)) return word.slice(0, -2);
-  if (word.length > 3 && word.endsWith('s')) return word.slice(0, -1);
+  // Se quita la "s" final y luego una "e" tras consonante: flores/flor → flor,
+  // pirámides/pirámide → piramid. Es una clave de comparación, no una palabra real.
+  if (word.length > 3 && word.endsWith('s')) word = word.slice(0, -1);
+  if (word.length > 3 && /[^aeiou]e$/.test(word)) word = word.slice(0, -1);
   return word;
 }
 

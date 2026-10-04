@@ -2,7 +2,7 @@
 
 Generado automáticamente por `tools/build-bank.mjs`. No editar a mano.
 
-**Total: 15104 conceptos únicos en 34 categorías.**
+**Total: 15103 conceptos únicos en 34 categorías.**
 
 | Categoría | Fácil | Intermedio | Difícil | Total |
 | --- | ---: | ---: | ---: | ---: |
@@ -17,7 +17,7 @@ Generado automáticamente por `tools/build-bank.mjs`. No editar a mano.
 | 🧠 Cultura general | 112 | 188 | 187 | 487 |
 | ⚽ Deportes | 92 | 153 | 193 | 438 |
 | 💰 Economía y finanzas | 68 | 142 | 134 | 344 |
-| 🎡 Entretenimiento | 65 | 128 | 125 | 318 |
+| 🎡 Entretenimiento | 65 | 128 | 124 | 317 |
 | 💬 Expresiones populares | 72 | 145 | 175 | 392 |
 | 🗺️ Geografía | 82 | 141 | 198 | 421 |
 | 🏛️ Historia | 78 | 150 | 192 | 420 |
@@ -40,4 +40,4 @@ Generado automáticamente por `tools/build-bank.mjs`. No editar a mano.
 | 🚌 Transporte | 83 | 178 | 132 | 393 |
 | 🇺🇾 Cultura uruguaya | 79 | 94 | 35 | 208 |
 | 🎮 Videojuegos | 79 | 163 | 177 | 419 |
-| **Total** | **2876** | **6072** | **6156** | **15104** |
+| **Total** | **2876** | **6072** | **6155** | **15103** |

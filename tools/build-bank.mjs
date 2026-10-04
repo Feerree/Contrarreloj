@@ -93,13 +93,24 @@ for (const w of words) {
   } else byKey.set(k, w);
 }
 
-// Duplicados aproximados
+// Duplicados aproximados (salvo los pares aceptados en data/similares-permitidos.txt)
+const allowed = new Set();
+try {
+  for (const raw of readFileSync(join(ROOT, 'data', 'similares-permitidos.txt'), 'utf8').split(/\r?\n/)) {
+    const line = raw.trim();
+    if (!line || line.startsWith('#') || !line.includes('|')) continue;
+    allowed.add(line.split('|').map((x) => normalizeKey(x)).sort().join('|'));
+  }
+} catch {
+  /* archivo opcional */
+}
+const isAllowed = (a, b) => allowed.has([normalizeKey(a), normalizeKey(b)].sort().join('|'));
 const byLoose = new Map();
 for (const w of words) {
   const k = looseKey(w.text);
   if (byLoose.has(k)) {
     const o = byLoose.get(k);
-    if (normalizeKey(o.text) !== normalizeKey(w.text)) {
+    if (normalizeKey(o.text) !== normalizeKey(w.text) && !isAllowed(o.text, w.text)) {
       warnings.push(`Similar: "${w.text}" (${w.file}:${w.line}) ≈ "${o.text}" (${o.file}:${o.line})`);
     }
   } else byLoose.set(k, w);
