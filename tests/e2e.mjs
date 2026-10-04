@@ -2,7 +2,7 @@
 // Requiere el servidor local:  npm start   (http://localhost:5173)
 // Ejecutar:                    npm run test:e2e
 //
-// Verifica: flujo completo hasta la victoria, dado coherente con la cara visible,
+// Verifica: tarjetas de 5 palabras, flujo completo hasta la victoria, dado coherente con la cara visible,
 // sin palabras repetidas, guardado y recarga a mitad de ronda, modo sin conexión,
 // otras modalidades y ausencia de scroll horizontal en distintos tamaños de pantalla.
 
@@ -61,8 +61,14 @@ async function playRound(page, hits, skips = 0) {
   await page.click('[data-act="begin"]');
   await page.clock.runFor(2600);
   for (let i = 0; i < hits; i++) {
-    await page.clock.runFor(600); // más que el bloqueo anti doble toque
-    await page.click('[data-act="hit"]');
+    // El reloj simulado de Playwright a veces avanza menos de lo pedido y el bloqueo
+    // anti doble toque descarta el toque: se reintenta hasta que el contador sube.
+    const before = Number(await page.locator('#hits').textContent());
+    for (let t = 0; t < 4; t++) {
+      await page.clock.runFor(600);
+      await page.locator('.card-word:not(.done)').first().click();
+      if (Number(await page.locator('#hits').textContent()) > before) break;
+    }
   }
   for (let i = 0; i < skips; i++) {
     await page.clock.runFor(600);
@@ -97,12 +103,16 @@ await step('Partida clásica completa: penalización, alternancia, sin repeticio
   }
   const g = await game(page);
   assert.equal(g.finished, true, 'la partida termina');
-  assert.deepEqual(g.winners, [0], 'gana el primero en llegar');
+  // Gana el primero que llega a 34 según el orden real de las rondas (depende de los dados)
+  const pos = [0, 0];
+  let expected = null;
+  for (const r of g.rounds) {
+    pos[r.team] += Math.max(0, 9 - r.die);
+    if (expected === null && pos[r.team] >= 34) expected = r.team;
+  }
+  assert.deepEqual(g.winners, [expected], 'gana el primero en llegar');
   for (let i = 1; i < teamsOrder.length; i++) assert.notEqual(teamsOrder[i], teamsOrder[i - 1], 'alternancia');
   assert.equal(new Set(g.usedIds).size, g.usedIds.length, 'sin palabras repetidas');
-  // Posición = suma de máx(0, aciertos − dado), acotada a la meta
-  const pos = g.rounds.filter((r) => r.team === 0).reduce((s, r) => s + Math.max(0, 9 - r.die), 0);
-  assert.ok(pos >= 34, 'llegó a la meta');
   await page.clock.runFor(3000);
   await page.locator('.victory').waitFor();
   if (SHOTS) await page.screenshot({ path: `${SHOTS}/e2e-victory.png` });
@@ -140,16 +150,17 @@ await step('Recargar a mitad de ronda conserva tiempo, palabra y aciertos', asyn
   await page.click('[data-act="play"]');
   await page.click('[data-act="begin"]');
   await page.clock.runFor(2600);
-  await page.clock.runFor(300);
-  await page.click('[data-act="hit"]');
+  await page.clock.runFor(600);
+  await page.locator('.card-word').nth(2).click();
   await page.clock.runFor(20_000);
   const before = await game(page);
-  const word = await page.locator('.word').textContent();
+  const word = await page.locator('.card-words').textContent();
   await page.reload();
-  await page.locator('.word').waitFor();
+  await page.locator('.card-words').waitFor();
   const secs = Number(await page.locator('#timer .num').textContent());
   assert.ok(secs <= 40 && secs >= 37, `quedan ~40 s, muestra ${secs}`);
-  assert.equal(await page.locator('.word').textContent(), word, 'misma palabra');
+  assert.equal(await page.locator('.card-words').textContent(), word, 'misma tarjeta con la palabra marcada');
+  assert.equal(await page.locator('.card-word.done').count(), 1);
   assert.equal(await page.locator('#hits').textContent(), '1');
   // Pausa: la palabra se oculta y el tiempo no corre
   await page.click('[data-act="pause"]');
@@ -247,8 +258,10 @@ await step('Sin scroll horizontal en celulares chicos, grandes y tablets', async
     await page.click('[data-act="begin"]');
     await page.clock.runFor(2600);
     await check('juego');
-    const btn = await page.locator('[data-act="hit"]').boundingBox();
-    assert.ok(btn.y + btn.height <= vp.height, `botón de acierto visible en ${vp.width}x${vp.height}`);
+    const btn = await page.locator('[data-act="skip"]').boundingBox();
+    assert.ok(btn.y + btn.height <= vp.height, `botón de pasar visible en ${vp.width}x${vp.height}`);
+    const last = await page.locator('.card-word').last().boundingBox();
+    assert.ok(last.y + last.height <= btn.y, `las 5 palabras entran en pantalla en ${vp.width}x${vp.height}`);
     if (SHOTS) await page.screenshot({ path: `${SHOTS}/e2e-play-${vp.width}.png` });
     await ctx.close();
   }

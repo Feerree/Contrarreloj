@@ -1,4 +1,4 @@
-// Pantalla de juego: cronómetro, palabra actual, aciertos y pasadas.
+// Pantalla de juego: cronómetro, tarjeta de palabras (5 por defecto), aciertos y pasadas.
 // El tiempo se calcula con la hora real (endAt), así que no se desfasa si la pantalla
 // se recarga o la app pasa a segundo plano.
 
@@ -18,6 +18,7 @@ export function playScreen(app) {
   const ev = G.evaluate(game);
   const describer = G.playerName(team, cur.describer);
   const startLives = ev.livesLeft[cur.team];
+  const cardSize = game.config.cardSize || 5;
 
   const el = html(`<section class="screen play ${teamClass(team)}" aria-label="Ronda en juego">
     <div class="play-top">
@@ -32,12 +33,12 @@ export function playScreen(app) {
       <div class="counter ok"><span>Aciertos</span><b id="hits">0</b></div>
       <div class="counter bad"><span>${mode.survival ? 'Vidas' : 'Pasadas'}</span><b id="skips">0</b></div>
     </div>
-    <div class="word-card" id="card" aria-live="polite"></div>
-    <div class="play-actions">
-      <button class="btn bad" data-act="skip" id="btn-skip"><span class="ico">✗</span>${G.canSkip(game) ? 'Pasar' : 'Sin pasar'}</button>
-      <button class="btn ok" data-act="hit" id="btn-hit"><span class="ico">✓</span>¡Acierto!</button>
+    <div class="word-card${cardSize > 1 ? ' multi' : ''}" id="card" aria-live="polite"></div>
+    <div class="play-actions${cardSize > 1 ? ' single' : ''}">
+      <button class="btn bad" data-act="skip" id="btn-skip"><span class="ico">✗</span>${G.canSkip(game) ? (cardSize > 1 ? 'Pasar tarjeta' : 'Pasar') : 'Sin pasar'}</button>
+      ${cardSize > 1 ? '' : '<button class="btn ok" data-act="hit" id="btn-hit"><span class="ico">✓</span>¡Acierto!</button>'}
     </div>
-    <p class="tiny muted center-text kbd-hint">Teclado: → o espacio = acierto · ← = pasar · P = pausa</p>
+    <p class="tiny muted center-text kbd-hint">Teclado: ${cardSize > 1 ? '1 a ' + cardSize + ' = marcar palabra · ← = pasar tarjeta' : '→ o espacio = acierto · ← = pasar'} · P = pausa</p>
   </section>`);
 
   const $timer = el.querySelector('#timer');
@@ -47,7 +48,7 @@ export function playScreen(app) {
   const $hits = el.querySelector('#hits');
   const $skips = el.querySelector('#skips');
   const $btnSkip = el.querySelector('#btn-skip');
-  const $btnHit = el.querySelector('#btn-hit');
+  const $btnHit = el.querySelector('#btn-hit') || { disabled: false };
   if (!G.canSkip(game)) $btnSkip.disabled = true;
 
   let interval = null;
@@ -60,42 +61,60 @@ export function playScreen(app) {
   const updateCounters = () => {
     const { hits, skips } = G.countResults(cur.words);
     $hits.textContent = hits;
-    $skips.textContent = mode.survival ? Math.max(0, startLives - skips) : skips;
+    $skips.textContent = mode.survival ? Math.max(0, startLives - G.passedCards(cur.words)) : skips;
   };
 
   const renderWord = (animate = true) => {
-    const w = G.currentWord(game);
-    if (!w) {
+    const card = G.currentCard(game);
+    if (!card.length || G.cardDone(game)) {
       $card.innerHTML = `<p class="muted">No quedan palabras disponibles con estos filtros.</p>
         <button class="btn primary" data-act="end-now">Terminar la ronda</button>`;
       $btnHit.disabled = $btnSkip.disabled = true;
       return;
     }
-    const cat = app.bank.category(w.cat);
-    const { main, hint } = splitHint(w.text);
     $card.classList.remove('enter');
-    $card.innerHTML = `<div class="meta"><span>${cat.icon} ${esc(cat.name)}</span><span class="level-badge level-${w.level}">${levelName(w.level)}</span></div>
-      <div class="word" style="--size:${wordSize(main)}px">${esc(main)}</div>${hint ? `<div class="word-hint">${esc(hint)}</div>` : ''}`;
+    if (cardSize === 1) {
+      const w = card[0];
+      const cat = app.bank.category(w.cat);
+      const { main, hint } = splitHint(w.text);
+      $card.innerHTML = `<div class="meta"><span>${cat.icon} ${esc(cat.name)}</span><span class="level-badge level-${w.level}">${levelName(w.level)}</span></div>
+        <div class="word" style="--size:${wordSize(main)}px">${esc(main)}</div>${hint ? `<div class="word-hint">${esc(hint)}</div>` : ''}`;
+    } else {
+      const n = G.currentCardIndex(game) + 1;
+      $card.innerHTML = `<div class="card-head"><span>Tarjeta ${n}</span><span>Tocá cada palabra que adivinen</span></div>
+        <div class="card-words">${card
+          .map((w, k) => {
+            const cat = app.bank.category(w.cat);
+            const { main, hint } = splitHint(w.text);
+            return `<button class="card-word${w.result === 'hit' ? ' done' : ''}" data-act="toggle" data-i="${w.index}" aria-pressed="${w.result === 'hit'}">
+              <span class="num">${w.result === 'hit' ? '✓' : k + 1}</span>
+              <span class="txt"><b>${esc(main)}</b><small>${cat.icon} ${esc(cat.name)}${hint ? ` · ${esc(hint)}` : ''}</small></span>
+              <span class="level-dot level-${w.level}" title="${levelName(w.level)}"></span></button>`;
+          })
+          .join('')}</div>`;
+    }
+    $btnSkip.disabled = !G.canSkip(game);
     if (animate) {
       void $card.offsetWidth;
       $card.classList.add('enter');
     }
   };
 
-  /** Pide la próxima palabra respetando el filtro de la ronda (con alternativa si se agota). */
+  /** Saca la próxima tarjeta respetando el filtro de la ronda (con alternativa si se agota). */
   const nextWord = () => {
-    let r = app.nextWord(G.roundFilter(game));
-    if (!r && cur.category) {
-      // La categoría sorteada se agotó: se sigue con todas las categorías de la partida.
-      r = app.nextWord({ categories: game.config.categories, levels: G.roundFilter(game).levels });
-      if (r && !fallbackNotified) {
+    let r = app.nextCard(G.roundFilter(game), cardSize);
+    if (r.words.length < cardSize && cur.category) {
+      // La categoría sorteada se agotó: se completa con todas las categorías de la partida.
+      const extra = app.nextCard({ categories: game.config.categories, levels: G.roundFilter(game).levels }, cardSize - r.words.length);
+      r = { words: [...r.words, ...extra.words], historyExhausted: r.historyExhausted || extra.historyExhausted };
+      if (extra.words.length && !fallbackNotified) {
         toast('Se agotaron las palabras de esa categoría: siguen otras.');
         fallbackNotified = true;
       }
     }
-    if (!r) return false;
+    if (!r.words.length) return false;
     if (r.historyExhausted) app.flags.historyExhausted = true;
-    G.showWord(game, r.word);
+    G.showCard(game, r.words);
     return true;
   };
 
@@ -142,13 +161,8 @@ export function playScreen(app) {
     setTimeout(() => app.go('result'), 1300);
   };
 
-  const mark = (result) => {
-    if (ended || !cur.timer?.running || Date.now() < lockUntil) return;
-    if (result === 'skip' && !G.canSkip(game)) return;
-    if (!G.currentWord(game)) return;
-    lockUntil = Date.now() + 180; // evita contar dos veces un doble toque accidental
-    const { roundOver } = G.markWord(game, result);
-    if (result === 'hit') {
+  const feedback = (ok) => {
+    if (ok) {
       sound.hit();
       buzz(25);
     } else {
@@ -157,15 +171,55 @@ export function playScreen(app) {
     }
     $card.classList.remove('flash-ok', 'flash-skip');
     void $card.offsetWidth;
-    $card.classList.add(result === 'hit' ? 'flash-ok' : 'flash-skip');
+    $card.classList.add(ok ? 'flash-ok' : 'flash-skip');
+  };
+
+  const canAct = () => !ended && cur.timer?.running && Date.now() >= lockUntil;
+
+  /** Tarjeta completa o pasada: sale la siguiente. */
+  const afterCardChange = (roundOver) => {
     updateCounters();
     if (roundOver) {
       app.saveGame();
       return endRound('lives');
     }
-    nextWord();
-    app.saveGame();
-    renderWord();
+    if (G.cardDone(game)) {
+      if (cardSize > 1 && G.currentCard(game).every((w) => w.result === 'hit')) toast('¡Tarjeta completa!', 1200);
+      nextWord();
+      app.saveGame();
+      renderWord();
+    } else {
+      app.saveGame();
+      renderWord(false);
+    }
+  };
+
+  /** Marca o desmarca una palabra de la tarjeta. */
+  const toggle = (index) => {
+    if (!canAct()) return;
+    const w = cur.words[index];
+    if (!w || w.result === 'skip') return;
+    lockUntil = Date.now() + 120; // evita contar dos veces un doble toque accidental
+    G.toggleHit(game, index);
+    feedback(cur.words[index].result === 'hit');
+    afterCardChange(false);
+  };
+
+  /** Modo una palabra por tarjeta: acierto o pasar. Varias palabras: pasar tarjeta. */
+  const mark = (result) => {
+    if (!canAct()) return;
+    if (result === 'skip' && !G.canSkip(game)) return;
+    const w = G.currentWord(game);
+    if (!w) return;
+    lockUntil = Date.now() + 180;
+    if (result === 'hit') {
+      G.toggleHit(game, w.index);
+      feedback(true);
+      return afterCardChange(false);
+    }
+    const { roundOver } = G.passCard(game);
+    feedback(false);
+    afterCardChange(roundOver);
   };
 
   /* ---------- Superposiciones ---------- */
@@ -225,7 +279,7 @@ export function playScreen(app) {
   const showPaused = () => {
     tick();
     const secs = Math.ceil(G.remainingMs(game) / 1000);
-    showOverlay(`<h2>Pausa</h2><p class="muted">Quedan ${secs} segundos. La palabra está oculta.</p>
+    showOverlay(`<h2>Pausa</h2><p class="muted">Quedan ${secs} segundos. Las palabras están ocultas.</p>
       <button class="btn ok big" data-act="resume">▶ Reanudar</button>
       <button class="btn" data-act="end-now">Terminar la ronda ahora</button>
       <button class="btn ghost" data-act="exit">Guardar y salir al menú</button>`);
@@ -253,6 +307,7 @@ export function playScreen(app) {
       app.go('menu');
     },
     hit: () => mark('hit'),
+    toggle: (b) => toggle(Number(b.dataset.i)),
     skip: () => mark('skip'),
     pause,
   };
@@ -261,7 +316,10 @@ export function playScreen(app) {
 
   const onKey = (e) => {
     if (overlay || e.repeat) return;
-    if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'Enter') {
+    if (cardSize > 1 && /^[1-9]$/.test(e.key)) {
+      const w = G.currentCard(game)[Number(e.key) - 1];
+      if (w) toggle(w.index);
+    } else if (cardSize === 1 && (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'Enter')) {
       e.preventDefault();
       mark('hit');
     } else if (e.key === 'ArrowLeft' || e.key === 'Backspace') {
@@ -278,13 +336,13 @@ export function playScreen(app) {
   const mounted = () => {
     if (game.phase === 'ready') {
       $num.textContent = Math.round(G.roundDurationMs(game) / 1000);
-      $card.innerHTML = '<p class="muted">La palabra aparece cuando empieza el tiempo.</p>';
+      $card.innerHTML = '<p class="muted">Las palabras aparecen cuando empieza el tiempo.</p>';
       showReady();
       return;
     }
     // Retomando una ronda en curso (por ejemplo, después de recargar).
     updateCounters();
-    if (!G.currentWord(game) && G.remainingMs(game) > 0) nextWord();
+    if (G.cardDone(game) && G.remainingMs(game) > 0) nextWord();
     if (cur.timer.running) {
       renderWord(false);
       if (app.settings.keepAwake) keepAwake(true);

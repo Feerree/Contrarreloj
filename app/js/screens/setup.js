@@ -12,6 +12,7 @@ function initialConfig(app) {
   const base = structuredClone(app.settings.lastConfig || DEFAULT_CONFIG);
   base.roundSeconds = app.settings.roundSeconds;
   base.boardSize = app.settings.boardSize;
+  base.cardSize = base.cardSize || app.settings.cardSize || 5;
   const enabled = new Set(app.enabledCategories().map((c) => c.id));
   base.categories = (base.categories?.length ? base.categories : [...enabled]).filter((c) => enabled.has(c));
   if (!base.categories.length) base.categories = [...enabled];
@@ -214,7 +215,10 @@ function numberRow(label, key, value, step, min, max, hint = '') {
 
 function stepOptions(app, cfg) {
   const m = MODES[cfg.mode];
-  const rows = [numberRow('Duración de la ronda', 'roundSeconds', cfg.roundSeconds, 5, 15, 300)];
+  const rows = [
+    numberRow('Duración de la ronda', 'roundSeconds', cfg.roundSeconds, 5, 15, 300),
+    numberRow('Palabras por tarjeta', 'cardSize', cfg.cardSize || 5, 1, 1, 6, 'El original usa 5'),
+  ];
   if (m.board) rows.push(numberRow('Casilleros', 'boardSize', cfg.boardSize, 2, 10, 80, 'El original tiene 34'));
   if (m.fixedRounds) {
     rows.push(numberRow('Rondas por equipo', 'roundsPerTeam', cfg.roundsPerTeam, 1, 1, 20));

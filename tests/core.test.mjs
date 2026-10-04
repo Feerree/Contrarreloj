@@ -380,3 +380,55 @@ test('almacenamiento: guarda, lee y exporta/importa respaldos', () => {
   assert.ok(mem.has('2contrarreloj.' + KEYS.game));
   assert.throws(() => store2.importAll({ foo: 1 }));
 });
+
+/* ---------- Tarjetas de varias palabras ---------- */
+
+const card = (prefix, n = 5) => Array.from({ length: n }, (_, i) => ({ id: `${prefix}${i}`, text: `${prefix}${i}`, cat: 'animales', level: 1 }));
+
+test('tarjeta de 5: se marcan aciertos en cualquier orden, se deshacen y pasar cuenta las restantes', () => {
+  const s = twoTeams();
+  assert.equal(s.config.cardSize, 5);
+  G.chooseDescriber(s, 0);
+  G.rollForTurn(s, fixedRng([0]));
+  G.startRound(s, 0);
+  G.showCard(s, card('a'));
+  assert.equal(G.currentCard(s).length, 5);
+  assert.throws(() => G.showCard(s, card('b')), 'no se puede sacar otra con la tarjeta en juego');
+  G.toggleHit(s, 3);
+  G.toggleHit(s, 0);
+  G.toggleHit(s, 4);
+  G.toggleHit(s, 4); // deshacer
+  assert.equal(G.countResults(s.current.words).hits, 2);
+  G.passCard(s);
+  assert.deepEqual(G.countResults(s.current.words), { hits: 2, skips: 3 });
+  assert.equal(G.cardDone(s), true);
+  G.showCard(s, card('b'));
+  for (let i = 5; i < 10; i++) G.toggleHit(s, i);
+  assert.equal(G.cardDone(s), true, 'tarjeta completa');
+  assert.equal(G.currentCardIndex(s), 1);
+  assert.equal(new Set(s.usedIds).size, 10);
+});
+
+test('supervivencia con tarjetas: cada tarjeta pasada cuesta una sola vida', () => {
+  const s = twoTeams({ mode: 'supervivencia', lives: 2, targetPoints: 50 });
+  G.chooseDescriber(s, 0);
+  G.startRound(s, 0);
+  G.showCard(s, card('a'));
+  G.toggleHit(s, 0);
+  assert.equal(G.passCard(s).roundOver, false); // 4 palabras pasadas = 1 vida
+  G.showCard(s, card('b'));
+  assert.equal(G.passCard(s).roundOver, true); // segunda tarjeta: sin vidas
+  G.finishRound(s, 'lives', 1000);
+  assert.equal(G.roundOutcome(s, s.current).livesLost, 2);
+});
+
+test('"sin pasar" impide pasar la tarjeta', () => {
+  const s = twoTeams();
+  s.current.challenge = 'sinpasar';
+  G.chooseDescriber(s, 0);
+  G.rollForTurn(s, fixedRng([0]));
+  G.startRound(s, 0);
+  G.showCard(s, card('a'));
+  G.passCard(s);
+  assert.equal(G.countResults(s.current.words).skips, 0);
+});

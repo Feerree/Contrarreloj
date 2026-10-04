@@ -16,8 +16,8 @@ export function rulesScreen(app) {
       <ol class="rules-list">
         <li>La app indica qué equipo juega y sugiere quién describe (rota en cada turno).</li>
         <li>Se tira el dado: puede salir <b>0, 1 o 2</b>.</li>
-        <li>Arranca el reloj (60 segundos por defecto). Quien describe ve las palabras y las explica <b>sin decirlas</b>, ni partes de ellas, ni traducciones.</li>
-        <li>Su equipo adivina. <b>✓ Acierto</b> suma; <b>✗ Pasar</b> salta a la siguiente.</li>
+        <li>Arranca el reloj (60 segundos por defecto). Quien describe ve una <b>tarjeta con 5 palabras</b> y las explica en el orden que quiera, <b>sin decirlas</b>, ni partes de ellas, ni traducciones.</li>
+        <li>Cada palabra que su equipo adivina se toca en la tarjeta y queda tachada (si fue un error, se toca de nuevo). Al completar la tarjeta sale otra. <b>Pasar tarjeta</b> la descarta y las palabras que faltaban cuentan como pasadas.</li>
         <li>Al terminar el tiempo se calcula el avance: <b>aciertos − dado</b>. Si da negativo, el equipo no avanza (nunca retrocede).</li>
         <li>Gana el primer equipo que llega a la meta.</li>
       </ol>

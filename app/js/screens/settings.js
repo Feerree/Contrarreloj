@@ -13,6 +13,8 @@ export function settingsScreen(app) {
       <h3 style="margin:0">Partidas nuevas</h3>
       <div class="row between"><div><b>Duración de la ronda</b><p class="small muted">Predeterminado: 60 s</p></div>
         <div class="stepper"><button data-act="num" data-key="roundSeconds" data-step="-5" aria-label="Menos tiempo">−</button><output data-key="roundSeconds">${s.roundSeconds} s</output><button data-act="num" data-key="roundSeconds" data-step="5" aria-label="Más tiempo">+</button></div></div>
+      <div class="row between"><div><b>Palabras por tarjeta</b><p class="small muted">Predeterminado: 5</p></div>
+        <div class="stepper"><button data-act="num" data-key="cardSize" data-step="-1" aria-label="Menos palabras">−</button><output data-key="cardSize">${s.cardSize}</output><button data-act="num" data-key="cardSize" data-step="1" aria-label="Más palabras">+</button></div></div>
       <div class="row between"><div><b>Casilleros del tablero</b><p class="small muted">Predeterminado: 34</p></div>
         <div class="stepper"><button data-act="num" data-key="boardSize" data-step="-2" aria-label="Menos casilleros">−</button><output data-key="boardSize">${s.boardSize}</output><button data-act="num" data-key="boardSize" data-step="2" aria-label="Más casilleros">+</button></div></div>
     </div>
@@ -45,7 +47,7 @@ export function settingsScreen(app) {
     back: () => app.go('menu'),
     num: (b) => {
       const key = b.dataset.key;
-      const [min, max] = key === 'roundSeconds' ? [15, 300] : [10, 80];
+      const [min, max] = key === 'roundSeconds' ? [15, 300] : key === 'cardSize' ? [1, 6] : [10, 80];
       const v = Math.max(min, Math.min(max, s[key] + Number(b.dataset.step)));
       app.saveSettings({ [key]: v, lastConfig: s.lastConfig ? { ...s.lastConfig, [key]: v } : null });
       el.querySelector(`output[data-key="${key}"]`).textContent = key === 'roundSeconds' ? `${v} s` : v;

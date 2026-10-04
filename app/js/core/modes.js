@@ -59,9 +59,9 @@ export const MODES = {
     id: 'supervivencia',
     name: 'Supervivencia',
     icon: '❤️',
-    short: 'Cada palabra pasada cuesta una vida.',
+    short: 'Cada tarjeta pasada cuesta una vida.',
     description:
-      'Cada equipo tiene vidas para toda la partida y cada palabra que pasa le quita una. Si se queda sin vidas, queda eliminado. Gana el primero que llega al objetivo de puntos o el último que sobrevive.',
+      'Cada equipo tiene vidas para toda la partida y cada tarjeta que pasa le quita una. Si se queda sin vidas, queda eliminado. Gana el primero que llega al objetivo de puntos o el último que sobrevive.',
     board: false,
     die: 'never',
     survival: true,
@@ -95,7 +95,7 @@ export const CHALLENGES = [
     id: 'sinpasar',
     name: 'Sin pasar',
     icon: '🚫',
-    text: 'Prohibido pasar palabras. Hasta adivinarla, no sale otra.',
+    text: 'Prohibido pasar tarjetas: hasta adivinar todas sus palabras, no sale otra.',
     noSkip: true,
   },
   {

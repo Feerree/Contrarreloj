@@ -512,3 +512,46 @@ select.input { appearance: none; background-image: linear-gradient(45deg, transp
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
 }
+
+/* ---------- Tarjeta de varias palabras ---------- */
+.word-card.multi { justify-content: flex-start; align-items: stretch; padding: 14px; gap: 10px; text-align: left; }
+.card-head { display: flex; justify-content: space-between; gap: 10px; font-size: 13px; color: var(--muted); font-weight: 600; padding: 0 4px; }
+.card-head span:first-child { color: var(--accent); font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; }
+.card-words { display: flex; flex-direction: column; gap: 8px; flex: 1; }
+.card-word {
+  flex: 1; min-height: 56px; display: flex; align-items: center; gap: 12px; text-align: left;
+  border: 2px solid var(--line); border-radius: 18px; background: #ffffff0d; padding: 8px 12px;
+  transition: background 0.15s, border-color 0.15s, transform 0.08s; touch-action: manipulation;
+}
+.card-word:active { transform: scale(0.98); }
+.card-word .num {
+  width: 34px; height: 34px; border-radius: 50%; flex: none; display: grid; place-items: center;
+  background: var(--surface-2); font-family: var(--font-display); font-weight: 800; font-size: 17px;
+}
+.card-word .txt { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.card-word .txt b { font-family: var(--font-display); font-size: clamp(19px, 5.6vw, 26px); line-height: 1.08; overflow-wrap: anywhere; }
+.card-word .txt small { color: var(--muted); font-size: 12px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.card-word .level-dot { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+.level-dot.level-1 { background: var(--ok); }
+.level-dot.level-2 { background: var(--accent); }
+.level-dot.level-3 { background: var(--bad); }
+.card-word.done { background: #3ddc9726; border-color: var(--ok); }
+.card-word.done .num { background: var(--ok); color: #04261a; }
+.card-word.done .txt b { text-decoration: line-through; text-decoration-thickness: 3px; opacity: 0.75; }
+.play-actions.single { grid-template-columns: 1fr; }
+.play-actions.single .btn { min-height: 72px; flex-direction: row; gap: 10px; }
+.word-card.multi { min-height: 0; }
+@media (max-height: 700px) {
+  .play { gap: 8px; }
+  .word-card.multi { padding: 10px; gap: 6px; border-radius: 22px; }
+  .card-head { display: none; }
+  .card-words { gap: 6px; }
+  .card-word { min-height: 44px; padding: 4px 10px; border-radius: 14px; }
+  .card-word .num { width: 28px; height: 28px; font-size: 15px; }
+  .card-word .txt b { font-size: 19px; }
+  .card-word .txt small { display: none; }
+  .counter { padding: 4px 12px; }
+  .counter b { font-size: 22px; }
+  .play-actions.single .btn { min-height: 60px; }
+  .play .kbd-hint { display: none; }
+}

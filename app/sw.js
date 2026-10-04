@@ -1,6 +1,6 @@
 // ARCHIVO GENERADO por tools/build-sw.mjs — no editar a mano.
 // Estrategia: precarga de todos los archivos y "cache first" (funciona 100% sin conexión).
-const VERSION = '8efb070b34';
+const VERSION = '26c2c31adc';
 const CACHE = 'contrarreloj-' + VERSION;
 const ASSETS = [
   "./",

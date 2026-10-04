@@ -27,6 +27,7 @@ export const DEFAULT_CONFIG = {
   roundsPerTeam: 5, // solo modo libre
   lives: 5, // solo supervivencia
   targetPoints: 25, // solo supervivencia
+  cardSize: 5, // palabras por tarjeta
 };
 
 const clampInt = (v, min, max, def) => {
@@ -58,6 +59,7 @@ export function normalizeConfig(cfg = {}) {
     roundsPerTeam: clampInt(c.roundsPerTeam, 1, 20, 5),
     lives: clampInt(c.lives, 1, 20, 5),
     targetPoints: clampInt(c.targetPoints, 5, 200, 25),
+    cardSize: clampInt(c.cardSize, 1, 6, 5),
   };
 }
 
@@ -295,37 +297,93 @@ export function isPaused(state) {
   return !!state.current?.timer && !state.current.timer.running;
 }
 
-/** Palabra en pantalla (la última sin resultado), o null. */
-export function currentWord(state) {
-  const w = state.current?.words;
-  const last = w && w[w.length - 1];
-  return last && last.result === null ? last : null;
+/* ---------- Tarjetas ----------
+ * Como en el juego físico, se muestran tarjetas de varias palabras (5 por defecto).
+ * Quien describe elige el orden; cada palabra adivinada se marca con un toque.
+ * "Pasar tarjeta" descarta las palabras que faltan (cuentan como pasadas) y saca otra.
+ * Si se aciertan todas, sale la siguiente tarjeta automáticamente.
+ */
+
+/** Número de la tarjeta en juego (o -1 si todavía no salió ninguna). */
+export function currentCardIndex(state) {
+  const w = state.current?.words || [];
+  return w.length ? w[w.length - 1].card ?? w.length - 1 : -1;
 }
 
-/** Agrega la próxima palabra a la ronda (ya elegida por pickWord). */
-export function showWord(state, word) {
+/** Palabras de la tarjeta en juego (con su índice dentro de la ronda). */
+export function currentCard(state) {
+  const n = currentCardIndex(state);
+  if (n < 0) return [];
+  return state.current.words.map((w, i) => ({ ...w, index: i })).filter((w) => (w.card ?? w.index) === n);
+}
+
+/** ¿La tarjeta en juego está completa (todas acertadas o pasadas)? */
+export function cardDone(state) {
+  const card = currentCard(state);
+  return !card.length || card.every((w) => w.result !== null);
+}
+
+/** Agrega una tarjeta nueva con las palabras ya elegidas (pickWord). */
+export function showCard(state, words) {
   assertPhase(state, 'play');
-  if (currentWord(state)) throw new Error('Ya hay una palabra en pantalla');
-  state.current.words.push({ id: word.id, text: word.text, cat: word.cat, level: word.level, result: null });
-  state.usedIds.push(word.id);
+  if (!cardDone(state)) throw new Error('Todavía hay una tarjeta en juego');
+  const n = currentCardIndex(state) + 1;
+  for (const word of words) {
+    state.current.words.push({ id: word.id, text: word.text, cat: word.cat, level: word.level, result: null, card: n });
+    state.usedIds.push(word.id);
+  }
+}
+
+/** Compatibilidad: una tarjeta de una sola palabra. */
+export function showWord(state, word) {
+  showCard(state, [word]);
+}
+
+/** Primera palabra sin responder de la tarjeta en juego, o null. */
+export function currentWord(state) {
+  return currentCard(state).find((w) => w.result === null) || null;
+}
+
+/** Acierto en una palabra de la tarjeta (toca de nuevo para deshacerlo). */
+export function toggleHit(state, wordIndex) {
+  assertPhase(state, 'play');
+  const card = currentCard(state);
+  const w = card.find((x) => x.index === wordIndex);
+  if (!w || w.result === 'skip') return;
+  state.current.words[wordIndex].result = w.result === 'hit' ? null : 'hit';
+}
+
+/** Cantidad de tarjetas pasadas en una lista de palabras (en supervivencia, cada una cuesta una vida). */
+export function passedCards(words) {
+  const cards = new Set();
+  words.forEach((w, i) => w.result === 'skip' && cards.add(w.card ?? `w${i}`));
+  return cards.size;
 }
 
 /**
- * Marca la palabra actual como acertada o pasada.
+ * Pasa la tarjeta: las palabras sin acertar cuentan como pasadas.
  * Devuelve { roundOver } si en supervivencia el equipo se quedó sin vidas.
  */
-export function markWord(state, result) {
+export function passCard(state) {
   assertPhase(state, 'play');
-  const w = currentWord(state);
-  if (!w) return { roundOver: false };
-  if (result === 'skip' && !canSkip(state)) return { roundOver: false };
-  w.result = result === 'hit' ? 'hit' : 'skip';
-  if (modeOf(state).survival && w.result === 'skip') {
+  if (!canSkip(state) || cardDone(state)) return { roundOver: false };
+  for (const w of currentCard(state)) if (w.result === null) state.current.words[w.index].result = 'skip';
+  if (modeOf(state).survival) {
     const ev = evaluate(state);
-    const lost = state.current.words.filter((x) => x.result === 'skip').length;
-    if (ev.livesLeft[state.current.team] - lost <= 0) return { roundOver: true };
+    if (ev.livesLeft[state.current.team] - passedCards(state.current.words) <= 0) return { roundOver: true };
   }
   return { roundOver: false };
+}
+
+/** Compatibilidad con tarjetas de una palabra: acierta o pasa la palabra actual. */
+export function markWord(state, result) {
+  const w = currentWord(state);
+  if (!w) return { roundOver: false };
+  if (result === 'hit') {
+    toggleHit(state, w.index);
+    return { roundOver: false };
+  }
+  return passCard(state);
 }
 
 /** Termina la ronda (por tiempo, sin vidas o a pedido) y pasa a la revisión. */
@@ -376,7 +434,7 @@ export function roundOutcome(state, r) {
     }
   } else if (mode.survival) {
     points = hits;
-    livesLost = skips;
+    livesLost = passedCards(r.words);
   } else {
     points = usesDie(state) ? computeAdvance(hits, die) : hits;
   }

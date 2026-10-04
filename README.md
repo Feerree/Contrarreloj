@@ -4,7 +4,7 @@ Juego de descripción por equipos para jugar con amigos alrededor de un celular.
 
 - **Más de 15.000 conceptos originales** (15.103 en la versión actual) en 34 categorías y 3 niveles de dificultad (ver [`docs/BANCO.md`](docs/BANCO.md)).
 - **6 modalidades:** Clásico, Progresivo, Desafío, Ruleta temática, Libre y Supervivencia.
-- Tablero de 34 casilleros, dado 0-1-2 y la penalización **avance = máx(0, aciertos − dado)**.
+- Tarjetas de 5 palabras (configurable de 1 a 6), tablero de 34 casilleros, dado 0-1-2 y la penalización **avance = máx(0, aciertos − dado)**.
 - Funciona **sin Internet** después de la primera carga y se puede **instalar** como app (PWA).
 - **Costo cero:** sin servidores, sin cuentas y sin dependencias en producción.
 
@@ -90,7 +90,7 @@ Las **palabras propias del grupo** se agregan desde la app (*Palabras → Mis pa
 
 ## Cómo modificar configuraciones
 
-- **Desde la app**, en *Configuración*: duración de la ronda, casilleros, sonido, vibración, cuenta regresiva y pantalla encendida. También están el respaldo (exportar/importar) y el borrado de datos.
+- **Desde la app**, en *Configuración*: duración de la ronda, palabras por tarjeta, casilleros, sonido, vibración, cuenta regresiva y pantalla encendida. También están el respaldo (exportar/importar) y el borrado de datos.
 - **En cada partida** (paso 3 de la configuración): tiempo, casilleros, categorías, dificultad y opciones del modo (rondas, vidas, puntos, dado).
 - **En el código**:
   - Desafíos y textos de los modos: `app/js/core/modes.js`.

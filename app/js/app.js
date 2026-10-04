@@ -9,6 +9,7 @@ import { configureFeedback } from './ui/feedback.js';
 export const DEFAULT_SETTINGS = {
   roundSeconds: 60,
   boardSize: 34,
+  cardSize: 5,
   sound: true,
   vibration: true,
   keepAwake: true,
@@ -105,14 +106,27 @@ class App {
 
   /* ---------- Palabras ---------- */
   /** Elige la siguiente palabra para el filtro dado y la registra en el historial. */
-  nextWord(filter) {
-    const used = new Set(this.game.usedIds);
+  nextWord(filter, extraUsed = []) {
+    const used = new Set([...this.game.usedIds, ...extraUsed]);
     const r = pickWord(this.bank, { ...filter, usedInGame: used, history: this.history });
     if (r) {
       this.history.set(r.word.id, historyStamp());
       saveHistory(this.store, this.history);
     }
     return r;
+  }
+
+  /** Elige hasta n palabras distintas para una tarjeta. Devuelve { words, historyExhausted }. */
+  nextCard(filter, n) {
+    const words = [];
+    let historyExhausted = false;
+    for (let i = 0; i < n; i++) {
+      const r = this.nextWord(filter, words.map((w) => w.id));
+      if (!r) break;
+      words.push(r.word);
+      historyExhausted ||= r.historyExhausted;
+    }
+    return { words, historyExhausted };
   }
 
   resetHistory() {
