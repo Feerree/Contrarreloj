@@ -10,7 +10,7 @@ Trivia Contrarreloj Royal es un juego de descripción por equipos. En cada turno
 
 | Problema del juego físico | Solución digital |
 | --- | --- |
-| Las cartas se memorizan después de muchas partidas. | Banco original de más de 5.000 conceptos, con historial que prioriza los no vistos. |
+| Las cartas se memorizan después de muchas partidas. | Banco original de más de 15.000 conceptos, con historial que prioriza los no vistos. |
 | Poca variedad temática y una sola dificultad. | 34 categorías, 3 niveles y filtros combinables. |
 | El reloj de arena es impreciso y se discute. | Cronómetro basado en la hora real del sistema, con sonidos y aviso de 10 s. |
 | Se pierde la cuenta de aciertos y de quién juega. | Contador en pantalla, alternancia automática y registro de cada ronda. |

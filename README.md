@@ -2,7 +2,7 @@
 
 Juego de descripción por equipos para jugar con amigos alrededor de un celular. Está inspirado en el juego de mesa *Trivia Contrarreloj Royal*, pero tiene contenido propio y más funciones.
 
-- **15.104 conceptos originales** en 34 categorías y 3 niveles de dificultad (ver [`docs/BANCO.md`](docs/BANCO.md)).
+- **Más de 15.000 conceptos originales** (15.103 en la versión actual) en 34 categorías y 3 niveles de dificultad (ver [`docs/BANCO.md`](docs/BANCO.md)).
 - **6 modalidades:** Clásico, Progresivo, Desafío, Ruleta temática, Libre y Supervivencia.
 - Tablero de 34 casilleros, dado 0-1-2 y la penalización **avance = máx(0, aciertos − dado)**.
 - Funciona **sin Internet** después de la primera carga y se puede **instalar** como app (PWA).

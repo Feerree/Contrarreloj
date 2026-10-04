@@ -10,7 +10,7 @@ export function bankScreen(app, { tab = 'cats' } = {}) {
     <div class="tabs" role="tablist">
       <button role="tab" data-act="tab" data-tab="cats" aria-selected="${tab === 'cats'}">Categorías</button>
       <button role="tab" data-act="tab" data-tab="search" aria-selected="${tab === 'search'}">Buscar</button>
-      <button role="tab" data-act="tab" data-tab="custom" aria-selected="${tab === 'custom'}">Mis palabras</button>
+      <button role="tab" data-act="tab" data-tab="custom" aria-selected="${tab === 'custom'}">Propias</button>
     </div>
     <div id="body" class="stack"></div>
   </section>`);
